@@ -1,0 +1,125 @@
+# Translation of Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-09 07:55:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release)\n"
+
+#: app/functions-utils.php:376
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: resources/views/debug.php:27
+msgid "Debug Tools"
+msgstr "ابزارهای اشکال زدایی"
+
+#: app/routes.php:140 app/routes.php:141
+msgid "Debug"
+msgstr "اشکال زدایی"
+
+#: app/routes.php:131 app/routes.php:132
+msgid "Import/Export"
+msgstr "درون ریزی/برون ریزی"
+
+#: app/routes.php:122 app/routes.php:123
+msgid "Builder"
+msgstr "سازنده"
+
+#: app/routes.php:103 app/routes.php:104
+msgid "Get Pro"
+msgstr "دریافت نسخه پرو"
+
+#: app/routes.php:84 app/routes.php:85
+msgid "About Us"
+msgstr "درباره ما"
+
+#: app/settings.php:64
+msgid "Settings Updated"
+msgstr "تنظیمات بروزرسانی شد"
+
+#: app/functions-addons.php:182 app/functions-addons.php:230
+msgid "Inactive"
+msgstr "غیرفعال"
+
+#: app/functions-addons.php:103
+msgid "Plugin deactivated."
+msgstr "افزونه غیرفعال شد."
+
+#: app/lpage.php:128 app/lpage.php:130
+msgid "New Page"
+msgstr "برگه‌ی تازه"
+
+#: app/license.php:12
+msgid "Upgrade PHP"
+msgstr "ارتقا PHP"
+
+#: app/routes.php:57 app/routes.php:58
+msgid "Subscribers"
+msgstr "مشترکین"
+
+#: app/routes.php:66 app/routes.php:67
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: app/review.php:115
+msgid "I already did"
+msgstr "من قبلا این کار انجام دادم"
+
+#: app/review.php:114
+msgid "Nope, maybe later"
+msgstr "نه، شاید بعدا"
+
+#: app/review.php:113
+msgid "Ok, you deserve it"
+msgstr "باشه، سزاوار این کار هستی"
+
+#: app/functions-utils.php:500
+msgid "Custom HTML"
+msgstr "سفارشی سازی  اچ تی ام ال"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "برترین افزونه وردپرس برای ساخت صفحه به زودی، در دست ساخت و حالت در دست تعمیر."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seedprod.com"
+msgstr "https://www.seedprod.com"
+
+#: app/routes.php:48 app/routes.php:49 app/routes.php:113 app/routes.php:114
+msgid "Templates"
+msgstr "قالب‌ها"
+
+#: app/functions-utils.php:134
+msgid "Text"
+msgstr "متن"
+
+#: app/functions-utils.php:122
+msgid "Headline"
+msgstr "عنوان"
+
+#: app/review.php:98
+msgid "Yes"
+msgstr "بله"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "لطفا تنظیمات خود را وارد کنید."
+
+#: app/admin-bar-menu.php:42
+msgid "Maintenance Mode Active"
+msgstr "حالت تعمیر فعال است"
+
+#: app/admin-bar-menu.php:40
+msgid "Coming Soon Mode Active"
+msgstr "حالت به زودی فعال است"

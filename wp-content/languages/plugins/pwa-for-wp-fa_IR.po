@@ -1,0 +1,1215 @@
+# Translation of Plugins - PWA for WP &amp; AMP - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - PWA for WP &amp; AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-19 11:34:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - PWA for WP &amp; AMP - Stable (latest release)\n"
+
+#: admin/settings.php:1675
+msgid "Other custom page (Must in same origin)"
+msgstr "سایر برگه های سفارشی (باید از یک منبع باشد)"
+
+#: admin/settings.php:1671
+msgid "Other"
+msgstr "سایر"
+
+#: admin/settings.php:2563
+msgid "Give Rewards to the customers"
+msgstr "به مشتریان پاداش بدهید"
+
+#: admin/settings.php:768
+msgid "Rewards to the most loyal base of customers"
+msgstr "پاداش به وفادارترین پایگاه مشتریان"
+
+#: admin/settings.php:1004
+msgid ""
+"Create \"web-app-origin-association\" file for the apple and android.  Need to place the web-app-origin-association file in the /.well-known/ folder at the root of the app. \n"
+" example URL https://example.com/.well-known/web-app-origin-association"
+msgstr ""
+"فایل \"web-app-origin-Association\" را برای اپل و اندروید ایجاد کنید. باید فایل ارتباط وب-برنامه-منشاء را در پوشه /.well-known/ در ریشه برنامه قرار دهید.\n"
+" آدرس اینترنتی https://example.com/.well-known/web-app-origin-association"
+
+#: admin/settings.php:988
+msgid "Note: Put one url in single line"
+msgstr "توجه: یک url را در یک خط قرار دهید"
+
+#: admin/settings.php:944
+msgid "Check this to delete cookies"
+msgstr "برای حذف کوکی ها این مورد را بررسی کنید"
+
+#: admin/settings.php:567
+msgid "Enter URLs (with similar origin)"
+msgstr "آدرس های اینترنتی (با مبدأ مشابه) را وارد کنید"
+
+#: admin/settings.php:470
+msgid "Reset cookies"
+msgstr "تنظیم مجدد کوکی ها"
+
+#: pwa-for-wp.php:217
+msgid "No, not good enough"
+msgstr "نه ، به اندازه کافی خوب نیست"
+
+#: pwa-for-wp.php:216
+msgid "I already did"
+msgstr "من قبلا انجام دادم"
+
+#: pwa-for-wp.php:214
+msgid "Write us a review"
+msgstr "برای ما نظر بنویسید"
+
+#: pwa-for-wp.php:211
+msgid ""
+"Excellent! You've been using PWA For WP plugin for over a week. Hope you are enjoying it so far. We have spent countless hours developing this \n"
+"\n"
+"                 plugin for you, and we would really appreciate it if you could drop us a rating on wp.org to help us spread the word and boost our motivation.,"
+msgstr ""
+"بسیار عالی! بیش از یک هفته است که از افزونه PWA For WP استفاده می کنید. امیدوارم تا اینجا لذت برده باشید. ما ساعت های بی شماری را صرف توسعه این موضوع کرده ایم\n"
+"\n"
+"                 افزونه ای برای شما ، و ما واقعاً از آن قدردانی می کنیم اگر می توانید در wp.org برای ما رتبه بندی کنید تا به ما کمک کنید تا کلمه را گسترش دهیم و انگیزه مان را افزایش دهیم."
+
+#: admin/settings.php:2683
+msgid "Show respective language page when Multilingual avilable in PWA"
+msgstr "وقتی زبان چند زبانه در PWA موجود است صفحه زبان مربوطه را نمایش دهید"
+
+#: admin/settings.php:2677
+msgid "Multilingual"
+msgstr "چند زبانه"
+
+#: admin/settings.php:2665
+msgid "Navigation Bar"
+msgstr "نوار ناوبری"
+
+#: admin/settings.php:2653
+msgid "Quick Action"
+msgstr "واکنش سریع"
+
+#: admin/settings.php:1236
+msgid "Only on PWA"
+msgstr "فقط در PWA"
+
+#: admin/settings.php:757
+msgid "Add multilingual support for PWA APP"
+msgstr "پشتیبانی چند زبانه برای برنامه PWA اضافه کنید"
+
+#: admin/settings.php:746 admin/settings.php:2671
+msgid "Top-level pages that need to be accessible from anywhere in the app"
+msgstr "صفحات سطح بالا که باید از هرجای برنامه قابل دسترسی باشند"
+
+#: admin/settings.php:735 admin/settings.php:2659
+msgid "Quick action help users give shortcut link, common or recommended pages with in your web app"
+msgstr "اقدام سریع به کاربران کمک می کند پیوند میانبر ، صفحات رایج یا توصیه شده را در برنامه وب شما ارائه دهند"
+
+#: admin/settings.php:506
+msgid "Show only in PWA"
+msgstr "فقط در PWA نمایش داده شود"
+
+#: admin/settings.php:1824
+msgid "The status bar at the top of the screen (which usually displays the time and battery status)."
+msgstr "نوار وضعیت بالای صفحه (که معمولاً زمان و وضعیت باتری را نشان می دهد)."
+
+#: admin/settings.php:1818
+msgid "Black translucent"
+msgstr "سیاه شفاف"
+
+#: admin/settings.php:1815
+msgid "Black"
+msgstr "سیاه"
+
+#: admin/settings.php:1812
+msgid "Default"
+msgstr "پیش فرض"
+
+#: admin/settings.php:1231
+msgid "Change the background color of loader"
+msgstr "رنگ زمینه لودر را تغییر دهید"
+
+#: admin/settings.php:328
+msgid "iOS APP Status Bar"
+msgstr "نوار وضعیت اپلیکیشن IOS"
+
+#: admin/settings.php:1177
+msgid "Prefetch manifest URLs provides some control over the request priority"
+msgstr "لینک های مانیفست قبل از واکشی تا حدی کنترل اولویت درخواست را فراهم می کند"
+
+#: admin/settings.php:381
+msgid "Prefetch manifest URL link"
+msgstr "پیوند لینک مانیفست را ، از قبل واکشی کنید"
+
+#: admin/settings.php:1355
+msgid "Change Firebase push notification budge icon 96x96. Default: Chrome icon"
+msgstr "نماد اعلامیه فشار Firebase را تغییر دهید 96در96. پیش فرض: آیکون کروم"
+
+#: admin/settings.php:1349
+msgid "FCM Notification Budge Icon"
+msgstr "آیکون تکان دادن نوتیفیکیشن FCM"
+
+#: admin/settings.php:1253
+msgid "Admin"
+msgstr "مدیر"
+
+#: admin/settings.php:926
+msgid "(check) it, if you want disable PWA for loggedin users"
+msgstr "اگر می خواهید PWA را برای کاربران وارد سیستم غیرفعال کنید ، آن را بررسی کنید"
+
+#: admin/settings.php:550
+msgid "Webpushr"
+msgstr "وب پوشر"
+
+#: admin/settings.php:543
+msgid "Pushnami"
+msgstr "پوشنامی"
+
+#: admin/settings.php:456
+msgid "Remove pwa for logged in users"
+msgstr "pwa را برای کاربران وارد شده حذف کنید"
+
+#: admin/settings.php:2324
+msgid "Enter License Key"
+msgstr "کلید مجوز را وارد کنید"
+
+#: admin/settings.php:499
+msgid "Loader background color"
+msgstr "رنگ زمینه لودر"
+
+#: admin/settings.php:353 admin/settings.php:364 admin/settings.php:401
+#: admin/settings.php:425 admin/settings.php:482 admin/settings.php:533
+#: admin/settings.php:556 admin/settings.php:564 admin/settings.php:574
+#: admin/settings.php:584
+msgid " "
+msgstr " "
+
+#: admin/pwa-utility.php:74
+msgid "Plugin Activating. please wait.."
+msgstr "افزونه درحال فعالسازی. لطفا صبر کنید.."
+
+#: admin/pwa-utility.php:69
+msgid "invalid slug provided"
+msgstr "نشانی نامعتبر است."
+
+#: admin/pwa-utility.php:62
+msgid "User not authorized to access"
+msgstr "کاربر مجاز به دسترسی نیست"
+
+#: admin/settings.php:2796
+msgid "Close"
+msgstr "خروج"
+
+#: admin/settings.php:2793
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: admin/settings.php:2207
+msgid "Select Icon"
+msgstr "انتخاب آیکون"
+
+#: admin/settings.php:2206
+msgid "Splash Screen Icon"
+msgstr "آیکون صفحه نمایش اولیه"
+
+#: admin/settings.php:2205
+msgid "Application Icon"
+msgstr "آیکون برنامه"
+
+#: admin/settings.php:1622
+msgid "Background color"
+msgstr "رنگ پس‌زمینه"
+
+#: admin/settings.php:1621
+msgid "Select image (Only PNG)"
+msgstr "انتخاب تصویر (فقط PNG)"
+
+#: admin/settings.php:1604
+msgid "iOS Splash Screen Method"
+msgstr "روش صفحه نمایش اولیه iOS"
+
+#: admin/settings.php:1601
+msgid "Setup Splash Screen for iOS"
+msgstr "صفحه نمایش اولیه را برای iOS تنظیم کنید"
+
+#: admin/settings.php:1489
+msgid "Image Url"
+msgstr "نشانی تصویر"
+
+#: admin/settings.php:1480
+msgid "Redirection Url Onclick of notification"
+msgstr "تغییر مسیر آدرس کلیک نوتیفیکیشن"
+
+#: admin/settings.php:1397
+msgid "Install Plugin"
+msgstr "نصب افزونه"
+
+#: admin/settings.php:1392
+msgid "This feature requires a Free plugin which integrates with a Free Push Notification service"
+msgstr "این ویژگی به یک افزونه رایگان نیاز دارد که با یک سرویس هشدار ارسل نوتیفیکیشن رایگان ادغام شود"
+
+#: admin/settings.php:1314
+msgid "Push notification integration"
+msgstr "یکپارچه سازی ارسال نوتیفیکیشن"
+
+#: admin/settings.php:1252
+msgid "Mobile"
+msgstr "موبایل"
+
+#: admin/settings.php:1251
+msgid "Desktop"
+msgstr "دسکتاپ"
+
+#: admin/settings.php:1026 admin/settings.php:1070
+msgid "For details click here"
+msgstr "برای اطلاعات بیشتر اینجا را کلیک کنید"
+
+#: admin/settings.php:979
+msgid "Note: Put in comma separated, do not add enter in urls"
+msgstr "توجه: با کاما از هم جدا کنید ، enter را در آدرس اضافه نکنید"
+
+#: admin/settings.php:804
+msgid "Add Ons"
+msgstr "افزودنی‌ها"
+
+#: admin/settings.php:669
+msgid "Data Analytics for PWA installation growth and traffic analysis"
+msgstr "تجزیه و تحلیل داده ها برای رشد نصب PWA و تجزیه و تحلیل ترافیک"
+
+#: admin/settings.php:1994
+msgid "Enable / Disable"
+msgstr "فعال/ غیرفعال"
+
+#: admin/settings.php:935
+msgid "Enable(check) it when PWA with OneSignal or root permission functionality not working because of Cache"
+msgstr "وقتی PWA با قابلیت OneSignal یا اجازه root به دلیل Cache کار نمی کند ، آن را فعال کنید (بررسی کنید)"
+
+#: admin/settings.php:917
+msgid "Enable(check) it when you don't want to load default PWA Banner"
+msgstr "با فعال کردن این قسمت بنر پیشفرض pwa فعال میشود (بررسی نمایید)"
+
+#: admin/settings.php:449
+msgid "Remove default banner"
+msgstr "حذف بنر پیش فرض"
+
+#: admin/settings.php:1878
+msgid "By default pop up will appear on scroll"
+msgstr "به طور پیش فرض ، پاپ آپ روی پیمایش ظاهر می شود"
+
+#: admin/settings.php:513
+msgid "Loader enable on"
+msgstr "فعالسازی لود ر"
+
+#: admin/settings.php:1226
+msgid "Change the icon color of loader"
+msgstr "تغییر رنگ آیکون لودر"
+
+#: admin/settings.php:492
+msgid "Loader color"
+msgstr "رنگ لودر"
+
+#: admin/settings.php:970
+msgid "We guarantee no sensitive data is collected"
+msgstr "تضمین میکنیم که داده های حساسی جمع آوری نشده است."
+
+#: admin/settings.php:477
+msgid "Share Anonymous data for improving the UX"
+msgstr "داده های ناشناس را برای بهبود UX به اشتراک بگذارید"
+
+#: admin/settings.php:1367
+msgid " View Settings"
+msgstr "تنظیمات را مشاهده کنید"
+
+#: admin/settings.php:1367
+msgid "Push notifications has it's separate options view"
+msgstr "ارسال نوتیفیکیشن نمای گزینه های جداگانه ای دارد"
+
+#: admin/settings.php:1365
+msgid "Go to setup"
+msgstr "به تنظیمات بروید"
+
+#: admin/settings.php:156
+msgid "No"
+msgstr "خیر"
+
+#: admin/settings.php:155
+msgid "Yes"
+msgstr "آری"
+
+#: admin/settings.php:152
+msgid "Are you existing Premium Customer?"
+msgstr "آیا شما مشتری برتر هستید؟"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:907
+msgid "Just Deactivate"
+msgstr "فقط غیرفعال کنید"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:907
+msgid "Submit and Deactivate"
+msgstr "ارسال و غیرفعال کردن"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:847
+msgid "Submitting form"
+msgstr "در حال ارسال فرم"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:807
+msgid "Details (optional)"
+msgstr "جزئیات (اختیاری)"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:805
+msgid "Didn't work"
+msgstr "کار نکرد"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:804
+msgid "Only required temporarily"
+msgstr "فقط موقتاً لازم است"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:803
+msgid "Installed by mistake"
+msgstr "به اشتباه نصب شده "
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:802
+msgid "Found a better plugin"
+msgstr "افزونه بهتری پیدا کردم"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:801
+msgid "Not the features I wanted"
+msgstr " ویژگی هایی که می خواستم نبود"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:800
+msgid "Lack of documentation"
+msgstr "عدم وجود مستندات"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:799
+msgid "Set up is too difficult"
+msgstr "تنظیم خیلی دشوار است"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:797
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "قبل از اینکه پلاگین را غیرفعال کنید، آیا دلیل خود را برای انجام این کار می گویید ؟"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:796
+msgid "Sorry to see you go"
+msgstr "متاسفم که می بینم داری میری"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:765
+msgid "No Thank You"
+msgstr "سپاس از شما"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:764
+msgid "Yes Please"
+msgstr "بله لطفا!"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:755
+msgid "Thank you for opting in to tracking. Would you like to receive occasional news about this %s, including details of new features and special offers?"
+msgstr "با تشکر از شما برای اینکه ردیابی را انتخاب کردید . آیا می خواهید اخبار قدم به قدم در مورد این افزونه دریافت کنید %s, از جمله جزئیات ویژگی‌های جدید و پیشنهادات ویژه ؟"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:713
+msgid "No thanks"
+msgstr "نه تشکر"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:712
+msgid "Sure! I'd love to help"
+msgstr "حتما، من که دوست دارم!"
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:710
+msgid "Learn more."
+msgstr "بیشتر بدانید."
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:701
+msgid "Thank you for installing our %1$s. We'd like your permission to track its usage on your site and subscribe you to our newsletter. We won't record any sensitive data, only information regarding the WordPress environment and %1$s settings, which we will use to help us make improvements to the %1$s. Tracking is completely optional."
+msgstr "از شما برای نصب افزونه ما تشکر می کنیم%1$s.ما می خواهیم استفاده از آن را در سایت خود پیگیری کنیم. ما هیچ اطلاعات حساس را ضبط نمیکنیم، فقط اطلاعات مربوط به محیط سایت و تنظیمات افزونه که ما را برای کمک به بهبود افزونه‌ها یاری خواهد کرد%1$s.این ردیابی کاملا اختیاری است%1$s."
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:694
+msgid "Become a super contributor by opting in to our anonymous %1$s data collection and to our updates. We guarantee no sensitive data is collected."
+msgstr ""
+"استفاده از المنتور را دوست دارید؟ با این حساب شاید مایل باشید به برنامه جمع آوری داده به صورت ناشناس و به روز رسانی‌های ما ملحق شوید%1$s\n"
+"ما تضمین می‌کنیم که هیچ داده حساسی جمع آوری نشود."
+
+#: admin/class-pwaforwp-plugin-usage-tracker.php:259
+msgid "We can't detect any product information. This is most probably because you have not included the code snippet."
+msgstr "ما نمی توانیم اطلاعات افزونه را شناسایی کنیم. این احتمالا به این دلیل است که شما کد در فایل اصلی افزونه وجود ندارد."
+
+#. translators: %s: WP_Service_Worker_Cache_Registry.
+#: 3rd-party/wp-pwa.php:124
+msgid "Please update to PWA v0.2. Expected argument to be %s."
+msgstr "لطفا PWA v0.2 را روزرسانی کنید.%s"
+
+#: 3rd-party/wp-pwa.php:96
+msgid "Installing service worker..."
+msgstr "نصب service worker..."
+
+#: 3rd-party/wp-pwa.php:81 3rd-party/wp-pwa.php:93
+msgid "Service Worker Installation"
+msgstr "Service Worker نصب شد."
+
+#: 3rd-party/wp-pwa.php:80
+msgid "No service workers registered for the requested scope."
+msgstr "هیچ service workers برای دامنه درخواستی ثبت نشده است."
+
+#: admin/settings.php:1764
+msgid "Portrait-secondary"
+msgstr "حالت عمودی(پرتره) - ثانویه"
+
+#: admin/settings.php:1761
+msgid "Portrait-primary"
+msgstr "حالت عمودی(پرتره)-ابتدایی"
+
+#: admin/settings.php:1758
+msgid "Landscape-secondary"
+msgstr "حالت افقی(لنداسکیپ)- ثانویه"
+
+#: admin/settings.php:1755
+msgid "Landscape-primary"
+msgstr "حالت افقی(لنداسکیپ)-ابتدایی"
+
+#: admin/settings.php:1892
+msgid "Note: In IOS devices this functionality will not work."
+msgstr "توجه: در دستگاه های IOS این قابلیت کار نمی کند."
+
+#: admin/settings.php:2496
+msgid "Loading Icon Library for PWA extension"
+msgstr "بارگیری کتابخانه آیکون برای پسوند PWA"
+
+#: admin/settings.php:2494
+msgid "This feature requires"
+msgstr "این ویژگی نیاز دارد"
+
+#: admin/settings.php:2486
+msgid "Loader icon selector"
+msgstr "انتخاب آیکون لودر"
+
+#: admin/settings.php:2343
+msgid "Enter addon license key to activate updates & support."
+msgstr "برای فعال کردن به روزرسانی ها و پشتیبانی ، کلید مجوز addon را وارد کنید."
+
+#: admin/settings.php:485
+msgid "Loader"
+msgstr "لودر"
+
+#: admin/settings.php:221 admin/settings.php:525 admin/settings.php:970
+#: admin/settings.php:1004 admin/settings.php:1930 admin/settings.php:2080
+#: admin/settings.php:2716
+msgid "Learn more"
+msgstr "بیشتر بیاموزید"
+
+#: admin/settings.php:221
+msgid "PWA status verification"
+msgstr "تأیید وضعیت PWA"
+
+#: admin/settings.php:194
+msgid "UPGRADE NOW"
+msgstr "اکنون بروزرسانی کنید"
+
+#: admin/settings.php:150
+msgid "We are always available to help you with anything"
+msgstr "ما همیشه در دسترس هستیم تا در هر کاری به شما کمک کنیم"
+
+#: admin/settings.php:149
+msgid "Ask for Technical Support"
+msgstr "درخواست پشتیبانی فنی کنید"
+
+#: admin/settings.php:146
+msgid "Documentation"
+msgstr "راهنما"
+
+#: admin/settings.php:59
+msgid "Features"
+msgstr "امکانات"
+
+#: admin/settings.php:57
+msgid "Setup"
+msgstr "راه اندازی"
+
+#: admin/settings.php:463
+msgid "PWA alternative method"
+msgstr "روش جایگزین PWA"
+
+#: admin/settings.php:1794
+msgid "Minimal-ui"
+msgstr "حداقل-ui"
+
+#: admin/settings.php:1791
+msgid "Standalone"
+msgstr "مستقل"
+
+#: admin/settings.php:1788
+msgid "Fullscreen"
+msgstr "تمام صفحه"
+
+#: admin/settings.php:1785
+msgid "Device display"
+msgstr "نمایش دستگاه"
+
+#: admin/settings.php:1752
+msgid "Auto"
+msgstr "خودکار"
+
+#: admin/settings.php:1345
+msgid "Change Firebase push notification icon. Default: PWA icon"
+msgstr "آیکون ارسال نوتیفیکیشنFirebase را تغییر دهید. پیش فرض: آیکون PWA"
+
+#: admin/settings.php:1339
+msgid "FCM Push Notification Icon"
+msgstr "آیکون ارسال نوتیفیکیشن FCM"
+
+#: admin/settings.php:320
+msgid "Display"
+msgstr "نمایش"
+
+#: admin/settings.php:65
+msgid "Premium Features"
+msgstr "امکانات نسخۀ حرفه‌ای"
+
+#: admin/settings.php:25
+msgid "Upgrade To Premium"
+msgstr "ارتقا به نسخه حرفه‌ای"
+
+#: admin/settings.php:1596
+msgid "512x512 in size."
+msgstr "اندازه 512x512"
+
+#: admin/settings.php:1576
+msgid "- For Apple mobile exact sizes is necessary"
+msgstr "- برای موبایل اپل اندازه های دقیق لازم است"
+
+#: admin/settings.php:1575
+msgid "192x192 in size."
+msgstr "اندازه 192x192"
+
+#: admin/settings.php:192
+msgid "Active Development"
+msgstr "توسعه فعال"
+
+#: admin/settings.php:191
+msgid "Dedicated PWA Support"
+msgstr "اختصاصی پشتیبانی PWA"
+
+#: admin/settings.php:188
+msgid "Upgrade to Pro!"
+msgstr "ارتقا به نسخۀ حرفه‌ای"
+
+#: service-work/class-service-worker.php:600
+msgid "Sorry, you are not allowed to edit the manifest."
+msgstr "با عرض پوزش، شما اجازه‌ی ویرایش این برگه را ندارید."
+
+#: admin/settings.php:2436
+msgid "Your license key has reached its activation limit."
+msgstr "کلید مجوز شما به مرحله فعال سازی رسیده است."
+
+#: admin/settings.php:2433
+msgid "This appears to be an invalid license key."
+msgstr "به نظر می رسد این یک کلید مجوز معتبر نیست."
+
+#: admin/settings.php:2430
+msgid "Your license is not active for this URL."
+msgstr "مجوز شما برای این آدرس سایت فعال نیست."
+
+#: admin/settings.php:2426
+msgid "Invalid license."
+msgstr "مجوز نامعتبر است."
+
+#: admin/settings.php:2423
+msgid "Your license key has been disabled."
+msgstr "کلید مجوز شما غیرفعال شده است."
+
+#: admin/settings.php:2418
+msgid "Your license key expired on %s."
+msgstr "کلید مجوز شما منقضی شد %s"
+
+#: admin/settings.php:2407 admin/settings.php:2439
+msgid "An error occurred, please try again."
+msgstr "خطایی رخ داده است، لطفاً دوباره امتحان کنید."
+
+#: admin/settings.php:2334
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: admin/settings.php:2330
+msgid "Deactivate"
+msgstr "غیر فعال کردن"
+
+#: admin/settings.php:1728
+msgid "From where you want to launch PWA APP. Current start page is %s"
+msgstr "از جایی که می خواهید اپ PWA را راه اندازی کنید.%sصفحه شروع فعلی است"
+
+#: admin/settings.php:608
+msgid "Inactive"
+msgstr "غیرفعال"
+
+#: admin/settings.php:536
+msgid "OneSignal"
+msgstr "یک سیگنال"
+
+#: admin/settings.php:302
+msgid "Start Page"
+msgstr "صفحه شروع"
+
+#: admin/settings.php:190
+msgid "Premium features"
+msgstr "امکانات نسخۀ حرفه‌ای"
+
+#: admin/settings.php:116
+msgid "Compatibility"
+msgstr "سازگاری"
+
+#: admin/settings.php:2018 admin/settings.php:2029 admin/settings.php:2048
+#: admin/settings.php:2061
+msgid "Instruction"
+msgstr "دستورالعمل"
+
+#: admin/settings.php:2018 admin/settings.php:2029 admin/settings.php:2048
+#: admin/settings.php:2061
+msgid "Change the permission or downlad the file"
+msgstr "اجازه تغییر دهید یا پرونده را رد کنید"
+
+#: admin/settings.php:1524
+msgid "Button Background Color"
+msgstr "رنگ پس‌زمینه دکمه"
+
+#: admin/settings.php:1523
+msgid "Button Text Color"
+msgstr "رنگ متن دکمه"
+
+#: admin/settings.php:1522
+msgid "Banner Title Color"
+msgstr "رنگ عنوان بنر"
+
+#: admin/settings.php:1521
+msgid "Banner Background Color"
+msgstr "رنگ پس‌زمینه بنر"
+
+#: admin/settings.php:1520
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: admin/settings.php:1472 admin/settings.php:1519
+msgid "Title"
+msgstr "عنوان"
+
+#: admin/settings.php:1517
+msgid "Custom Add To Homescreen Customization"
+msgstr "افزودن سفارشی به صفحه اصلی"
+
+#: admin/settings.php:1138
+msgid "UTM Campaign"
+msgstr "نمایش پویش"
+
+#: service-work/class-service-worker.php:396
+msgid "to your Homescreen!"
+msgstr "به صفحه اصلی خود بروید!"
+
+#: pwa-for-wp.php:169
+msgid "Thank you for using"
+msgstr "سپاس از رای‌تان!"
+
+#: pwa-for-wp.php:159
+msgid "Click Here To Update"
+msgstr "برای بروزرسانی اینجا را کلیک کنید"
+
+#: admin/settings.php:610
+msgid "Download"
+msgstr "دانلود"
+
+#. Author of the plugin
+msgid "Magazine3"
+msgstr "مجله 3"
+
+#: admin/settings.php:1498
+msgid "Send"
+msgstr "ارسال"
+
+#: admin/settings.php:1417 admin/settings.php:1419 admin/settings.php:1430
+#: admin/settings.php:1432 admin/settings.php:1443 admin/settings.php:1445
+#: admin/settings.php:1456 admin/settings.php:1458
+msgid "Notification Title"
+msgstr "عنوان نوتیفیکیشن"
+
+#: admin/settings.php:1051
+msgid "Custom Post"
+msgstr "پست سفارشی:"
+
+#: admin/settings.php:1045
+msgid "Page"
+msgstr "صفحه"
+
+#: admin/settings.php:1039
+msgid "Post"
+msgstr "نوشته"
+
+#: admin/settings.php:146
+msgid "View Setup Documentation"
+msgstr "دیدن مستندات نصب"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/pwa-for-wp/"
+msgstr "https://wordpress.org/plugins/pwa-for-wp/"
+
+#: admin/settings.php:1262
+msgid "Caches external link's resource which are in html"
+msgstr "منابع لینک خارجی را که در html هستند کش می کند"
+
+#: admin/settings.php:1219
+msgid "This helps show loading icon on page or post load"
+msgstr "این به نمایش آیکون لودر در صفحه یا لودر پست کمک می کند."
+
+#: admin/settings.php:1068
+msgid "Manual"
+msgstr "دستی"
+
+#: admin/settings.php:1024
+msgid "Automatic"
+msgstr "خودکار"
+
+#: admin/settings.php:420
+msgid "Cache External Links"
+msgstr "ذخیره لینکهای خارجی"
+
+#: admin/settings.php:357 admin/settings.php:1207
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: admin/settings.php:61 admin/settings.php:115
+msgid "Tools"
+msgstr "ابزارها"
+
+#: pwa-for-wp.php:215
+msgid "Remind Me Later"
+msgstr "بعدا به من یادآوری کن"
+
+#: admin/settings.php:2080
+msgid "This site is not configure with https"
+msgstr "این سایت با https پیکربندی نشده است"
+
+#: admin/settings.php:2073
+msgid "HTTPS"
+msgstr "پروتکل HTTPS"
+
+#: admin/settings.php:2041
+msgid "Service Worker"
+msgstr "Service Worker"
+
+#: admin/settings.php:2017 admin/settings.php:2028 admin/settings.php:2047
+#: admin/settings.php:2060
+msgid "Click here to setup"
+msgstr "برای نصب اینجا کلیک کنید"
+
+#: admin/settings.php:2011
+msgid "Manifest"
+msgstr "Manifest"
+
+#: admin/settings.php:608 admin/settings.php:1986
+msgid "Status"
+msgstr "وضعیت"
+
+#: admin/settings.php:1982
+msgid "AMP"
+msgstr "AMP"
+
+#: admin/settings.php:1981
+msgid "WordPress (Non-AMP)"
+msgstr "وردپرس (بدون-AMP)"
+
+#: admin/settings.php:1891
+msgid "Note: It is currently available in non AMP"
+msgstr "توجه: در حال حاضر به صورت بدون AMP در دسترس است"
+
+#: admin/settings.php:1890
+msgid "jQuery selector (.element) or (#element)"
+msgstr "انتخابگرjQuery  (.element) یا (#element)"
+
+#: admin/settings.php:1866 admin/settings.php:1870
+msgid "Note: By default pop up will appear on mobile device, to appear on desktop check enable on desktop"
+msgstr ""
+"توجه: به طور پیش فرض پنجره بازشو در دستگاه تلفن همراه ظاهر می شود ، برای نمایش در دسکتاپ\n"
+" بررسی فعال کردن در دسکتاپ"
+
+#: admin/settings.php:1865 admin/settings.php:1869
+msgid "Enable On Desktop"
+msgstr "فعال کردن روی دسکتاپ"
+
+#: admin/settings.php:1861
+msgid "Show custom responsive add to home banner popup"
+msgstr "نمایش پنجره افزودن پاسخگو سفارشی به بنر صفحه اصلی"
+
+#: admin/settings.php:1770 admin/settings.php:1800
+msgid "Orientation of application on devices. When set to Follow Device Orientation your application will rotate as the device is rotated."
+msgstr "جهت گیری برنامه در دستگاه ها. وقتی روی چرخش دستگاه قرار گرفت ، برنامه شما چرخانده می شود."
+
+#: admin/settings.php:1749
+msgid "Landscape"
+msgstr "افقی"
+
+#: admin/settings.php:1746
+msgid "Portrait"
+msgstr "عمودی"
+
+#: admin/settings.php:1743
+msgid "Follow Device Orientation"
+msgstr "جهت گیری دستگاه را دنبال کنید"
+
+#: admin/settings.php:1704
+msgid "404 page is displayed and the requested page is not found. Current 404 page is %s"
+msgstr "صفحه 404 نمایش داده می شود و صفحه درخواستی پیدا نمی شود. صفحه 404 فعلی است%s"
+
+#: admin/settings.php:1681
+msgid "Offline page is displayed, when the device is offline and the requested page is not already cached. Current offline page is %s"
+msgstr "صفحه آفلاین نمایش داده می شود ، هنگامی که دستگاه آفلاین است و صفحه درخواست شده قبلاً در حافظه پنهان نیست. صفحه آفلاین فعلی است%s"
+
+#: admin/settings.php:1595
+msgid "Icon displayed on the splash screen of your APPLICATION on supported devices. Must be a PNG image size exactly"
+msgstr "آیکون که در صفحه اسپاش اسکرین اپلیکیشن شما در دستگاههای پشتیبانی شده نمایش داده می شود. باید دقیقاً اندازه تصویر PNG باشد"
+
+#: admin/settings.php:1574
+msgid "Icon of your application when installed on the phone. Must be a PNG image exactly"
+msgstr "آیکون برنامه شما هنگام نصب روی تلفن. باید دقیقاً یک تصویر PNG باشد"
+
+#: admin/settings.php:1343 admin/settings.php:1353 admin/settings.php:1569
+#: admin/settings.php:1590 admin/settings.php:1642
+msgid "Choose Icon"
+msgstr "انتخاب ایکون"
+
+#: admin/settings.php:1467
+msgid "Send Manual Notification"
+msgstr "فرستادن نوتیفیکشن به کاربر"
+
+#: admin/settings.php:1452
+msgid "Update Page"
+msgstr "بروزرسانی برگه"
+
+#: admin/settings.php:1438
+msgid "Add New Page"
+msgstr "افزودن صفحهٔ تازه"
+
+#: admin/settings.php:1426
+msgid "Update Post"
+msgstr "بروزرسانی پست"
+
+#: admin/settings.php:1412
+msgid "Add New Post"
+msgstr "افزودن نوشته جدید"
+
+#: admin/settings.php:1408
+msgid "Send Notification On"
+msgstr "ارسال در نوتیفیکیشن"
+
+#: admin/settings.php:1335
+msgid "Note: Firebase push notification does not support on AMP. It will support in future"
+msgstr "توجه: ارسال نوتیفیکیشن Firebase در AMP پشتیبانی نمی کند. این در آینده پشتیبانی می کند"
+
+#: admin/settings.php:1334
+msgid "console, its completly free by google with some limitations. After creating the project you will find FCM Key and json in project details section."
+msgstr "کنسول ، کاملاً رایگان توسط google با برخی محدودیت ها. پس از ایجاد پروژه ، FCM Key و json را در بخش جزئیات پروژه پیدا خواهید کرد."
+
+#: admin/settings.php:1334
+msgid "firebase"
+msgstr "firebase"
+
+#: admin/settings.php:1334
+msgid "Note: Create a new firebase project on "
+msgstr "توجه: یک پروژه Firebase جدید ایجاد کنید"
+
+#: admin/settings.php:1331
+msgid "Config"
+msgstr "پیکربندی کنید"
+
+#: admin/settings.php:1327
+msgid "FCM Server API Key"
+msgstr "کلید API سرور FCM"
+
+#: admin/settings.php:1200
+msgid "This helps you remove conflict with the CDN"
+msgstr "این به شما کمک می کند تعارض با CDN را برطرف کنید"
+
+#: admin/settings.php:1191
+msgid "Change the version. It will automatically update the service worker for all the users"
+msgstr "نسخه را تغییر دهید. این به طور خودکار service worker را برای همه کاربران به روز می کند"
+
+#: admin/settings.php:1168
+msgid "Offline analytics is a module that will use background sync to ensure that requests to Google Analytics are made regardless of the current network condition"
+msgstr "تجزیه و تحلیل آفلاین ماژولی است که از همگام سازی پس زمینه برای اطمینان از درخواست های Google Analytics بدون در نظر گرفتن شرایط شبکه فعلی استفاده می کند."
+
+#: admin/settings.php:1154
+msgid "UTM amp Url"
+msgstr "آدرس amp UTM"
+
+#: admin/settings.php:1150
+msgid "UTM Non-amp Url"
+msgstr "آدرس غیر amp UTM"
+
+#: admin/settings.php:1146
+msgid "UTM Content"
+msgstr "محتوای UTM"
+
+#: admin/settings.php:1142
+msgid "UTM Term"
+msgstr "مدت UTM"
+
+#: admin/settings.php:1134
+msgid "UTM Medium"
+msgstr "UTM متوسط"
+
+#: admin/settings.php:1130
+msgid "UTM Source"
+msgstr "منبع UTM"
+
+#: admin/settings.php:1127
+msgid "To identify users are coming from your App"
+msgstr "برای شناسایی کاربران از برنامه شما می آیند."
+
+#: admin/settings.php:1126
+msgid "Enable UTM Tracking"
+msgstr "پیگیری UTM را فعال کنید"
+
+#: admin/settings.php:1082
+msgid "Put the list of urls which you want to pre cache by service worker"
+msgstr "لیستی از آدرس هایی را که می خواهید توسط service worker پیش از پنهان کردن قرار دهید ، قرار دهید"
+
+#: admin/settings.php:1078
+msgid "Enter Urls To Be Cached"
+msgstr "برای ذخیره سازی آدرس ها را وارد کنید"
+
+#: admin/settings.php:1062
+msgid "Enter Post Count"
+msgstr "تعداد ارسال را وارد کنید"
+
+#: admin/settings.php:980
+msgid "Put the list of urls which you do not want to cache by service worker"
+msgstr "لیستی از آدرس هایی را که نمی خواهید توسط service worker ذخیره شود ، قرار دهید"
+
+#: admin/settings.php:1081
+msgid "Note: Put in comma separated"
+msgstr "توجه: با کاما جدا کنید"
+
+#: admin/settings.php:907
+msgid "Set max cache time for JS, CSS, JSON Default:"
+msgstr "حداکثر زمان حافظه نهان را برای JS ، CSS ، JSON تنظیم کنید:"
+
+#: admin/settings.php:905 admin/settings.php:907
+msgid "You need to enter time in seconds"
+msgstr "شما باید زمان را در چند ثانیه وارد کنید"
+
+#: admin/settings.php:905 admin/settings.php:907
+msgid "in seconds;"
+msgstr "در چند ثانیه"
+
+#: admin/settings.php:905
+msgid "Set max cache time for Html Default:"
+msgstr "تعیین حداکثر حافظه نهان برای پیش فرض Html :"
+
+#: admin/settings.php:886
+msgid "Caching strategy for fonts"
+msgstr "استراتژی ذخیره فونت ها"
+
+#: admin/settings.php:873
+msgid "Caching strategy for images"
+msgstr "استراتژی ذخیره تصاویر"
+
+#: admin/settings.php:860
+msgid "Caching strategy for CSS and JS Files"
+msgstr "استراتژی ذخیره فایلهای CSS و JS"
+
+#: admin/settings.php:840
+msgid "Default caching strategy"
+msgstr "استراتژی ذخیره پیش فرض"
+
+#: admin/settings.php:523
+msgid "Caching Strategies"
+msgstr "راهکارهای ذخیره"
+
+#: admin/settings.php:442
+msgid "Cached time"
+msgstr "زمان کش شدن"
+
+#: admin/settings.php:435
+msgid "Urls Exclude From Cache List"
+msgstr "آدرسهای اینترنتی از لیست حافظه پنهان مستثنی هستند"
+
+#: admin/settings.php:428
+msgid "UTM Tracking"
+msgstr "ردیابی زمان"
+
+#: admin/settings.php:404
+msgid "Custom Add To Home Banner"
+msgstr "افزودن سفارشی به بنر صفحه اصلی"
+
+#: admin/settings.php:395
+msgid "Add To Home On Element Click"
+msgstr "افزودن به خانه با عنصر کلیک کنید"
+
+#: admin/settings.php:388
+msgid "Force Update Service Worker"
+msgstr " بروزرسانی اجباریService Worker"
+
+#: admin/settings.php:374
+msgid "Offline Google Analytics"
+msgstr "مدیریت گوگل آنالیتیکس"
+
+#: admin/settings.php:367
+msgid "CDN Compatibility"
+msgstr "سازگاریCDN"
+
+#: admin/settings.php:346
+msgid "Theme Color"
+msgstr "رنگ پوسته"
+
+#: admin/settings.php:338
+msgid "Background Color"
+msgstr "رنگ پس‌زمینه"
+
+#: admin/settings.php:311
+msgid "Orientation"
+msgstr "جهت"
+
+#: admin/settings.php:293
+msgid "404 Page"
+msgstr "صفحهٔ ۴۰۴"
+
+#: admin/settings.php:284
+msgid "Offline Page"
+msgstr "صفحه آفلاین"
+
+#: admin/settings.php:275
+msgid "App Splash Screen Icon"
+msgstr "آیکون صفحه اسپلش اسکرین برنامه "
+
+#: admin/settings.php:266
+msgid "App Icon"
+msgstr "آیکون برنامه"
+
+#: admin/settings.php:257
+msgid "App Description"
+msgstr "توضیحات برنامه"
+
+#: admin/settings.php:248
+msgid "App Short Name"
+msgstr "نام کوتاه برنامه"
+
+#: admin/settings.php:239
+msgid "App Name"
+msgstr "نام برنامه"
+
+#: admin/settings.php:220
+msgid "Installation Status"
+msgstr "وضعیت نصب"
+
+#: admin/settings.php:180
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: admin/settings.php:165
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: admin/settings.php:163
+msgid "Message not sent. please check your network connection"
+msgstr "پیام ارسال نشد لطفاً اتصال شبکه خود را بررسی کنید"
+
+#: admin/settings.php:162
+msgid "Message sent successfully, Please wait we will get back to you shortly"
+msgstr "پیام با موفقیت ارسال شد ، لطفاً منتظر بمانید به زودی به شما پاسخ خواهیم داد"
+
+#: admin/settings.php:159 admin/settings.php:1497
+msgid "Message"
+msgstr "پیغام"
+
+#: admin/settings.php:67
+msgid "Help"
+msgstr "راهنمایی"
+
+#: admin/settings.php:63
+msgid "Advance"
+msgstr "پیشرفت"
+
+#: admin/settings.php:86
+msgid "Design"
+msgstr "طراحی"
+
+#: admin/settings.php:85
+msgid "General"
+msgstr "عمومی"
+
+#: admin/settings.php:55
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: admin/settings.php:8
+msgid "PWA"
+msgstr "PWA"
+
+#: admin/settings.php:7 admin/settings.php:16 admin/settings.php:51
+msgid "Progressive Web Apps For WP"
+msgstr "برنامه های وب پیشرفته برای وردپرس"
+
+#: pwa-for-wp.php:233
+msgid "Support Forum"
+msgstr "انجمن پشتیبانی"
+
+#: admin/newsletter.php:35
+msgid "No Thanks"
+msgstr "نه متشکرم"
+
+#: pwa-for-wp.php:169
+msgid " PWA for WP plugin! "
+msgstr "افزونه PWA برای وردپرس!"
+
+#: pwa-for-wp.php:159
+msgid "Update your pwa pre caching url list by click on button. "
+msgstr "با کلیک بروی دکمه ، لیست آدرس پیش از ذخیره pwa خود را به روز کنید."
+
+#: admin/settings.php:17 pwa-for-wp.php:69
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: service-work/class-push-notification.php:198
+msgid "Token Not Saved"
+msgstr "توکن ذخیره نشده است"
+
+#: service-work/class-push-notification.php:196
+msgid "Token Saved Successfully"
+msgstr "توکن با موفقیت ذخیره شد"
+
+#: service-work/class-push-notification.php:97
+msgid "Page Updated"
+msgstr "برگه به‌روزرسانی شد"
+
+#: service-work/class-push-notification.php:112
+msgid "New Page"
+msgstr "صفحه‌ٔ تازه"
+
+#: service-work/class-push-notification.php:64
+msgid "Post Updated"
+msgstr "نوشته بروزرسانی شد."
+
+#: service-work/class-push-notification.php:79
+msgid "New Post"
+msgstr "نوشتهٔ تازه"
+
+#: service-work/class-push-notification.php:44
+msgid "Notification not sent. Something went wrong"
+msgstr "نوتیفکیشن ارسال نشد مشکلی پیش آمد"
+
+#: service-work/class-service-worker.php:395
+#: service-work/class-service-worker.php:396
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: admin/settings.php:2208 service-work/class-init.php:152
+msgid "Check permission or download from manual"
+msgstr "اجازه را بررسی کنید یا از کتابچه راهنما بارگیری کنید"
+
+#: service-work/class-init.php:150
+msgid "File has been created"
+msgstr "پرونده ایجاد شده است"
+
+#. Author URI of the plugin
+msgid "http://pwa-for-wp.com"
+msgstr "http://pwa-for-wp.com"
+
+#. Description of the plugin
+msgid "We are bringing the power of the Progressive Web Apps to the WP & AMP to take the user experience to the next level!"
+msgstr "ما در حال انتقال قدرت برنامه های وب پیشرفته به وردپرس و AMP هستیم تا تجربه کاربر را به مرحله بعدی برسانیم!"
+
+#. Plugin Name of the plugin
+msgid "PWA for WP"
+msgstr "PWA برای وردپرس"

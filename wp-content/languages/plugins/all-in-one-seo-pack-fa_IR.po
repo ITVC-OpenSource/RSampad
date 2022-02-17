@@ -1,0 +1,3458 @@
+# Translation of Plugins - All in One SEO - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - All in One SEO - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-10 08:13:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - All in One SEO - Stable (latest release)\n"
+
+#: app/Common/Schema/Context.php:216
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#: languages/aioseo-pro.php:379
+msgid "Question"
+msgstr "سوال"
+
+#: languages/aioseo-pro.php:382
+msgid "Answer"
+msgstr "جواب"
+
+#: languages/aioseo-pro.php:436
+msgid "Rating"
+msgstr "امتیازدهی"
+
+#: languages/aioseo-pro.php:445
+msgid "Price"
+msgstr "قیمت"
+
+#: languages/aioseo-pro.php:448
+msgid "Currency"
+msgstr "واواحد پول"
+
+#: languages/aioseo-pro.php:463
+msgid "Identifier Type"
+msgstr "نوع شناسه"
+
+#: languages/aioseo-pro.php:466
+msgid "Identifier"
+msgstr "شناسه"
+
+#: languages/aioseo-pro.php:473
+msgid "SKU"
+msgstr "موجودی انبار"
+
+#: languages/aioseo-lite.php:3373
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+msgid "Course"
+msgstr "دوره"
+
+#: languages/aioseo-lite.php:3376
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+msgid "Recipe"
+msgstr "دستور آشپزی"
+
+#: languages/aioseo-pro.php:354
+msgid "(Default)"
+msgstr "(پیشفرض)"
+
+#: languages/aioseo-pro.php:370
+msgid "Provider"
+msgstr "ارائه دهنده"
+
+#: languages/aioseo-pro.php:376
+msgid "FAQ"
+msgstr "پرسش و پاسخ"
+
+#: languages/aioseo-pro.php:388
+msgid "Dish Type"
+msgstr "نوع ظرف"
+
+#: languages/aioseo-pro.php:409
+msgid "Cooking Time"
+msgstr "وقت آشپزی"
+
+#: languages/aioseo-pro.php:415
+msgid "Calories"
+msgstr "کالری"
+
+#: languages/aioseo-pro.php:421
+msgid "Ingredients"
+msgstr "عناصر"
+
+#: languages/aioseo-pro.php:427
+msgid "Instructions"
+msgstr "دستورالعمل"
+
+#: languages/aioseo-pro.php:442
+msgid "Amount of ratings"
+msgstr "مقدار رتبه بندی"
+
+#: languages/aioseo-pro.php:460
+msgid "Brand"
+msgstr "برند"
+
+#: languages/aioseo-pro.php:476
+msgid "Price Valid Until"
+msgstr "قیمت معتبر است تا"
+
+#: languages/aioseo-pro.php:479
+msgid "The date until this pricing lasts (optional)."
+msgstr "تاریخ تا زمان ادامه این قیمت گذاری (اختیاری)."
+
+#: languages/aioseo-pro.php:482
+msgid "Availability"
+msgstr "دسترسی"
+
+#: languages/aioseo-pro.php:485
+msgid "The unique global product identifier (optional)."
+msgstr "شناسه جهانی محصول منحصر به فرد (اختیاری)."
+
+#: languages/aioseo-pro.php:488
+msgid "Reviews"
+msgstr "نقدها"
+
+#: app/init/notices.php:160
+msgid "Heads up!"
+msgstr "سر بالا!"
+
+#: app/Common/Utils/Tags.php:319
+msgid "Archive Title"
+msgstr "عنوان بایگانی"
+
+#: app/Common/Utils/Tags.php:371
+msgid "Current Day"
+msgstr "روزکنونی"
+
+#: app/Common/Utils/Tags.php:381
+msgid "Current Year"
+msgstr "سال کنونی"
+
+#: app/Common/Utils/Tags.php:458 app/Common/Utils/Tags.php:476
+msgid "Site Link"
+msgstr "لینک سایت"
+
+#: app/Common/Utils/Tags.php:494
+msgid "Tagline"
+msgstr "شعار"
+
+#: app/Common/Utils/Tags.php:505
+msgid "Search Term"
+msgstr "شرایط جستجو"
+
+#: app/Common/Utils/Tags.php:510
+msgid "Taxonomy Name"
+msgstr "نام طبقه بندی"
+
+#: app/Common/Utils/Tags.php:521
+msgid "Parent Title"
+msgstr "عنوان والد"
+
+#: app/Common/Utils/Tags.php:821
+msgid "Sample Post"
+msgstr "نوشته نمونه"
+
+#: app/Common/Utils/Tags.php:824
+msgid "Sample Parent"
+msgstr "والد نمونه"
+
+#: app/Common/Utils/Options.php:776
+msgid "Archives for"
+msgstr "بایگانی برای"
+
+#: app/Common/Utils/Tags.php:279
+msgid "Image Alt Tag"
+msgstr "متن جایگزین تصویر"
+
+#: app/Common/Utils/Tags.php:284
+msgid "Media Caption"
+msgstr "کپشن چندرسانه"
+
+#: app/Common/Utils/Tags.php:289
+msgid "Author Link"
+msgstr "لینک نویسنده"
+
+#: app/Common/Utils/Tags.php:299
+msgid "Author Biography"
+msgstr "بیوگرافی نویسنده"
+
+#: app/Common/Utils/Tags.php:304
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: app/Common/Migration/GeneralSettings.php:368
+msgid "Review Now"
+msgstr "اکنون نظردهید"
+
+#: app/Common/Social/Twitter.php:217
+msgid "Written by"
+msgstr "نوشته شده توسط"
+
+#: app/Common/Tools/BadBotBlocker.php:221
+msgid "(Invalid IP)"
+msgstr "( آی پی نامعتبر)"
+
+#: app/Common/Tools/SystemStatus.php:176
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: app/Common/Tools/SystemStatus.php:188
+msgid "Not Set"
+msgstr "هنوز تنظیم نشده است"
+
+#: app/Common/Tools/SystemStatus.php:293 app/Common/Tools/SystemStatus.php:325
+msgid "needs update"
+msgstr "نیازبه بروزرسانی"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:112
+msgid "%1$s Settings"
+msgstr "%1$s تنظیمات"
+
+#: app/Common/Tools/SystemStatus.php:88
+msgid "Front Page Info"
+msgstr "اطلاعات صفحه نخست"
+
+#: app/Common/Tools/SystemStatus.php:93
+msgid "Visible"
+msgstr "قابل مشاهده"
+
+#: app/Common/Tools/SystemStatus.php:93
+msgid "Hidden"
+msgstr "مخفی"
+
+#: app/Common/Tools/SystemStatus.php:96
+msgid "Upload Directory Info"
+msgstr "اطلاعات پوشه بارگذاری"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Path:"
+msgstr "مسیر:"
+
+#: app/Common/Tools/SystemStatus.php:99
+msgid "Url:"
+msgstr "Url:"
+
+#: app/Common/Tools/SystemStatus.php:100
+msgid "Base Directory:"
+msgstr "پوشه پایه:"
+
+#: app/Common/Tools/SystemStatus.php:101
+msgid "Base URL:"
+msgstr "آدرس URL پایه:"
+
+#: app/Common/Tools/SystemStatus.php:116
+msgid "Constants"
+msgstr "ثابت ها"
+
+#: app/Common/Tools/SystemStatus.php:175
+msgid "Web Server"
+msgstr "وب سرور"
+
+#: app/Common/Tools/SystemStatus.php:187
+msgid "MySQL SQL Mode"
+msgstr "حالت MySQL SQL"
+
+#: app/Common/ImportExport/RankMath/TitleMeta.php:369
+#: app/Common/Admin/Notices/Notices.php:404
+#: app/Common/Admin/Notices/Notices.php:451
+#: app/Common/Admin/Notices/Notices.php:525
+#: app/Common/Migration/GeneralSettings.php:737
+msgid "Fix Now"
+msgstr "اکنون تعمیر کن"
+
+#: languages/aioseo-lite.php:1418 dist/Lite/assets/js/post-settings.js:1
+msgid "General"
+msgstr "عمومی"
+
+#: languages/aioseo-lite.php:1004 app/Common/Models/Post.php:271
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "External links"
+msgstr "لینک‌های خارجی"
+
+#: languages/aioseo-lite.php:1120 dist/Lite/assets/js/chunk-common.js:1
+msgid "Great job!"
+msgstr "کارت عالی بود!"
+
+#: languages/aioseo-lite.php:1059 dist/Lite/assets/js/chunk-common.js:1
+msgid "Good job!"
+msgstr "کارت خوب بود!"
+
+#: languages/aioseo-lite.php:1062 dist/Lite/assets/js/chunk-common.js:1
+msgid "very easy"
+msgstr "خیلی آسان"
+
+#: languages/aioseo-lite.php:1079 dist/Lite/assets/js/chunk-common.js:1
+msgid ":-)"
+msgstr ":-)"
+
+#: languages/aioseo-lite.php:1476 dist/Lite/assets/js/post-settings.js:1
+msgid "Social"
+msgstr "اجتماعی"
+
+#: languages/aioseo-lite.php:3835 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings-RssContent-vue.js:1
+msgid "Learn more"
+msgstr "یادگیری بیشتر"
+
+#: languages/aioseo-lite.php:4030
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Success!"
+msgstr "موفقیت!"
+
+#: languages/aioseo-lite.php:3957
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Admin Bar Menu"
+msgstr "فهرست نوار مدیریت"
+
+#: languages/aioseo-lite.php:3964
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Dashboard Widget"
+msgstr "ابزارک پبشخوان"
+
+#: languages/aioseo-lite.php:3970
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Announcements"
+msgstr "اطلاعیه ها"
+
+#: languages/aioseo-lite.php:3976
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Automatic Updates"
+msgstr "به‌روزرسانی خودکار"
+
+#: languages/aioseo-lite.php:4005
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Taxonomy Columns"
+msgstr "ستون طبقه بندی"
+
+#. Translators: 1 - Plugin Short Name ("AIOSEO").
+#: languages/aioseo-lite.php:4013
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Uninstall %1$s"
+msgstr "حذف %1$s"
+
+#: languages/aioseo-lite.php:519 dist/Lite/assets/js/chunk-common.js:1
+msgid "Show"
+msgstr "نمایش"
+
+#: languages/aioseo-lite.php:522 dist/Lite/assets/js/chunk-common.js:1
+msgid "Hide"
+msgstr "مخفی"
+
+#: languages/aioseo-lite.php:534 dist/Lite/assets/js/chunk-common.js:1
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: languages/aioseo-lite.php:306 dist/Lite/assets/js/chunk-common.js:1
+msgid "Optimized Search Appearance"
+msgstr "بهینه‌سازی ظاهر جستجو"
+
+#: languages/aioseo-lite.php:3893 app/Common/Utils/Tags.php:453
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Separator"
+msgstr "جداکننده"
+
+#: languages/aioseo-lite.php:3908
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "404 Error Format"
+msgstr "فرمت خطای 404"
+
+#: languages/aioseo-lite.php:3911
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Current Item"
+msgstr "مورد فعلی"
+
+#. Translators: This refers to the homepage of the site.
+#: languages/aioseo-lite.php:3914 app/Common/Schema/Breadcrumb.php:295
+#: app/Common/Utils/Options.php:775
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Home"
+msgstr "خانه"
+
+#: languages/aioseo-lite.php:3917
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Subcategory"
+msgstr "زیردسته"
+
+#: languages/aioseo-lite.php:3920
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Article Title"
+msgstr "عنوان مقاله"
+
+#: languages/aioseo-lite.php:3923
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Archives of"
+msgstr "بایگانی برای"
+
+#: languages/aioseo-lite.php:3926 app/Common/Utils/Options.php:777
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Search for"
+msgstr "جستجو برای"
+
+#: languages/aioseo-lite.php:3935
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Category Name"
+msgstr "نام دسته"
+
+#: languages/aioseo-lite.php:3938
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Breadcrumb Templates"
+msgstr "پوسته‌های ریزآدرس"
+
+#: languages/aioseo-lite.php:242 dist/Lite/assets/js/chunk-common.js:1
+msgid "archive"
+msgstr "بایگانی"
+
+#: languages/aioseo-lite.php:345 dist/Lite/assets/js/chunk-common.js:1
+msgid "Activities"
+msgstr "فعالیت"
+
+#: languages/aioseo-lite.php:354 dist/Lite/assets/js/chunk-common.js:1
+msgid "Businesses"
+msgstr "بیزینس"
+
+#: languages/aioseo-lite.php:372 dist/Lite/assets/js/chunk-common.js:1
+msgid "Groups"
+msgstr "گروه"
+
+#: languages/aioseo-lite.php:385 dist/Lite/assets/js/chunk-common.js:1
+msgid "Organizations"
+msgstr "سازمان"
+
+#: languages/aioseo-lite.php:401 dist/Lite/assets/js/chunk-common.js:1
+msgid "People"
+msgstr "مردم"
+
+#: languages/aioseo-lite.php:429 dist/Lite/assets/js/chunk-common.js:1
+msgid "Places"
+msgstr "مکان"
+
+#: languages/aioseo-lite.php:444 dist/Lite/assets/js/chunk-common.js:1
+msgid "Products & Entertainment"
+msgstr "محصول و سرگرمی"
+
+#: languages/aioseo-lite.php:477 dist/Lite/assets/js/chunk-common.js:1
+msgid "Websites"
+msgstr "سایت"
+
+#: languages/aioseo-lite.php:3706 dist/Lite/assets/js/chunk-common.js:1
+msgid "We couldn't connect to the site, please try again later."
+msgstr "نمی توانیم به سایت متصل شویم. مجدد تلاش کنید."
+
+#: languages/aioseo-lite.php:3865 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings-GeneralSettings-vue.js:1
+msgid "License"
+msgstr "لایسنس"
+
+#: languages/aioseo-lite.php:3868 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings-GeneralSettings-vue.js:1
+msgid "Setup Wizard"
+msgstr "راه اندازی آسان"
+
+#: languages/aioseo-lite.php:3875
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Enable Breadcrumbs"
+msgstr "فعالسازی ریز آدرس"
+
+#: languages/aioseo-lite.php:3881
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "Shortcode"
+msgstr "کدکوتاه"
+
+#: languages/aioseo-lite.php:2803 dist/Lite/assets/js/chunk-common.js:1
+msgid "Click to Copy"
+msgstr "کلیک برای کپی"
+
+#: languages/aioseo-lite.php:2812 dist/Lite/assets/js/chunk-common.js:1
+msgid "ID"
+msgstr "شناسه"
+
+#: languages/aioseo-lite.php:2815 dist/Lite/assets/js/chunk-common.js:1
+msgid "Type"
+msgstr "نوع"
+
+#: languages/aioseo-lite.php:2800 dist/Lite/assets/js/chunk-common.js:1
+msgid "Edit Your Meta Description"
+msgstr "توضیحات متا را ویرایش کنید"
+
+#: languages/aioseo-lite.php:2850 dist/Lite/assets/js/chunk-common.js:1
+msgid "Upgrade Your Plan"
+msgstr "پلن خود را ارتقاء دهید"
+
+#: languages/aioseo-lite.php:2859 dist/Lite/assets/js/chunk-common.js:1
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: languages/aioseo-lite.php:2408 dist/Lite/assets/js/chunk-common.js:1
+msgid "Internal:"
+msgstr "داخلی:"
+
+#: languages/aioseo-lite.php:2411 dist/Lite/assets/js/chunk-common.js:1
+msgid "External:"
+msgstr "خارجی:"
+
+#: languages/aioseo-lite.php:2191 dist/Lite/assets/js/chunk-common.js:1
+msgid "Close"
+msgstr "بستن"
+
+#: languages/aioseo-lite.php:2194 dist/Lite/assets/js/chunk-common.js:1
+msgid "Search"
+msgstr "جستجو"
+
+#: languages/aioseo-lite.php:2225 dist/Lite/assets/js/chunk-common.js:1
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: languages/aioseo-lite.php:2213 dist/Lite/assets/js/chunk-common.js:1
+msgid "Get Support"
+msgstr "پشتیبانی"
+
+#: languages/aioseo-lite.php:2100 dist/Lite/assets/js/chunk-common.js:1
+msgid "Large"
+msgstr "بزرگ"
+
+#: languages/aioseo-lite.php:2076 dist/Lite/assets/js/chunk-common.js:1
+msgid "Security"
+msgstr "امنیت"
+
+#: languages/aioseo-lite.php:1632 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/settings-GeneralSettings-vue.js:1
+msgid "Free"
+msgstr "رایگان"
+
+#: languages/aioseo-lite.php:1614 dist/Lite/assets/js/chunk-common.js:1
+msgid "City:"
+msgstr "شهر:"
+
+#: languages/aioseo-lite.php:1620 dist/Lite/assets/js/chunk-common.js:1
+msgid "Country:"
+msgstr "کشور:"
+
+#: languages/aioseo-lite.php:3436
+#: dist/Lite/assets/js/search-appearance-partials-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Taxonomies-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Archives-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+msgid "Other Options"
+msgstr "تنظیمات دیگر"
+
+#: languages/aioseo-lite.php:2844 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Deactivated"
+msgstr "غیر فعال شد"
+
+#: languages/aioseo-lite.php:1856
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Logs"
+msgstr "گزارشات"
+
+#: languages/aioseo-lite.php:1962 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Copy to Clipboard"
+msgstr "کپی به کلیپ بورد"
+
+#: languages/aioseo-lite.php:1989 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Copied!"
+msgstr "کپی شد!"
+
+#: languages/aioseo-lite.php:2917
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Category-vue.js:1
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+#: languages/aioseo-lite.php:1019 dist/Lite/assets/js/chunk-common.js:1
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: languages/aioseo-lite.php:1589 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Errors"
+msgstr "خطاها"
+
+#: languages/aioseo-lite.php:1872 app/Common/Admin/Admin.php:76
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+msgid "Social Networks"
+msgstr "شبکه‌های اجتماعی"
+
+#: languages/aioseo-lite.php:784
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: languages/aioseo-lite.php:787
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Tuesday"
+msgstr "سه‌شنبه"
+
+#: languages/aioseo-lite.php:790
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: languages/aioseo-lite.php:793
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Thursday"
+msgstr "پنجشنبه"
+
+#: languages/aioseo-lite.php:796
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Friday"
+msgstr "جمعه"
+
+#: languages/aioseo-lite.php:799
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Saturday"
+msgstr "شنبه"
+
+#: languages/aioseo-lite.php:802
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Sunday"
+msgstr "یکشنبه"
+
+#: languages/aioseo-lite.php:1595 app/Common/Tools/RobotsTxt.php:362
+#: dist/Lite/assets/js/tools-partials-BackupSettings-vue.js:1
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/post-settings.js:1
+msgid "Delete"
+msgstr "حذف"
+
+#: languages/aioseo-lite.php:1659
+#: dist/Lite/assets/js/seo-analysis-SeoAuditChecklist-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/seo-analysis-Main-vue.js:1
+msgid "Critical Issues"
+msgstr "مسائل مهم"
+
+#: languages/aioseo-lite.php:808
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-OpeningHours-vue.js:1
+#: dist/Lite/assets/js/local-seo-OpeningHours-vue.js:1
+msgid "Closed"
+msgstr "بسته"
+
+#: languages/aioseo-lite.php:179 languages/aioseo-pro.php:363
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Name"
+msgstr "نام"
+
+#: languages/aioseo-lite.php:212 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocationsPro-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-Locations-vue.js:1
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/local-seo-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/local-seo-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocationsActivate-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Remove"
+msgstr "حذف"
+
+#: languages/aioseo-lite.php:1550
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Width"
+msgstr "عرض"
+
+#: languages/aioseo-lite.php:1553
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Height"
+msgstr "ارتفاع"
+
+#: languages/aioseo-lite.php:3129
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Welcome-vue.js:1
+msgid "Go back to the Dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: languages/aioseo-lite.php:2993
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Success-vue.js:1
+msgid "Finish Setup and Go to the Dashboard"
+msgstr "اتمام راه اندازی و رفتن به پیشخوان"
+
+#: languages/aioseo-lite.php:130 dist/Lite/assets/js/tools.js:1
+msgid "Database Tools"
+msgstr "ابزارهای پایگاه داده"
+
+#: languages/aioseo-lite.php:60
+#: dist/Lite/assets/js/social-networks-SocialProfiles-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks.js:1
+msgid "Social Profiles"
+msgstr "پروفایل شبکه اجتماعی"
+
+#: languages/aioseo-lite.php:72 dist/Lite/assets/js/search-appearance.js:1
+msgid "Global Settings"
+msgstr "تنظیمات عمومی"
+
+#: languages/aioseo-lite.php:75 dist/Lite/assets/js/search-appearance.js:1
+msgid "Content Types"
+msgstr "انواع محتوا"
+
+#: languages/aioseo-lite.php:81 dist/Lite/assets/js/search-appearance.js:1
+msgid "Media"
+msgstr "چندرسانه"
+
+#: languages/aioseo-lite.php:84 dist/Lite/assets/js/search-appearance.js:1
+msgid "Archives"
+msgstr "بایگانی"
+
+#: languages/aioseo-lite.php:146 dist/Lite/assets/js/posts-table.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Title:"
+msgstr "عنوان:"
+
+#: languages/aioseo-lite.php:224 dist/Lite/assets/js/posts-table.js:1
+msgid "Image Title:"
+msgstr "عنوان تصویر:"
+
+#: languages/aioseo-lite.php:227 dist/Lite/assets/js/posts-table.js:1
+msgid "Image Alt Tag:"
+msgstr "متن جایگزین تصویر:"
+
+#: languages/aioseo-lite.php:69
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks.js:1
+#: dist/Lite/assets/js/social-networks-Pinterest-vue.js:1
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: languages/aioseo-lite.php:197 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Logo"
+msgstr "لوگو"
+
+#: languages/aioseo-lite.php:2097 languages/aioseo-pro.php:80
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+msgid "None"
+msgstr "هیچکدام"
+
+#: languages/aioseo-lite.php:27 languages/aioseo-pro.php:254
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance.js:1
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/settings.js:1 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Taxonomies-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Archives-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: languages/aioseo-lite.php:137 app/Common/Admin/Admin.php:116
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/monsterinsights.js:1
+#: dist/Lite/assets/js/monsterinsights-Main-vue.js:1
+msgid "Analytics"
+msgstr "آنالیتیکس"
+
+#: languages/aioseo-lite.php:3392 languages/aioseo-pro.php:56
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+msgid "FAQ Page"
+msgstr "برگه سوالات متداول"
+
+#: languages/aioseo-pro.php:59
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "QA Page"
+msgstr "برگه سوال و جواب"
+
+#: languages/aioseo-pro.php:62
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "Real Estate Listing"
+msgstr "لیست املاک"
+
+#: languages/aioseo-lite.php:1479 languages/aioseo-pro.php:65
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Schema Type"
+msgstr "نوع اسکیما"
+
+#: languages/aioseo-lite.php:1482 languages/aioseo-pro.php:68
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Article Type"
+msgstr "نوع مقاله"
+
+#: languages/aioseo-lite.php:1485 languages/aioseo-pro.php:74
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Blog Post"
+msgstr "نوشته بلاگ"
+
+#: languages/aioseo-lite.php:1488 languages/aioseo-pro.php:77
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "News Article"
+msgstr "مقاله خبری"
+
+#: languages/aioseo-pro.php:44
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "Web Page"
+msgstr "برگه سایت"
+
+#: languages/aioseo-pro.php:47
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "Collection Page"
+msgstr "برگه کالکشن"
+
+#: languages/aioseo-pro.php:50
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "Profile Page"
+msgstr "برگه پروفایل"
+
+#: languages/aioseo-pro.php:53
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "Item Page"
+msgstr "برگه مورد"
+
+#: languages/aioseo-lite.php:45 app/Common/Admin/Admin.php:71
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-SearchAppearance-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/setup-wizard.js:1
+msgid "Search Appearance"
+msgstr "ظاهر جستجو"
+
+#: languages/aioseo-lite.php:57 app/Common/Admin/Admin.php:61
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+#: dist/Lite/assets/js/dashboard.js:1
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: languages/aioseo-lite.php:3496 languages/aioseo-pro.php:251
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Taxonomies-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Archives-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+msgid "Title & Description"
+msgstr "عنوان و توضیحات"
+
+#: languages/aioseo-pro.php:357
+msgid "About Us Page"
+msgstr "برگه درباره ما"
+
+#: languages/aioseo-pro.php:360
+msgid "Contact Page"
+msgstr "برگه تماس"
+
+#: languages/aioseo-lite.php:18
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/settings.js:1 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+msgid "Webmaster Tools"
+msgstr "ابزار وبمستر"
+
+#: languages/aioseo-lite.php:21
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/settings.js:1 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+msgid "RSS Content"
+msgstr "محتوای RSS"
+
+#: languages/aioseo-lite.php:24
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/settings.js:1 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+msgid "Access Control"
+msgstr "کنترل دسترسی"
+
+#: languages/aioseo-lite.php:90 dist/Lite/assets/js/about.js:1
+msgid "Getting Started"
+msgstr "شروع کنید"
+
+#: languages/aioseo-lite.php:93 dist/Lite/assets/js/about.js:1
+msgid "Lite vs. Pro"
+msgstr "رایگان و پولی"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:12 dist/Lite/assets/js/connect.js:1
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/connect-pro.js:1
+msgid "Connect with %1$s"
+msgstr "اتصال به %1$s"
+
+#: languages/aioseo-lite.php:30 dist/Lite/assets/js/setup-wizard.js:1
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: languages/aioseo-lite.php:39 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/setup-wizard.js:1
+msgid "Additional Site Information"
+msgstr "اطلاعات اضافی سایت"
+
+#: languages/aioseo-lite.php:42 dist/Lite/assets/js/setup-wizard.js:1
+msgid "Choose Features"
+msgstr "انتخاب ویژگی"
+
+#: languages/aioseo-lite.php:48 dist/Lite/assets/js/setup-wizard.js:1
+msgid "Smart Recommendations"
+msgstr "توصیه های هوشمند"
+
+#: languages/aioseo-lite.php:54 dist/Lite/assets/js/setup-wizard.js:1
+msgid "Success"
+msgstr "موفق"
+
+#: languages/aioseo-lite.php:140 dist/Lite/assets/js/local-seo.js:1
+msgid "Locations"
+msgstr "مکان‌ها"
+
+#: languages/aioseo-pro.php:284
+msgid "Search Appearance Settings"
+msgstr "تنظیمات ظاهر جستجو"
+
+#: languages/aioseo-pro.php:287
+msgid "Social Networks Settings"
+msgstr "تنظیمات شبکه‌های اجتماعی"
+
+#: languages/aioseo-lite.php:1726 languages/aioseo-pro.php:302
+#: app/Common/Admin/Admin.php:106
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+msgid "Tools"
+msgstr "ابزار"
+
+#: languages/aioseo-lite.php:880 languages/aioseo-pro.php:196
+#: app/Common/Utils/Options.php:767
+#: dist/Lite/assets/js/local-seo-pro-LocationsPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/local-seo-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocationsActivate-vue.js:1
+msgid "default"
+msgstr "پیشفرض"
+
+#. Translators: 1 - "Pro" string, 2 - "Learn more link".
+#: languages/aioseo-lite.php:1496 languages/aioseo-pro.php:317
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/settings-GeneralSettings-vue.js:1
+msgid "Pro"
+msgstr "حرفه ای"
+
+#: languages/aioseo-lite.php:1356 languages/aioseo-pro.php:323
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Your license key provides access to updates and addons."
+msgstr "لایسنس به شما اجازه دسترسی به بروزرسانی و اضافات راه می دهد."
+
+#: languages/aioseo-lite.php:1360 languages/aioseo-pro.php:326
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Paste your license key here"
+msgstr "لایسنس را در اینجا وارد کنید"
+
+#: languages/aioseo-lite.php:1364 languages/aioseo-pro.php:329
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Connect"
+msgstr "اتصال"
+
+#: languages/aioseo-pro.php:332
+msgid "Deactivate this license key"
+msgstr "این لایسنس را غیرفعال کنید"
+
+#. Translators: 1 - "embed.ly", 2 - "embed.ly".
+#: languages/aioseo-pro.php:193
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "By default, we try to provide enriched information about your videos. A lot of video services are supported by default. For those services which aren't supported, we can try to retrieve enriched video information using %1$s. If you want to use this option, you'll need to sign up for a (free) %2$s account and provide the API key you receive."
+msgstr "به طور پیش فرض ، ما سعی می کنیم اطلاعات غنی شده در مورد فیلم های شما را ارائه دهیم. بسیاری از سرویس های ویدئویی به طور پیش فرض پشتیبانی می شوند. برای سرویس هایی که پشتیبانی نمی شوند ، می توانیم با استفاده از اطلاعات ویدئویی غنی شده را بازیابی کنیم %1$s. اگر می خواهید از این گزینه استفاده کنید ، باید برای (رایگان) ثبت نام کنید%2$s حساب API و کلید API دریافتی را ارائه دهید."
+
+#: languages/aioseo-pro.php:335
+msgid "A valid license key is required in order to enable Pro features and continue to receive automatic updates."
+msgstr "برای فعال کردن ویژگی های حرفه ای و ادامه دریافت به روزرسانی خودکار ، یک کلید مجوز معتبر مورد نیاز است."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-pro.php:339
+msgid "Enter your license key below to activate %1$s!"
+msgstr "برای فعال کردن ، کلید مجوز خود را در زیر وارد کنید %1$s!"
+
+#. Translators: 1 - The type of license (Individual, Business, Agency).
+#: languages/aioseo-pro.php:343
+msgid "Your %1$s plan is active!"
+msgstr "پلن %1$s فعال است!"
+
+#. Translators: 1 - The expiration date of the license.
+#: languages/aioseo-pro.php:347
+msgid "(expires: %1$s)"
+msgstr "(انقضا: %1$s)"
+
+#. Translators: 1 - The type of license (Individual, Business, Agency), 2 - The
+#. expiration date of the license.
+#: languages/aioseo-pro.php:351
+msgid "Your license level is %1$s %2$s"
+msgstr "سطح لایسنس شما %1$s %2$s"
+
+#: languages/aioseo-pro.php:257 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+msgid "An unknown error occurred, please try again later."
+msgstr "خطای ناشناخته ای رخ داده است، مجدد تلاش کنید."
+
+#: languages/aioseo-pro.php:260 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+msgid "The license key provided is invalid. Please use a different key to continue receiving automatic updates."
+msgstr "لایسنس ارائه شده معتبر نیست. لطفاً برای ادامه دریافت به روزرسانی های خودکار ، از لایسنس دیگری استفاده کنید."
+
+#: languages/aioseo-pro.php:263 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+msgid "The license key provided is disabled. Please use a different key to continue receiving automatic updates."
+msgstr "لایسنس ارائه شده غیرفعال است. لطفاً برای ادامه دریافت به روزرسانی های خودکار ، از لایسنس دیگری استفاده کنید."
+
+#: languages/aioseo-pro.php:266 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+msgid "This license key has reached the maximum number of activations. Please deactivate it from another site or purchase a new license to continue receiving automatic updates."
+msgstr "این لایسنس به حداکثر تعداد فعال سازی رسیده است. لطفاً برای ادامه دریافت به روزرسانی خودکار ، آن را از سایت دیگری غیرفعال کنید یا لایسنس جدیدی خریداری کنید."
+
+#: languages/aioseo-pro.php:180
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "This defaults to your theme's content width, but if it's empty, setting a value here will make sure videos are embedded with the right width."
+msgstr "این به طور پیش فرض عرض محتوای طرح زمینه شماست ، اما اگر خالی باشد ، با تعیین مقدار در اینجا ، فیلم ها با عرض مناسب جاسازی می شوند."
+
+#: languages/aioseo-pro.php:183
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Wistia Domain"
+msgstr "دامنه Wistia"
+
+#: languages/aioseo-pro.php:186
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "If you use Wistia in combination with a custom domain, set this to the domain name you use for your Wistia videos. Don't include https: or slashes as they are not needed."
+msgstr "اگر از Wistia در ترکیب با دامنه سفارشی استفاده می کنید ، این را روی نام دامنه ای که برای فیلم های Wistia خود استفاده می کنید تنظیم کنید. https را وارد نکنید: یا اسلش ها را نیازی ندارید."
+
+#: languages/aioseo-pro.php:189
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Embedly API Key"
+msgstr "کلید API Embedly"
+
+#: languages/aioseo-pro.php:146
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Video Sitemap Settings"
+msgstr "تنظیمات نقشه سایت ویدئو"
+
+#: languages/aioseo-lite.php:637 languages/aioseo-pro.php:155
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Dynamically Generate"
+msgstr "تولید دینامیک"
+
+#: languages/aioseo-lite.php:604 languages/aioseo-pro.php:143
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "You can use this section to add any URLs to your sitemap which aren’t a part of your WordPress installation. For example, if you have a contact form that you would like to be included on your sitemap you can enter the information manually."
+msgstr "می توانید از این بخش برای افزودن URL هایی به نقشه سایت خود که بخشی از نصب وردپرس شما نیست استفاده کنید. به عنوان مثال ، اگر فرم تماسی دارید که می خواهید در نقشه سایت شما موجود باشد ، می توانید اطلاعات را به صورت دستی وارد کنید."
+
+#: languages/aioseo-pro.php:161
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Video Embed Settings"
+msgstr "تنظیمات قرار دادن ویدئو"
+
+#: languages/aioseo-pro.php:164
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "This section allows you to manage your video embeds, such as features for Facebook or making them responsive to automatically fit your content width."
+msgstr "این بخش به شما امکان می دهد جاسازی های ویدئویی خود ، مانند ویژگی برای فیس بوک یا واکشنگرا بودن را متناسب با عرض محتوای خود مدیریت کنید."
+
+#: languages/aioseo-pro.php:167
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Embed"
+msgstr "قرار دادن"
+
+#: languages/aioseo-pro.php:170
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Allow videos to be played directly on other websites, such as Facebook or Twitter."
+msgstr "اجازه دهید فیلم ها مستقیماً در وب سایت های دیگر مانند فیس بوک یا توییتر پخش شوند."
+
+#. Translators: 1 - "FitVids.js".
+#: languages/aioseo-pro.php:174
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Try to make videos responsive using %1$s?"
+msgstr "تلاش کنید ویدئو را واکنش گرا کنید برای استفاده %1$s؟"
+
+#: languages/aioseo-pro.php:177
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Content Width"
+msgstr "عرض محتوا"
+
+#: languages/aioseo-pro.php:134
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+msgid "Activate News Sitemap"
+msgstr "فعالسازی نقشه سایت اخبار"
+
+#: languages/aioseo-pro.php:137
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+msgid "Learn more about News Sitemaps"
+msgstr "یادگیری بیشتر درباره نقشه سایت اخبار گوگل"
+
+#: languages/aioseo-pro.php:29
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+msgid "Activate Image SEO"
+msgstr "فعالسازی سئوی تصویر"
+
+#: languages/aioseo-pro.php:125
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-VideoSitemap-vue.js:1
+msgid "Activate Video Sitemap"
+msgstr "فعالسازی سئوی ویدئو"
+
+#: languages/aioseo-pro.php:86
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+msgid "News Sitemap Settings"
+msgstr "تنظیمات نقشه سایت اخبار"
+
+#: languages/aioseo-lite.php:619 languages/aioseo-pro.php:107
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Priority Score"
+msgstr "نمره اولویت"
+
+#: languages/aioseo-lite.php:2818 languages/aioseo-pro.php:110
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Type to search..."
+msgstr "نوع برای جستجو...."
+
+#: languages/aioseo-lite.php:2809 languages/aioseo-pro.php:119
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Clear"
+msgstr "پاکسازی"
+
+#: languages/aioseo-pro.php:26
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "The Image SEO module is a premium feature that enables you to globally control the Title Attribute and Alt Text for attachment pages and images that are embedded in your content. These can be set based on a specified format, similar to the Title Format settings in the Global Settings menu."
+msgstr "ماژول سئوی تصویر یک ویژگی برتر است که به شما امکان می دهد ویژگی عنوان و متن جایگزین را برای صفحات پیوست و تصاویر در محتوای خود جاسازی کنید. این موارد را می توان بر اساس یک قالب مشخص ، مشابه تنظیمات عنوان، عنوان در منوی تنظیمات کلی تنظیم کرد."
+
+#: languages/aioseo-pro.php:32
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+msgid "Learn more about Image SEO"
+msgstr "یادگیری بیشتر راجع به سئوی تصویر"
+
+#: languages/aioseo-pro.php:122
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-VideoSitemap-vue.js:1
+msgid "Enable Video Sitemap on your Site"
+msgstr "در سایت خود نقشه سایت ویدئو را فعال کنید"
+
+#: languages/aioseo-pro.php:128
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-VideoSitemap-vue.js:1
+msgid "Learn more about Video Sitemaps"
+msgstr "یادگیری درباره نقشه سایت ویدئو"
+
+#: languages/aioseo-pro.php:89
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+msgid "Publication Name"
+msgstr "نام انتشارات"
+
+#: languages/aioseo-lite.php:589 languages/aioseo-pro.php:95
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-SearchAppearance-vue.js:1
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Include All Post Types"
+msgstr "شامل همه انواع نوشته"
+
+#: languages/aioseo-lite.php:610 languages/aioseo-pro.php:104
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Exclude Posts / Pages"
+msgstr "مستثنی کردن نوشته / برگه"
+
+#: languages/aioseo-pro.php:113
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Begin typing a title or ID to search for a page or post."
+msgstr "شروع به تایپ عنوان یا شناسه برای جستجوی صفحه یا نوشته کنید."
+
+#: languages/aioseo-pro.php:116
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "No pages or posts found with that title or ID. Try again!"
+msgstr "هیچ صفحه یا نوشته ای با آن عنوان یا شناسه یافت نشد. دوباره امتحان کنید!"
+
+#: languages/aioseo-pro.php:131
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+msgid "Enable Google News Sitemap on your Site"
+msgstr "در سایت خود نقشه سایت اخبار گوگل را فعال کنید"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: languages/aioseo-lite.php:3450 languages/aioseo-pro.php:5
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeo-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "Title Attribute Format"
+msgstr "فرمت عنوان ویژگی"
+
+#: languages/aioseo-lite.php:3453 languages/aioseo-pro.php:8
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeo-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "Strip Punctuation for Title Attributes"
+msgstr "علائم نگارشی برای ویژگی های عنوان"
+
+#: languages/aioseo-lite.php:3456 languages/aioseo-pro.php:11
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeo-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "Click on the tags below to insert variables into your title attribute."
+msgstr "بر روی برچسب های زیر کلیک کنید تا متغیرها را در ویژگی عنوان وارد کنید."
+
+#: languages/aioseo-lite.php:3459 languages/aioseo-pro.php:14
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeo-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "Alt Tag Attribute Format"
+msgstr "فرمت ویژگی متن جایگزین"
+
+#: languages/aioseo-lite.php:3462 languages/aioseo-pro.php:17
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeo-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "Click on the tags below to insert variables into your alt tag attribute."
+msgstr "بر روی برچسب های زیر کلیک کنید تا متغیرها را در ویژگی متن جایگزین خود وارد کنید."
+
+#: languages/aioseo-lite.php:3465 languages/aioseo-pro.php:20
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeo-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-lite-ImageSeo-vue.js:1
+msgid "Strip Punctuation for Alt Attributes"
+msgstr "علائم نگارشی برای ویژگی های متن جایگزین"
+
+#: languages/aioseo-pro.php:23
+#: dist/Lite/assets/js/search-appearance-pro-ImageSeoActivate-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+msgid "Enable Advanced SEO for Images on your Site"
+msgstr "سئوی پیشرفته را برای تصاویر سایت خود فعال کنید"
+
+#: app/Common/Admin/SiteHealth.php:318 app/Common/Admin/SiteHealth.php:384
+msgid "Search Page"
+msgstr "صفحه جستجو"
+
+#: app/Common/Admin/SiteHealth.php:317 app/Common/Admin/SiteHealth.php:383
+msgid "Date Archives"
+msgstr "بایگانی های تاریخ"
+
+#: app/Common/Admin/SiteHealth.php:316 app/Common/Admin/SiteHealth.php:382
+msgid "Author Archives"
+msgstr "بایگانی های نویسنده"
+
+#: app/Common/Admin/SiteHealth.php:312 app/Common/Admin/SiteHealth.php:378
+msgid "Paginated Content"
+msgstr "محتوای صفحه بندی شده"
+
+#: app/Common/Utils/Tags.php:526
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:89
+msgid "The fields below contain important SEO information from %1$s that may effect your site."
+msgstr "قسمتهای زیر حاوی اطلاعات مهم SEO از All in One SEO است که ممکن است سایت شما را تحت تأثیر قرار دهد."
+
+#: app/Common/Admin/SiteHealth.php:76
+msgid "Nofollowed content"
+msgstr "محتوای دنبال نشده"
+
+#: app/Common/Admin/SiteHealth.php:68
+msgid "Noindexed content"
+msgstr "محتوای Noindexed"
+
+#: app/Common/Admin/SiteHealth.php:284
+msgid "Fantastic! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+msgstr "خارق العاده! با به روزرسانی به جدیدترین نسخه ، به آخرین ویژگی ها ، رفع اشکالات و پیشرفت های امنیتی دسترسی دارید."
+
+#: app/Common/Admin/SiteHealth.php:273
+msgid "Go to Plugins"
+msgstr "به افزونه ها بروید"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:270
+msgid "An update is available for %1$s. Upgrade to the latest version to receive all the latest features, bug fixes and security improvements."
+msgstr "به روزرسانی برای همه در یک سئو در دسترس است. برای دریافت آخرین ویژگی ها ، رفع اشکال ها و پیشرفت های امنیتی ، به آخرین نسخه ارتقا دهید."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:235
+msgid "Awesome! These are required for %1$s's Person schema markup."
+msgstr "عالی! این موارد برای نشانه گذاری شخصیتی AIOSEO مورد نیاز است."
+
+#: app/Common/Admin/SiteHealth.php:232
+msgid "Your Person Name and Image are set"
+msgstr "نام و تصویر شخص شما تنظیم شده است"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:223
+msgid "Your Person Name and/or Image are blank. These values are required for %1$s's Person schema markup."
+msgstr "نام و یا تصویر شخص شما خالی است. این مقادیر برای علامت گذاری طرحواره شخص AIOSEO مورد نیاز است."
+
+#: app/Common/Admin/SiteHealth.php:220
+msgid "Your Person Name and/or Image are blank"
+msgstr "نام و یا تصویر شخص شما خالی است"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:201
+msgid "Awesome! These are required for %1$s's Organization schema markup."
+msgstr "عالی! این موارد برای علامت گذاری طرحواره سازمان AIOSEO لازم است."
+
+#: app/Common/Admin/SiteHealth.php:198
+msgid "Your Organization Name and Logo are set"
+msgstr "نام و نشان سازمان شما تنظیم شده است"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:189
+msgid "Your Organization Name and/or Logo are blank. These values are required for %1$s's Organization schema markup."
+msgstr "نام و یا آرم سازمان شما خالی است. این مقادیر برای علامت گذاری طرحواره سازمان AIOSEO مورد نیاز است."
+
+#: app/Common/Admin/SiteHealth.php:186
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "نام و یا آرم سازمان شما خالی است"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:159
+msgid "Great! These are required for %1$s's schema markup and are often used as fallback values for various other features."
+msgstr "عالی! این موارد برای علامت گذاری طرحواره AIOSEO مورد نیاز است و اغلب به عنوان مقادیر برگشتی برای ویژگی های مختلف دیگر استفاده می شود."
+
+#: app/Common/Admin/SiteHealth.php:156
+msgid "Your Site Title and Tagline are set"
+msgstr "عنوان سایت و Tagline تنظیم شده است"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:144
+msgid "Your Site Title and/or Tagline are blank. We recommend setting both of these values as %1$s requires these for various features, including our schema markup"
+msgstr "عنوان سایت و یا Tagline خالی است. ما توصیه می کنیم هر دو این مقادیر را تنظیم کنید زیرا AIOSEO برای ویژگی های مختلف از جمله نشانه گذاری طرح ما به این موارد نیاز دارد"
+
+#: app/Common/Admin/SiteHealth.php:141
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "عنوان سایت و یا Tagline خالی است"
+
+#: app/Common/Admin/SiteHealth.php:122
+msgid "Your site is set to public. Search engines will index your website and it will appear in search results."
+msgstr "سایت شما به صورت عمومی تنظیم شده است. موتورهای جستجو وب سایت شما را فهرست می کنند و در نتایج جستجو ظاهر می شوند."
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Your site appears in search results"
+msgstr "سایت شما در نتایج جستجو ظاهر می شود"
+
+#: app/Common/Admin/SiteHealth.php:115
+msgid "Go to Settings > Reading"
+msgstr "به تنظیمات بروید > خواندن"
+
+#: app/Common/Admin/SiteHealth.php:114
+msgid "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+msgstr "سایت شما به صورت خصوصی تنظیم شده است. این بدان معنی است که وردپرس از موتورهای جستجو می خواهد وب سایت شما را از نتایج جستجو حذف کنند."
+
+#: app/Common/Admin/SiteHealth.php:113
+msgid "Your site does not appear in search results"
+msgstr "سایت شما در نتایج جستجو نشان داده نمی شود"
+
+#: languages/aioseo-lite.php:3994
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "By allowing us to track usage data we can better help you because we know with which WordPress configurations, themes and plugins we should test."
+msgstr "با اجازه دادن به ما برای ردیابی داده های استفاده شده ، می توانیم بهتر به شما کمک کنیم زیرا می دانیم که با کدام تنظیمات ، مضامین و افزونه های وردپرس باید آزمایش کنیم."
+
+#: languages/aioseo-lite.php:3838 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings-RssContent-vue.js:1
+msgid "RSS Content Settings"
+msgstr "تنظیمات محتوای RSS"
+
+#: languages/aioseo-lite.php:678
+#: dist/Lite/assets/js/monsterinsights-Monsterinsights-vue.js:1
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+#: dist/Lite/assets/js/monsterinsights-Main-vue.js:1
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+#: languages/aioseo-lite.php:525 app/Common/Migration/GeneralSettings.php:463
+#: app/Common/Migration/SocialMeta.php:106
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Learn More"
+msgstr "بیشتر یاد بگیرید."
+
+#: app/Common/Utils/Tags.php:315
+msgid "The last name of the post author."
+msgstr "نام نمایش نویسنده پست"
+
+#: languages/aioseo-lite.php:3791 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Control The Title & Alt Tag Attribute of Your Images (Business & Agency tier only)"
+msgstr "ویژگی عنوان و برچسب Alt تصاویر خود را کنترل کنید (فقط برنامه های تجاری و آژانس)"
+
+#: app/Common/Admin/Admin.php:406
+msgid "LinkedIn Post Inspector"
+msgstr "LinkedIn بازرس پست"
+
+#: app/Common/Admin/SiteHealth.php:150
+msgid "Go to Settings > General"
+msgstr "به تنظیمات بروید > عمومی"
+
+#: languages/aioseo-lite.php:1611 dist/Lite/assets/js/chunk-common.js:1
+msgid "Zip code:"
+msgstr "کد پستی"
+
+#: languages/aioseo-lite.php:1617 dist/Lite/assets/js/chunk-common.js:1
+msgid "State:"
+msgstr "استان"
+
+#: languages/aioseo-lite.php:1605 dist/Lite/assets/js/chunk-common.js:1
+msgid "Street address:"
+msgstr "آدرس خیابان"
+
+#: languages/aioseo-lite.php:1878
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Success-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/feature-manager-FeatureManager-vue.js:1
+#: dist/Lite/assets/js/feature-manager-Main-vue.js:1
+msgid "Local Business SEO"
+msgstr "سئو مشاغل محلی"
+
+#: languages/aioseo-lite.php:1686 app/Common/Admin/Admin.php:307
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Notifications"
+msgstr "اطلاع‌رسانی‌ها"
+
+#: languages/aioseo-lite.php:3785 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Submit Your Latest News Stories to Google News (Business & Agency tier only)"
+msgstr "آخرین اخبار خود را به Google News ارسال کنید (فقط برنامه های تجاری و آژانس)"
+
+#: languages/aioseo-lite.php:3650 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Access our Premium Support"
+msgstr "به پشتیبانی حق بیمه ما دسترسی پیدا کنید"
+
+#: languages/aioseo-lite.php:115
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1 dist/Lite/assets/js/sitemaps.js:1
+msgid "RSS Sitemap"
+msgstr "RSS نقشه سایت"
+
+#: languages/aioseo-lite.php:112
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-lite-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/sitemaps.js:1
+#: dist/Lite/assets/js/sitemaps-lite-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "News Sitemap"
+msgstr "نقشه سایت اخبار"
+
+#: app/Common/Admin/Notices/Review.php:84
+msgid "Not Really..."
+msgstr "نه واقعا..."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:83
+msgid "Yes I love it"
+msgstr "بله من آن را دوست دارم"
+
+#: languages/aioseo-lite.php:3577 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Our high-converting optin forms like Exit-Intent® popups, Fullscreen Welcome Mats, and Scroll boxes help you dramatically boost conversions and get more email subscribers."
+msgstr "فرمهای optin با قابلیت تبدیل بالا مانند پنجره های Exit-Intent® ، تشک های خوش آمدید تمام صفحه ، و جعبه های پیمایش به شما کمک می کنند تا تبدیل ها را بطور چشمگیری تقویت کنید و مشترکان ایمیل بیشتری کسب کنید."
+
+#: languages/aioseo-lite.php:3583 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "MonsterInsights makes it “effortless” to properly connect your WordPress site with Google Analytics, so you can start making data-driven decisions to grow your business."
+msgstr "MonsterInsights اتصال صحیح سایت وردپرس خود را با Google Analytics اتصال \"بی دردسر\" می کند ، بنابراین می توانید تصمیمات مبتنی بر داده را برای رشد شغلی خود شروع کنید."
+
+#: languages/aioseo-lite.php:3598 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Turn your visitors into brand ambassadors! Easily grow your email list, website traffic, and social media followers with powerful viral giveaways & contests."
+msgstr "بازدید کنندگان خود را به سفیران برند خود تبدیل کنید! به راحتی لیست ایمیل، ترافیک وب سایت و دنبال کنندگان شبکه‌های اجتماعی را با هدایا و مسابقات قدرتمند ویروسی، افزایش دهید."
+
+#: languages/aioseo-lite.php:3580 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "WPForms allows you to create beautiful contact forms for your site in minutes, not hours!"
+msgstr "WPForms به شما اجازه می دهد فرم های تماس زیبا برای سایت خود بسازید. فقط در چند دقیقه؛ نه چند ساعت!"
+
+#: languages/aioseo-lite.php:2847 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: languages/aioseo-lite.php:3589 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Make sure your website's emails reach the inbox. Our goal is to make email deliverability easy and reliable. Trusted by over 1 million websites."
+msgstr "مطمئین شوید که ایمیل های وبسایت شما به صندوق ورودی می رسد(اسپم نمی شود). هدف ما این است که به مقصد رسیدن ایمیل ها را ساده و قابل اعتماد کنیم. ما مورد اعتماد بیش از 1 میلیون وبسایت مختلف هستیم."
+
+#: languages/aioseo-lite.php:149 dist/Lite/assets/js/posts-table.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Description:"
+msgstr "توضیحات:"
+
+#: languages/aioseo-lite.php:1412 languages/aioseo-pro.php:430
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Taxonomies-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Archives-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Keywords"
+msgstr "کلیدواژه"
+
+#: languages/aioseo-lite.php:3809 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Priority Support"
+msgstr "پشتیبانی برتر"
+
+#: languages/aioseo-lite.php:3788 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Not Available"
+msgstr "در دسترس نیست"
+
+#: languages/aioseo-lite.php:3806 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Limited Support"
+msgstr "پشتیبانی محدود"
+
+#: languages/aioseo-lite.php:3761 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "WooCommerce Integration"
+msgstr "ادغام WooCommerce"
+
+#: languages/aioseo-lite.php:3561 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr "بله ، ما چیزی در مورد ساختن محصولات بسیار جذاب را که مشتریان دوست دارند ، می دانیم."
+
+#: languages/aioseo-lite.php:3797 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Posts, Pages, Categories and Tags Only"
+msgstr "فقط پست ها ، صفحات ، دسته ها و برچسب ها"
+
+#: languages/aioseo-lite.php:3782 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Submit Your Videos to Search Engines"
+msgstr "فیلم های خود را به موتورهای جستجو ارسال کنید"
+
+#: languages/aioseo-lite.php:3776 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Granular Control of Sitemap Priority & Frequency for Each Post, Page, Category, Tag, etc."
+msgstr "کنترل گرانشی اولویت و فرکانس نقشه سایت برای هر پست ، صفحه ، دسته ، برچسب و غیره"
+
+#: languages/aioseo-lite.php:3773 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Basic Control of Sitemap Priority & Frequency"
+msgstr "کنترل اصلی اولویت و فرکانس نقشه سایت"
+
+#: languages/aioseo-lite.php:3767 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "WooCommerce Products, Product Categories, Product Tags and Other Product Attributes"
+msgstr "محصولات WooCommerce ، دسته های محصول ، برچسب های محصول و سایر ویژگی های محصول"
+
+#: languages/aioseo-lite.php:3764 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "WooCommerce Products Only"
+msgstr "فقط محصولات WooCommerce"
+
+#: languages/aioseo-lite.php:3758 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Posts, Pages, Custom Post Types + Categories, Tags and Custom Taxonomies"
+msgstr "پست ها ، صفحات ، انواع ارسال های سفارشی + دسته ها ، برچسب ها و طبقه بندی های سفارشی"
+
+#: languages/aioseo-lite.php:3800 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Complete Support"
+msgstr "پشتیبانی کامل"
+
+#: languages/aioseo-lite.php:3755 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Posts, Pages and Custom Post Types Only"
+msgstr "فقط پست ها ، صفحات و انواع پست های سفارشی"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro" string.
+#: languages/aioseo-lite.php:3714
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+msgid "Get %1$s %2$s and Unlock all the Powerful Features."
+msgstr "%s را امروز دریافت کنید و تمام ویژگی های قدرتمند را باز کنید"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:3817 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Get the most out of %1$s by upgrading to Pro and unlocking all of the powerful features."
+msgstr "با به روزرسانی در Pro و باز کردن قفل همه ویژگی های قدرتمند ، از %s بهره ببرید."
+
+#: languages/aioseo-lite.php:3794 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Schema Rich Snippets"
+msgstr "Schema Rich Snippets"
+
+#: languages/aioseo-lite.php:3779 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Video XML Sitemap"
+msgstr "نقشه سایت XML ویدئو"
+
+#: languages/aioseo-lite.php:3752 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Social Meta (Open Graph Markup)"
+msgstr "Meta اجتماعی (علامت گذاری نمودار باز)"
+
+#: languages/aioseo-lite.php:3826 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Search Engine Optimization (SEO)"
+msgstr "بهینه سازی موتور جستجو (SEO)"
+
+#: languages/aioseo-lite.php:3803 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Posts, Pages, Categories, Tags + Breadcrumb Navigation"
+msgstr "نوشته‌ها،برگه‌ها،دسته‌ها،برچسب‌ها + ناوبری ریزآدرس"
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:349
+msgid "Plugin installed & activated."
+msgstr "افزونه نصب و فعال شد."
+
+#: languages/aioseo-lite.php:3571 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Activate"
+msgstr "فعال کردن"
+
+#: languages/aioseo-lite.php:3568 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Install Plugin"
+msgstr "نصب پلاگین"
+
+#: languages/aioseo-lite.php:2841 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Activated"
+msgstr "فعال شده"
+
+#: app/Common/Admin/Admin.php:228
+msgid "No results found."
+msgstr "نتیجه ای پیدا نشد."
+
+#: app/Common/Admin/Admin.php:226
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: app/Common/Admin/Admin.php:225
+msgid "Add Link"
+msgstr "افزودن لینک"
+
+#: app/Common/Admin/Admin.php:224
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: app/Common/Admin/Admin.php:401
+msgid "Mobile-Friendly Test"
+msgstr "آزمون بهینه بودن برای موبایل"
+
+#: app/Common/Admin/Admin.php:396
+msgid "Google Page Speed Test"
+msgstr "ابزار گوگل برای تست سرعت صفحات"
+
+#: app/Common/Admin/Admin.php:391
+msgid "CSS Validator"
+msgstr "اعتبارسنج CSS"
+
+#: app/Common/Admin/Admin.php:386
+msgid "HTML Validator"
+msgstr "اعتبارسنج HTML"
+
+#: app/Common/Admin/Admin.php:381
+msgid "Pinterest Rich Pins Validator"
+msgstr "اعتبار سنج پین های قوی (Rich Pins) پینترست - Pinterest"
+
+#: app/Common/Admin/Admin.php:376
+msgid "Facebook Debugger"
+msgstr "اشکال زدایی فیس بوک"
+
+#: app/Common/Admin/Admin.php:371
+msgid "Google Structured Data Test"
+msgstr "تست داده ساختار گوگل"
+
+#: app/Common/Admin/Admin.php:366
+msgid "Check Google Cache"
+msgstr "بررسی حافظه پنهان (کَش) گوگل"
+
+#: app/Common/Admin/Admin.php:361
+msgid "Check links to this URL"
+msgstr "لینک ها را به این نشانی اینترنتی بررسی کنید"
+
+#: app/Common/Admin/Admin.php:353
+msgid "Analyze this page"
+msgstr "تجزیه و تحلیل این برگه"
+
+#: languages/aioseo-lite.php:3554 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Our goal is to take the pain out of optimizing your website for search engines."
+msgstr "هدف ما رفع درد بهینه سازی وب سایت شما برای موتورهای جستجو است."
+
+#: languages/aioseo-lite.php:3551 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Over the years, we found that most other WordPress SEO plugins were bloated, buggy, slow, and very hard to use. So we designed our plugin as an easy and powerful tool."
+msgstr "با گذشت سال ها ، متوجه شدیم که بیشتر افزونه های SEO WordPress دیگر دارای نفخ ، حشره دار ، کند و کاربرد بسیار سخت هستند. بنابراین ما پلاگین خود را به عنوان ابزاری آسان و قدرتمند طراحی کردیم."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - Same as previous.
+#: languages/aioseo-lite.php:3548 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Welcome to %1$s, the original SEO plugin for WordPress. At %2$s, we build software that helps you rank your website in search results and gain organic traffic."
+msgstr "به %1$s ، پلاگین اصلی SEO برای وردپرس خوش آمدید. با %2$s ، ما نرم افزاری را ایجاد می کنیم که به شما کمک می کند وب سایت خود را در نتایج جستجو رتبه بندی کنید و ترافیک ارگانیک کسب کنید."
+
+#: app/Common/Admin/Admin.php:229
+msgid "Link has been inserted."
+msgstr "پیوند وارد شد"
+
+#: languages/aioseo-lite.php:3628 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Social meta for Categories, Tags and Custom Taxonomies"
+msgstr "SEO را برای دسته ها ، برچسب ها و طبقه بندی های سفارشی باز کنید"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:499
+msgid "Warning: %1$s has detected other active SEO or sitemap plugins. We recommend that you deactivate the following plugins to prevent any conflicts:"
+msgstr "<strong> هشدار:</strong> %s سایر افزونه های فعال SEO یا نقشه سایت را شناسایی کرده است. توصیه می کنیم برای جلوگیری از هرگونه درگیری پلاگین های زیر را غیرفعال کنید:"
+
+#: app/Common/Admin/Admin.php:745
+msgid "Give us a 5-star rating!"
+msgstr "امتیاز 5 ستاره بدهید"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - "Pro" string.
+#: languages/aioseo-lite.php:3710
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+msgid "Get %1$s %2$s and Unlock all the Powerful Features"
+msgstr "%s را دریافت کرده و همه ویژگی های قدرتمند را باز کنید"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - "upgrading to Pro".
+#: languages/aioseo-lite.php:1636 dist/Lite/assets/js/chunk-common.js:1
+msgid "You're using %1$s. To unlock more features, consider %2$s."
+msgstr "شما از %1$s استفاده می کنید. برای باز کردن قفل ویژگی های بیشتر ، %2$s را در نظر بگیرید."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:1377
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-LicenseKey-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "You're using %1$s - no license needed. Enjoy!"
+msgstr "شما از %1$s استفاده می کنید - نیازی به مجوز نیست.لذت ببرید"
+
+#: languages/aioseo-lite.php:2999
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Success-vue.js:1
+msgid "Join our Community"
+msgstr "به به انجمن ما بپیوندید"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:25
+msgid "Suggest a Feature"
+msgstr "پیشنهاد یک ویژگی"
+
+#: languages/aioseo-lite.php:87 app/Common/Admin/Admin.php:121
+#: dist/Lite/assets/js/about.js:1
+msgid "About Us"
+msgstr "درباره ما"
+
+#: app/Common/Admin/Notices/Review.php:94
+msgid "I already did"
+msgstr "من قبلاً انجام دادم"
+
+#: app/Common/Admin/Notices/Review.php:93
+msgid "Nope, maybe later"
+msgstr "نه ، شاید بعداً"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:92
+msgid "Ok, you deserve it"
+msgstr "بله شما شایسته آن هستید"
+
+#: app/Common/Utils/Tags.php:280
+msgid "Your image's alt tag attribute."
+msgstr "ویژگی برچسب alt تصویر شما"
+
+#. Translators: 1 - "50% off".
+#: languages/aioseo-lite.php:1372 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/settings-GeneralSettings-vue.js:1
+msgid "As a valued user you receive %1$s, automatically applied at checkout!"
+msgstr "شما به عنوان یک کاربر %1$s با ارزش %2$s را دریافت می کنید ، به طور خودکار در هنگام پرداخت اعمال می شود!"
+
+#. Translators: 1 - "upgrading to Pro".
+#: languages/aioseo-lite.php:1368 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/settings-GeneralSettings-vue.js:1
+msgid "To unlock more features, consider %1$s."
+msgstr "برای باز کردن قفل ویژگی های بیشتر ، %s را در نظر بگیرید."
+
+#: app/Common/Admin/Notices/Review.php:89
+msgid "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "عالی است! آیا می توانید لطف بزرگی به من کنید و در وردپرس 5 ستاره به آن کمک کنید تا به ما کمک کند این خبر را گسترش دهیم و انگیزه خود را تقویت کنیم؟"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:87
+msgid "Give feedback"
+msgstr "بازخورد بدهید"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:86
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "متأسفیم که می شنویم از %1$s لذت نمی برید. ما دوست داریم فرصتی برای پیشرفت داشته باشیم. ممکن است یک دقیقه وقت بگذارید و به ما اطلاع دهید که چه کارهایی می توانیم بهتر انجام دهیم؟"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:82
+msgid "Are you enjoying %1$s?"
+msgstr "آیا از %1$s لذت می برید؟"
+
+#: languages/aioseo-lite.php:486 dist/Lite/assets/js/chunk-common.js:1
+msgid "always"
+msgstr "همیشه"
+
+#: languages/aioseo-lite.php:489 dist/Lite/assets/js/chunk-common.js:1
+msgid "hourly"
+msgstr "ساعتی"
+
+#: languages/aioseo-lite.php:501 dist/Lite/assets/js/chunk-common.js:1
+msgid "yearly"
+msgstr "سالانه"
+
+#: languages/aioseo-lite.php:504 dist/Lite/assets/js/chunk-common.js:1
+msgid "never"
+msgstr "هرگز"
+
+#. Translators: 1 - "Pro".
+#: languages/aioseo-lite.php:246 app/Lite/Admin/Notices/Notices.php:78
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Upgrade to %1$s"
+msgstr "ارتقاء دهید به %1$s"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "همه در یک تیم جستجوگرها"
+
+#: languages/aioseo-lite.php:3625
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Greater control over display settings"
+msgstr "کنترل بیشتر بر تنظیمات نمایشگر"
+
+#: languages/aioseo-lite.php:3619
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Advanced Google Analytics tracking"
+msgstr "ردیابی پیشرفته گوگل آنالیتکس"
+
+#: languages/aioseo-lite.php:3631
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Ad free (no banner adverts)"
+msgstr "آگهی رایگان (بدون تبلیغات)"
+
+#: languages/aioseo-lite.php:3717
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+msgid "Social Meta for Categories, Tags and Custom Taxonomies"
+msgstr "متا اجتماعی برای دسته ها، برچسب ها وطبقه بندی هایه سفارشی"
+
+#: languages/aioseo-lite.php:553
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Organize sitemap entries into distinct files in your sitemap. We recommend you enable this setting if your sitemap contains more than 1,000 URLs."
+msgstr "ورودی های نقشه سایت را در پرونده های مشخص در نقشه سایت خود سازماندهی کنید. توصیه می کنیم اگر نقشه سایت شما دارای بیش از 1000 آدرس اینترنتی است ، این تنظیم را فعال کنید."
+
+#: languages/aioseo-pro.php:311
+msgid "Schema Settings"
+msgstr "تنظیمات Schema"
+
+#: languages/aioseo-lite.php:297 dist/Lite/assets/js/chunk-common.js:1
+msgid "Package Tracking"
+msgstr "پیگیری بسته"
+
+#: languages/aioseo-lite.php:294 dist/Lite/assets/js/chunk-common.js:1
+msgid "Roadside Assistance"
+msgstr "امداد جاده ای"
+
+#: languages/aioseo-lite.php:288 dist/Lite/assets/js/chunk-common.js:1
+msgid "Emergency"
+msgstr "اضطراری"
+
+#: languages/aioseo-lite.php:285 dist/Lite/assets/js/chunk-common.js:1
+msgid "Credit Card Support"
+msgstr "پشتیبانی از کارت اعتباری"
+
+#: languages/aioseo-lite.php:282 dist/Lite/assets/js/chunk-common.js:1
+msgid "Reservations"
+msgstr "رزرو"
+
+#: languages/aioseo-lite.php:279 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sales"
+msgstr "فروش"
+
+#: languages/aioseo-lite.php:276 dist/Lite/assets/js/chunk-common.js:1
+msgid "Bill Payment"
+msgstr "پرداخت قبض"
+
+#: languages/aioseo-lite.php:273 dist/Lite/assets/js/chunk-common.js:1
+msgid "Billing Support"
+msgstr "پشتیبانی صورتحساب"
+
+#: languages/aioseo-lite.php:270 dist/Lite/assets/js/chunk-common.js:1
+msgid "Technical Support"
+msgstr "پشتیبانی فنی"
+
+#: languages/aioseo-lite.php:267 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Customer Support"
+msgstr "پشتیبانی مشتری"
+
+#: languages/aioseo-lite.php:185 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Phone Number"
+msgstr "شمار موبایل"
+
+#: languages/aioseo-lite.php:182 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+msgid "Organization Name"
+msgstr "نام سازمان"
+
+#: languages/aioseo-lite.php:291 dist/Lite/assets/js/chunk-common.js:1
+msgid "Bagage Tracking"
+msgstr "رهگیری Bagage"
+
+#: languages/aioseo-lite.php:239 dist/Lite/assets/js/chunk-common.js:1
+msgid "Archive"
+msgstr "بایگانی"
+
+#: languages/aioseo-lite.php:2261 dist/Lite/assets/js/chunk-common.js:1
+msgid "Dismiss"
+msgstr "نادیده گرفتن"
+
+#: languages/aioseo-lite.php:36 languages/aioseo-pro.php:457
+#: app/Common/Utils/Tags.php:324
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard.js:1
+msgid "Category"
+msgstr "دسته"
+
+#: app/Common/Admin/Notices/Review.php:88
+msgid "No thanks"
+msgstr "نه، ممنون"
+
+#: app/Common/Api/Wizard.php:254
+#: app/Common/ImportExport/RankMath/TitleMeta.php:371
+#: app/Common/Admin/Notices/Notices.php:406
+#: app/Common/Admin/Notices/Notices.php:453
+#: app/Common/Admin/Notices/Notices.php:527
+#: app/Common/Admin/Notices/Notices.php:581
+#: app/Common/Migration/GeneralSettings.php:739
+#: app/Common/Migration/Helpers.php:164
+msgid "Remind Me Later"
+msgstr "بعدا یادآوری کن"
+
+#. Translators: 1 - "WooCommerce", 2 - The plugin short name ("AIOSEO").
+#: app/Lite/Admin/Notices/Notices.php:74
+msgid "We have detected you are running %1$s. Upgrade to %2$s to unlock our advanced eCommerce SEO features, including SEO for Product Categories and more."
+msgstr "متوجه شدیم شما از %1$s استفاده می کنید. ارتقاء دهید به %2$s تا امکانات سئوی فروشگاهی فعال شود، شامل سئوی دسته محصولات و خیلی موارد دیگر."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:399
+msgid "Warning: %1$s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+msgstr "اخطار: %1$s متوجه شدیم سایت شما از دسترسی به موتورهای جستجو جلوگیری میکند. می توانید از مسیر تنظیمات > خواندن آن را تغییر دهید."
+
+#: app/Common/Admin/Dashboard.php:73
+msgid "Temporarily unable to load feed."
+msgstr "فعلن نمی توان فید را بارگذاری کرد."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:2828 dist/Lite/assets/js/chunk-common.js:1
+msgid "Welcome to %1$s"
+msgstr "به %1$s خوش آمدید"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:3647 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Read the %1$s user guide"
+msgstr "راهنمای %1$s را بخوانید"
+
+#: languages/aioseo-lite.php:1983 app/Common/Tools/SystemStatus.php:302
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Active Plugins"
+msgstr "افزونه های فعال"
+
+#: languages/aioseo-lite.php:1986 app/Common/Tools/SystemStatus.php:334
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Inactive Plugins"
+msgstr "افزون های غیرفعال"
+
+#. Translators: 1 - "Yandex Webmaster Tools".
+#: languages/aioseo-lite.php:4079
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Yandex Webmaster Tools"
+msgstr "ابزار وبمستر یاندکس"
+
+#. Translators: 1 - "Baidu Webmaster Tools".
+#: languages/aioseo-lite.php:4090
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Baidu Webmaster Tools"
+msgstr "ابزار وبمستر بایدو"
+
+#. Translators: 1 - The plugin name ("All in One SEO).
+#: app/Common/Api/Tools.php:117
+msgid "%1$s Debug Info"
+msgstr "%1$s اطلاعات اشکال زدایی"
+
+#: languages/aioseo-lite.php:613
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Exclude Terms"
+msgstr "شرایط را حذف کنید"
+
+#: languages/aioseo-lite.php:2143 dist/Lite/assets/js/chunk-common.js:1
+msgid "Archive Pages"
+msgstr "صفحات آرشیو"
+
+#: languages/aioseo-pro.php:149
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Include Custom Fields"
+msgstr "شامل زمینه های سفارشی"
+
+#: languages/aioseo-lite.php:2146 dist/Lite/assets/js/chunk-common.js:1
+msgid "Author Pages"
+msgstr "صفحه‌های نویسنده"
+
+#: app/Common/Views/sitemap/xsl/default.php:99
+msgid "sitemaps"
+msgstr "نقشه‌های سایت"
+
+#: languages/aioseo-lite.php:859 app/Common/Views/sitemap/xsl/default.php:98
+#: dist/Lite/assets/js/local-seo-pro-LocationsPro-vue.js:1
+#: dist/Lite/assets/js/local-seo-lite-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-Main-vue.js:1
+#: dist/Lite/assets/js/local-seo-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocationsActivate-vue.js:1
+msgid "URLs"
+msgstr "URLها"
+
+#: languages/aioseo-pro.php:152
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Enable this option to look for videos in custom fields as well."
+msgstr "این گزینه را فعال کنید تا ویدیوها را در زمینه های سفارشی نیز جستجو کنید."
+
+#: app/Common/Views/sitemap/xsl/default.php:89
+msgid "Generated by"
+msgstr "تولید شده توسط"
+
+#: app/Common/Views/sitemap/xsl/default.php:89
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "این یک نقشه سایت XML است ، که توسط موتورهای جستجو مانند گوگل یا بینگ مورد استفاده قرار می گیرد."
+
+#: app/Common/Views/sitemap/xsl/default.php:98
+msgid "This sitemap contains"
+msgstr "این نقشه سایت شامل"
+
+#: app/Common/Views/sitemap/xsl/default.php:99
+msgid "This sitemap index contains"
+msgstr "این فهرست نقشه سایت شامل"
+
+#: app/Common/Utils/Tags.php:471 app/Common/Utils/Tags.php:483
+msgid "Your site title."
+msgstr "عنوان سایت شما."
+
+#. Translators: 1 - "Google Search Console".
+#: languages/aioseo-lite.php:4057
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Google Search Console"
+msgstr "کنسول جستجوی گوگل"
+
+#. Translators: 1 - "Bing Webmaster Tools".
+#: languages/aioseo-lite.php:4068
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Bing Webmaster Tools"
+msgstr "ابزار وبمستر بینگ"
+
+#: languages/aioseo-lite.php:1775
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Disallow"
+msgstr "نادیده گرفتن"
+
+#: languages/aioseo-lite.php:1772
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Allow"
+msgstr "اجازه"
+
+#: languages/aioseo-lite.php:1766
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Rule"
+msgstr "قانون"
+
+#: languages/aioseo-lite.php:631
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Exclude Images"
+msgstr "حذف تصاویر"
+
+#: languages/aioseo-lite.php:634
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Exclude Images from your sitemap."
+msgstr "حذف تصاویر از نقشه سایت."
+
+#: languages/aioseo-lite.php:4192
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Outbound Forms"
+msgstr "فرمهای خروجی را پیگیری کنید"
+
+#: languages/aioseo-lite.php:4195
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Events"
+msgstr "رویدادها را ردیابی کنید"
+
+#: languages/aioseo-lite.php:4198
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track URL Changes"
+msgstr "رهیگیری تغییر URL"
+
+#: languages/aioseo-lite.php:4201
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Page Visibility"
+msgstr "رهیگیری قابل مشاهده بودن برگه"
+
+#: languages/aioseo-lite.php:4204
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Media Queries"
+msgstr "رهگیری کوئری‌های چندرسانه‌ای"
+
+#: languages/aioseo-lite.php:4207
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Elements Visibility"
+msgstr "رهگیری قابل مشاهده بودن عناصر"
+
+#: languages/aioseo-lite.php:4210
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Page Scrolling"
+msgstr "رهگیری اسکرول برگه"
+
+#: languages/aioseo-lite.php:4213
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Facebook and Twitter"
+msgstr "رهگیری توئیتر و فیسبوک"
+
+#: languages/aioseo-lite.php:4216
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Ensure URL Consistency"
+msgstr "از سازگاری URL اطمینان حاصل کنید"
+
+#: app/Common/Tools/SystemStatus.php:92
+msgid "Search Engine Visibility"
+msgstr "قابل مشاهده بودن برای موتورهای جستجو"
+
+#: app/Common/Tools/SystemStatus.php:52
+msgid "Site Language"
+msgstr "زبان سایت"
+
+#: languages/aioseo-lite.php:3512 app/Common/Tools/SystemStatus.php:48
+#: app/Common/Utils/Tags.php:470 app/Common/Utils/Tags.php:482
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: languages/aioseo-lite.php:2932
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Success-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+#: dist/Lite/assets/js/feature-manager-FeatureManager-vue.js:1
+#: dist/Lite/assets/js/feature-manager-Main-vue.js:1
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "سئو برای دسته‌ها،برچسب‌ها و طبقه بندی‌های سفارشی"
+
+#: languages/aioseo-lite.php:3622
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Video SEO Module"
+msgstr "ماژول سئوی ویدئو"
+
+#: languages/aioseo-lite.php:3616
+#: dist/Lite/assets/js/about-GettingStarted-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Advanced support for e-commerce"
+msgstr "پشتیبانی پیشرفته از تجارت الکترونیکی"
+
+#: languages/aioseo-lite.php:1623 dist/Lite/assets/js/chunk-common.js:1
+msgid "Email address:"
+msgstr "آدرس ایمیل:"
+
+#: languages/aioseo-lite.php:3306 app/Common/Migration/SocialMeta.php:71
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Use Content for Autogenerated Descriptions"
+msgstr "برای توضیحات تولید شده خودکار از محتوا استفاده کنید"
+
+#: languages/aioseo-lite.php:3967
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "این ابزارک نمایش اخبار سئو در پیشخوان است."
+
+#: app/Common/Admin/Dashboard.php:28
+msgid "SEO News"
+msgstr "اخبار سئو"
+
+#: languages/aioseo-lite.php:4042
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Get Started"
+msgstr "شروع کنید"
+
+#: languages/aioseo-lite.php:640
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Dynamically creates the XML Sitemap instead of using a static file."
+msgstr "به صورت پویا و به جای استفاده از یک فایل ثابت ، نقشه سایت XML را ایجاد می کند."
+
+#: languages/aioseo-lite.php:2881
+#: dist/Lite/assets/js/seo-analysis-AnalyzeCompetitorSite-vue.js:1
+#: dist/Lite/assets/js/seo-analysis-Main-vue.js:1
+msgid "Analyze"
+msgstr "تحلیل"
+
+#. Description of the plugin
+msgid "SEO for WordPress. Features like XML Sitemaps, SEO for custom post types, SEO for blogs, business sites, ecommerce sites, and much more. More than 65 million downloads since 2007."
+msgstr "سئوی وردپرس، ویژگی‌هایی مانند نقشه سایت، سئو برای انواع سفارشی نوشته،سئو برای بلاگ،سایت‌های بیزینسی، سایت های فروشگاهی و موارد دیگر. بیش از 65 میلیون دانلود از سال 2007 تاکنون."
+
+#: languages/aioseo-lite.php:653 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+msgid "Block Bad Bots using HTTP"
+msgstr "مسدود کردن روبات های مضر با استفاده از HTTP"
+
+#: languages/aioseo-lite.php:656 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+msgid "Block Referral Spam using HTTP"
+msgstr "مسدود کردن مراجعات اسپم با استفاده از HTTP"
+
+#: languages/aioseo-lite.php:662 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+msgid "Use Custom Blocklists"
+msgstr "استفاده از لیست دلخواه برای مسدود کردن"
+
+#: languages/aioseo-lite.php:318 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "Image SEO"
+msgstr "سنوی تصویر"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: languages/aioseo-lite.php:2222 app/Lite/Admin/Admin.php:37
+#: app/Lite/Admin/Admin.php:61 app/Lite/Main/Filters.php:59
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Upgrade to Pro"
+msgstr "ارتقاع به نسخه حرفه ای"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:54
+msgid "Documentation"
+msgstr "مستندات"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: languages/aioseo-lite.php:1935 app/Lite/Main/Filters.php:44
+#: app/Common/Admin/Admin.php:459
+#: dist/Lite/assets/js/tools-partials-ImportOthers-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+msgid "SEO Settings"
+msgstr "تنظیمات سئو"
+
+#: languages/aioseo-lite.php:3703 dist/Lite/assets/js/about-Main-vue.js:1
+msgid "About"
+msgstr "درباره"
+
+#: languages/aioseo-lite.php:51 languages/aioseo-pro.php:320
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/setup-wizard.js:1
+msgid "License Key"
+msgstr "کلید مجوز"
+
+#: languages/aioseo-lite.php:3240
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Facebook App ID"
+msgstr "شناسۀ برنامۀ کاربردی فیسبوک"
+
+#: languages/aioseo-lite.php:3237
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Facebook Admin ID"
+msgstr "آی دی مدیریت فیسبوک"
+
+#: languages/aioseo-lite.php:550
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Enable Sitemap Indexes"
+msgstr "فعال کردن فهرست نقشه سایت"
+
+#: languages/aioseo-lite.php:574 languages/aioseo-pro.php:92
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Post Types"
+msgstr "انواع پست ها"
+
+#: languages/aioseo-lite.php:78
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/search-appearance.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Taxonomies"
+msgstr "طبقه بندی ها"
+
+#: languages/aioseo-lite.php:2866 dist/Lite/assets/js/chunk-common.js:1
+msgid "Page URL"
+msgstr "آدرس صفحه"
+
+#: languages/aioseo-lite.php:2856 dist/Lite/assets/js/chunk-common.js:1
+msgid "Last Modified"
+msgstr "آخرین اصلاح"
+
+#: languages/aioseo-lite.php:601 languages/aioseo-pro.php:140
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Additional Pages"
+msgstr "صفحه های اضافی"
+
+#: app/Common/Sitemap/Output.php:28
+msgid "dynamically"
+msgstr "به صورت پویا"
+
+#: languages/aioseo-lite.php:492 dist/Lite/assets/js/chunk-common.js:1
+msgid "daily"
+msgstr "روزانه"
+
+#: languages/aioseo-lite.php:495 dist/Lite/assets/js/chunk-common.js:1
+msgid "weekly"
+msgstr "هفتگی"
+
+#: languages/aioseo-lite.php:498 dist/Lite/assets/js/chunk-common.js:1
+msgid "monthly"
+msgstr "ماهانه"
+
+#: languages/aioseo-lite.php:1403 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Priority"
+msgstr "اولویت"
+
+#: languages/aioseo-lite.php:1406 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Frequency"
+msgstr "فرکانس"
+
+#: languages/aioseo-lite.php:152 dist/Lite/assets/js/link-format-block.js:6
+#: dist/Lite/assets/js/posts-table.js:1
+msgid "Edit"
+msgstr "ویرایش"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: languages/aioseo-lite.php:3643 app/Lite/Main/Filters.php:49
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: languages/aioseo-lite.php:3770 dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+msgid "XML Sitemap"
+msgstr "نقشهٔ XML وب‌گاه"
+
+#: languages/aioseo-lite.php:483 dist/Lite/assets/js/chunk-common.js:1
+msgid "Website"
+msgstr "وبسایت"
+
+#: languages/aioseo-lite.php:510 app/Common/Tools/SystemStatus.php:77
+#: app/Common/Tools/SystemStatus.php:81 app/Common/Tools/SystemStatus.php:200
+#: app/Common/Tools/SystemStatus.php:216 app/Common/Tools/SystemStatus.php:220
+#: app/Common/Tools/SystemStatus.php:224 dist/Lite/assets/js/chunk-common.js:1
+msgid "Yes"
+msgstr "بله"
+
+#: languages/aioseo-lite.php:155 dist/Lite/assets/js/posts-table.js:1
+msgid "Save"
+msgstr "ذخیره"
+
+#: languages/aioseo-lite.php:158 dist/Lite/assets/js/posts-table.js:1
+msgid "Cancel"
+msgstr "لغو"
+
+#: app/Common/Tools/SystemStatus.php:68
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: app/Common/Tools/SystemStatus.php:64
+msgid "Home URL"
+msgstr "آدرس صفحه اصلی"
+
+#: app/Common/Tools/SystemStatus.php:76
+msgid "Multisite"
+msgstr "چند سایته"
+
+#: languages/aioseo-lite.php:1977 app/Common/Tools/SystemStatus.php:240
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Active Theme"
+msgstr "تم فعال"
+
+#: languages/aioseo-lite.php:1968 dist/Lite/assets/js/link-format-block.js:6
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Submit"
+msgstr "ثبت کردن"
+
+#: languages/aioseo-lite.php:1763
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "User Agent"
+msgstr "عامل کاربر"
+
+#: languages/aioseo-lite.php:1769
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Directory Path"
+msgstr "مسیر دایرکتوری"
+
+#: languages/aioseo-lite.php:1778
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Add Rule"
+msgstr "افزودن دستور"
+
+#: languages/aioseo-lite.php:568
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "به شما امکان تعیین تعداد بیشترین پست را  در یک نقشه سایت می دهد (تا 50,000 )."
+
+#: languages/aioseo-lite.php:592 languages/aioseo-pro.php:98
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Select which Post Types appear in your sitemap."
+msgstr "انتخاب کنید چه نوع پست هایی روی نقشه سایت شما نشان داده شود."
+
+#: languages/aioseo-lite.php:580
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Include Date Archives in your sitemap."
+msgstr "آرشیوهای داده را روی نقشه سایت شما شامل می شود."
+
+#: languages/aioseo-lite.php:586
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Include Author Archives in your sitemap."
+msgstr "آرشیوهای نویسنده را در نقشه سایت شما شامل می شود."
+
+#: languages/aioseo-lite.php:607 languages/aioseo-pro.php:101
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Advanced Settings"
+msgstr "تنظیمات پیشرفته"
+
+#: languages/aioseo-lite.php:3653 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "View the Changelog"
+msgstr "مشاهده تغییرات"
+
+#: languages/aioseo-lite.php:3656 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Watch video tutorials"
+msgstr "تماشای آموزش های ویدئویی"
+
+#: languages/aioseo-lite.php:3659 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Getting started? Read the Beginners Guide"
+msgstr "شروع کرده اید؟ راهنمای مبتدی ها را مطالعه کنید"
+
+#: app/Common/Admin/Admin.php:299 app/Common/Admin/SiteHealth.php:86
+msgid "SEO"
+msgstr "سئو"
+
+#: app/Common/Admin/Admin.php:440
+msgid "Edit SEO"
+msgstr "ویرایش سئو"
+
+#: app/Common/Tools/SystemStatus.php:44
+msgid "Version"
+msgstr "نسخه"
+
+#: languages/aioseo-lite.php:96 app/Common/Admin/Admin.php:111
+#: dist/Lite/assets/js/feature-manager.js:1
+#: dist/Lite/assets/js/feature-manager-Main-vue.js:1
+msgid "Feature Manager"
+msgstr "مدیریت قابلیت ها"
+
+#: languages/aioseo-lite.php:1875
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: languages/aioseo-lite.php:2073 dist/Lite/assets/js/chunk-common.js:1
+msgid "Performance"
+msgstr "عملکرد"
+
+#: languages/aioseo-lite.php:109
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-lite-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/sitemaps.js:1
+#: dist/Lite/assets/js/sitemaps-lite-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-VideoSitemap-vue.js:1
+msgid "Video Sitemap"
+msgstr "ویدئوی نقشه سایت"
+
+#: languages/aioseo-lite.php:1881
+#: dist/Lite/assets/js/tools-HtaccessEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Edit .htaccess"
+msgstr "ویرایش.htaccess"
+
+#: languages/aioseo-lite.php:161 dist/Lite/assets/js/posts-table.js:1
+msgid "Please wait..."
+msgstr "لطفا صبر کنید..."
+
+#: languages/aioseo-lite.php:507 app/Common/Tools/SystemStatus.php:77
+#: app/Common/Tools/SystemStatus.php:81 app/Common/Tools/SystemStatus.php:200
+#: app/Common/Tools/SystemStatus.php:216 app/Common/Tools/SystemStatus.php:220
+#: app/Common/Tools/SystemStatus.php:224 dist/Lite/assets/js/chunk-common.js:1
+msgid "No"
+msgstr "خیر"
+
+#: languages/aioseo-lite.php:66 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks.js:1
+msgid "Twitter"
+msgstr "توئیتر"
+
+#: languages/aioseo-lite.php:63 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks.js:1
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: languages/aioseo-lite.php:33
+#: dist/Lite/assets/js/tools-partials-ImportOthers-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ImportAioseo-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/setup-wizard.js:1
+msgid "Import"
+msgstr "وارد کردن"
+
+#: languages/aioseo-lite.php:1911
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+msgid "Export Settings"
+msgstr "صادر کردن تنظیمات"
+
+#: languages/aioseo-lite.php:348 dist/Lite/assets/js/chunk-common.js:1
+msgid "Activity"
+msgstr "فعالیت"
+
+#: languages/aioseo-lite.php:351 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sport"
+msgstr "ورزش"
+
+#: languages/aioseo-lite.php:357 dist/Lite/assets/js/chunk-common.js:1
+msgid "Bar"
+msgstr "کافه بار"
+
+#: languages/aioseo-lite.php:360 dist/Lite/assets/js/chunk-common.js:1
+msgid "Company"
+msgstr "شرکت"
+
+#: languages/aioseo-lite.php:363 dist/Lite/assets/js/chunk-common.js:1
+msgid "Cafe"
+msgstr "کافه"
+
+#: languages/aioseo-lite.php:366 dist/Lite/assets/js/chunk-common.js:1
+msgid "Hotel"
+msgstr "هتل"
+
+#: languages/aioseo-lite.php:369 dist/Lite/assets/js/chunk-common.js:1
+msgid "Restaurant"
+msgstr "رستوران"
+
+#. Translators: This refers to a charity/non-profit organization.
+#: languages/aioseo-lite.php:376 dist/Lite/assets/js/chunk-common.js:1
+msgid "Cause"
+msgstr "علت"
+
+#: languages/aioseo-lite.php:379 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sports League"
+msgstr "لیگ ورزشی"
+
+#: languages/aioseo-lite.php:382 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sports Team"
+msgstr "تیم ورزشی"
+
+#. Translators: This refers to a music group.
+#: languages/aioseo-lite.php:389 dist/Lite/assets/js/chunk-common.js:1
+msgid "Band"
+msgstr "گروه"
+
+#: languages/aioseo-lite.php:395 dist/Lite/assets/js/chunk-common.js:1
+msgid "School"
+msgstr "مدرسه"
+
+#: languages/aioseo-lite.php:398 dist/Lite/assets/js/chunk-common.js:1
+msgid "University"
+msgstr "دانشگاه"
+
+#: languages/aioseo-lite.php:404 dist/Lite/assets/js/chunk-common.js:1
+msgid "Actor"
+msgstr "هنرپیشه"
+
+#: languages/aioseo-lite.php:407 dist/Lite/assets/js/chunk-common.js:1
+msgid "Athlete"
+msgstr "ورزشکار"
+
+#: languages/aioseo-lite.php:411 languages/aioseo-pro.php:385
+#: dist/Lite/assets/js/settings-pro-AccessControl-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/settings-AccessControl-vue.js:1
+#: dist/Lite/assets/js/settings-lite-AccessControl-vue.js:1
+msgid "Author"
+msgstr "نویسنده"
+
+#: languages/aioseo-lite.php:414 dist/Lite/assets/js/chunk-common.js:1
+msgid "Director"
+msgstr "کارگردان"
+
+#: languages/aioseo-lite.php:417 dist/Lite/assets/js/chunk-common.js:1
+msgid "Musician"
+msgstr "موسیقیدان"
+
+#: languages/aioseo-lite.php:420 dist/Lite/assets/js/chunk-common.js:1
+msgid "Politician"
+msgstr "سیاستمدار"
+
+#: languages/aioseo-lite.php:423 dist/Lite/assets/js/chunk-common.js:1
+msgid "Profile"
+msgstr "پروفایل"
+
+#: languages/aioseo-lite.php:426 dist/Lite/assets/js/chunk-common.js:1
+msgid "Public Figure"
+msgstr "شکل عمومی"
+
+#: languages/aioseo-lite.php:432 dist/Lite/assets/js/chunk-common.js:1
+msgid "City"
+msgstr "شهر"
+
+#: languages/aioseo-lite.php:435 dist/Lite/assets/js/chunk-common.js:1
+msgid "Country"
+msgstr "کشور"
+
+#: languages/aioseo-lite.php:438 dist/Lite/assets/js/chunk-common.js:1
+msgid "Landmark"
+msgstr "نشان اختصاصی"
+
+#: languages/aioseo-lite.php:447 dist/Lite/assets/js/chunk-common.js:1
+msgid "Album"
+msgstr "آلبوم"
+
+#: languages/aioseo-lite.php:450 dist/Lite/assets/js/chunk-common.js:1
+msgid "Book"
+msgstr "کتاب"
+
+#: languages/aioseo-lite.php:453 dist/Lite/assets/js/chunk-common.js:1
+msgid "Drink"
+msgstr "نوشیدنی"
+
+#: languages/aioseo-lite.php:456 dist/Lite/assets/js/chunk-common.js:1
+msgid "Food"
+msgstr "غذا"
+
+#: languages/aioseo-lite.php:459 dist/Lite/assets/js/chunk-common.js:1
+msgid "Game"
+msgstr "بازی"
+
+#: languages/aioseo-lite.php:462 dist/Lite/assets/js/chunk-common.js:1
+msgid "Movie"
+msgstr "فیلم"
+
+#: languages/aioseo-lite.php:465 languages/aioseo-pro.php:83
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Product"
+msgstr "محصول"
+
+#: languages/aioseo-lite.php:468 dist/Lite/assets/js/chunk-common.js:1
+msgid "Song"
+msgstr "صدا"
+
+#: languages/aioseo-lite.php:471 dist/Lite/assets/js/chunk-common.js:1
+msgid "TV Show"
+msgstr "شو تلویزیونی"
+
+#: languages/aioseo-lite.php:474 dist/Lite/assets/js/chunk-common.js:1
+msgid "Episode"
+msgstr "اپیزود"
+
+#: languages/aioseo-lite.php:480 languages/aioseo-pro.php:71
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Article"
+msgstr "مقاله"
+
+#: languages/aioseo-lite.php:2902
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Category-vue.js:1
+msgid "Blog"
+msgstr "بلاگ"
+
+#: languages/aioseo-lite.php:3231
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Site Name"
+msgstr "نام سایت"
+
+#: languages/aioseo-lite.php:1025 dist/Lite/assets/js/chunk-common.js:1
+msgid "Featured Image"
+msgstr "تصویر ویژه"
+
+#: languages/aioseo-lite.php:1037 dist/Lite/assets/js/chunk-common.js:1
+msgid "Post Author Image"
+msgstr "تصویر نویسنده پست"
+
+#: languages/aioseo-lite.php:1040 dist/Lite/assets/js/chunk-common.js:1
+msgid "First Available Image"
+msgstr "اولین تصویر در دسترس"
+
+#: languages/aioseo-lite.php:3228
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Image"
+msgstr "تصویر"
+
+#: languages/aioseo-lite.php:1046 dist/Lite/assets/js/chunk-common.js:1
+msgid "Custom Image"
+msgstr "تصویر سفارشی"
+
+#: languages/aioseo-lite.php:1532
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Summary"
+msgstr "خلاصه"
+
+#: languages/aioseo-lite.php:1520 dist/Lite/assets/js/post-settings.js:1
+msgid "Twitter Card Type"
+msgstr "نوع کارت توئیتر"
+
+#: languages/aioseo-lite.php:3184
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Show Twitter Author"
+msgstr "نمایش نویسنده توئیتر"
+
+#: languages/aioseo-lite.php:3276
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Automatically Generate Article Tags"
+msgstr "ایجاد اتوماتیک تگ های مقاله"
+
+#: languages/aioseo-lite.php:1574 dist/Lite/assets/js/post-settings.js:1
+msgid "Article Section"
+msgstr "بخش مقاله"
+
+#: languages/aioseo-lite.php:1577 dist/Lite/assets/js/post-settings.js:1
+msgid "Article Tags"
+msgstr "تگ های مقاله"
+
+#: languages/aioseo-lite.php:170 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Person"
+msgstr "شخص"
+
+#: languages/aioseo-lite.php:173 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Organization"
+msgstr "سازمان"
+
+#: languages/aioseo-pro.php:314
+msgid "Social Settings"
+msgstr "تنظیمات اجتماعی"
+
+#: languages/aioseo-lite.php:1556
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Object Type"
+msgstr "نوع Object"
+
+#: languages/aioseo-lite.php:133 dist/Lite/assets/js/tools.js:1
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: app/Common/Tools/SystemStatus.php:124 app/Common/Tools/SystemStatus.php:128
+#: app/Common/Tools/SystemStatus.php:132 app/Common/Tools/SystemStatus.php:136
+#: app/Common/Tools/SystemStatus.php:140 app/Common/Tools/SystemStatus.php:144
+#: app/Common/Tools/SystemStatus.php:148
+msgid "Not set"
+msgstr "تنظیم نشده"
+
+#: languages/aioseo-lite.php:516 dist/Lite/assets/js/chunk-common.js:1
+msgid "On"
+msgstr "روشن"
+
+#: languages/aioseo-lite.php:513 dist/Lite/assets/js/chunk-common.js:1
+msgid "Off"
+msgstr "خاموش"
+
+#: languages/aioseo-lite.php:102 app/Common/Tools/SystemStatus.php:180
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "N/A"
+msgstr "قابل اجرا نیست"
+
+#: languages/aioseo-pro.php:451 app/Common/Tools/SystemStatus.php:171
+msgid "Operating System"
+msgstr "سیستم عامل"
+
+#: app/Common/Tools/SystemStatus.php:191
+msgid "PHP Version"
+msgstr "نسخه PHP"
+
+#: app/Common/Tools/SystemStatus.php:195
+msgid "PHP Memory Limit"
+msgstr "محدوده حافظه PHP"
+
+#: app/Common/Tools/SystemStatus.php:203
+msgid "PHP Max Upload Size"
+msgstr "سایز ماکزیمم برای آپلود فایل PHP"
+
+#: app/Common/Tools/SystemStatus.php:207
+msgid "PHP Max Post Size"
+msgstr "بیشترین میزان پست یا ورود اطلاعات PHP"
+
+#: languages/aioseo-lite.php:4108
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Google Analytics"
+msgstr "گوگل آنالیز"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "سئو کامل"
+
+#: languages/aioseo-lite.php:164 dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+msgid "Person or Organization"
+msgstr "شخص یا سازمان"
+
+#: languages/aioseo-lite.php:1838
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Reset Selected Settings to Default"
+msgstr "بازگردانی تنظیمات انتخاب شده به پیشفرض"
+
+#: languages/aioseo-lite.php:3005
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Success-vue.js:1
+msgid "Follow on Twitter"
+msgstr "دنبال کردن در توئیتر"
+
+#: languages/aioseo-lite.php:118
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1 dist/Lite/assets/js/tools.js:1
+msgid "Robots.txt Editor"
+msgstr "ویرایشگر Robots.txt"
+
+#: languages/aioseo-lite.php:121
+#: dist/Lite/assets/js/tools-HtaccessEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1 dist/Lite/assets/js/tools.js:1
+msgid ".htaccess Editor"
+msgstr "ویرایشگر .htaccess"
+
+#: languages/aioseo-lite.php:392 dist/Lite/assets/js/chunk-common.js:1
+msgid "Non-Profit"
+msgstr "غیر انتفاعی"
+
+#: languages/aioseo-lite.php:441 dist/Lite/assets/js/chunk-common.js:1
+msgid "State/Province"
+msgstr "استان/ایالت"
+
+#: languages/aioseo-lite.php:1583 app/Common/Tools/SystemStatus.php:73
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Default"
+msgstr "پیشفرض"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Title"
+msgstr "اجرای کدکوتاه در عنوان"
+
+#: languages/aioseo-lite.php:3309 app/Common/Migration/SocialMeta.php:75
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Run Shortcodes in Description"
+msgstr "اجرای کدکوتاه در توضیحات"
+
+#: app/Common/Utils/Tags.php:488
+msgid "Site Description"
+msgstr "توضیحات سایت"
+
+#: languages/aioseo-lite.php:1031 dist/Lite/assets/js/chunk-common.js:1
+msgid "First Image in Content"
+msgstr "تصویر اول در محتوا"
+
+#: languages/aioseo-lite.php:1034 dist/Lite/assets/js/chunk-common.js:1
+msgid "Image from Custom Field"
+msgstr "تصویر از فهرست سفارشی"
+
+#: languages/aioseo-lite.php:1514 dist/Lite/assets/js/post-settings.js:1
+msgid "Twitter Title"
+msgstr "عنوان توئیتر"
+
+#: languages/aioseo-lite.php:3279
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Use Keywords in Article Tags"
+msgstr "استفاده از کلیدواژه در برچسب مقاله"
+
+#: languages/aioseo-lite.php:3282
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Use Categories in Article Tags"
+msgstr "استفاده از دسته‌ها در برچسب مقاله"
+
+#: languages/aioseo-lite.php:3285
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Use Post Tags in Article Tags"
+msgstr "استفاده از برچسب محتوا در برچسب مقاله"
+
+#: app/Common/Tools/SystemStatus.php:179
+msgid "Memory Usage"
+msgstr "حافظه استفاده شده"
+
+#: app/Common/Tools/SystemStatus.php:183
+msgid "MySQL Version"
+msgstr "نسخه MySQL"
+
+#: app/Common/Tools/SystemStatus.php:199
+msgid "PHP Allow Url fopen"
+msgstr "PHP Allow Url fopen"
+
+#: app/Common/Tools/SystemStatus.php:211
+msgid "PHP Max Script Execution Time"
+msgstr "PHP Max Script Execution Time"
+
+#: app/Common/Tools/SystemStatus.php:215
+msgid "PHP Exif Support"
+msgstr "پشتیبانی PHP Exif"
+
+#: app/Common/Tools/SystemStatus.php:219
+msgid "PHP IPTC Support"
+msgstr "پشتیبانی PHP IPTC"
+
+#: app/Common/Tools/SystemStatus.php:223
+msgid "PHP XML Support"
+msgstr "پشتیبانی PHP XML"
+
+#: languages/aioseo-lite.php:1965 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Email Debug Information"
+msgstr "اطلاعات اشکال زدایی را از طریق ایمیل ارسال کنید"
+
+#: languages/aioseo-lite.php:598
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Select which Taxonomies appear in your sitemap."
+msgstr "انتخاب کنید کدام طبقه بندی در نقشه سایت شما قرار گیرد."
+
+#: languages/aioseo-lite.php:528 app/Common/Tools/SystemStatus.php:124
+#: app/Common/Tools/SystemStatus.php:128 app/Common/Tools/SystemStatus.php:132
+#: app/Common/Tools/SystemStatus.php:136 app/Common/Tools/SystemStatus.php:140
+#: app/Common/Tools/SystemStatus.php:144 app/Common/Tools/SystemStatus.php:148
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Disabled"
+msgstr "غیرفعال"
+
+#: languages/aioseo-lite.php:531 dist/Lite/assets/js/chunk-common.js:1
+msgid "Enabled"
+msgstr "فعال"
+
+#: languages/aioseo-lite.php:3163
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Home Page Settings"
+msgstr "تنظیمات صفحه اصلی"
+
+#: languages/aioseo-lite.php:1459 app/Common/Admin/Admin.php:227
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Title"
+msgstr "عنوان"
+
+#: languages/aioseo-lite.php:3345
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Description Format"
+msgstr "فرمت توضیحات"
+
+#: languages/aioseo-lite.php:3175 languages/aioseo-pro.php:367
+#: app/Common/Utils/Tags.php:516
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Description"
+msgstr "توضیح"
+
+#: languages/aioseo-lite.php:3303
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Autogenerate Descriptions"
+msgstr "تولید خودکار توضیحات"
+
+#: languages/aioseo-lite.php:4185
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Enhanced Ecommerce"
+msgstr "تخصیص فروشگاه الکترونیکی"
+
+#: languages/aioseo-lite.php:4171
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Enhanced Link Attribution"
+msgstr "تخصیص مجوز لینک"
+
+#: languages/aioseo-lite.php:4178
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Outbound Links"
+msgstr "پیگیری Outbound لینک ها"
+
+#: languages/aioseo-lite.php:4157
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Display Advertiser Tracking"
+msgstr "نمایش ردیابی آگهی"
+
+#: languages/aioseo-lite.php:4150
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Anonymize IP Addresses"
+msgstr "آدرس آی پی های گمنام"
+
+#: languages/aioseo-lite.php:4143
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Additional Domains"
+msgstr "دامنه های اضافی"
+
+#: languages/aioseo-lite.php:4136
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Track Multiple Domains"
+msgstr "پیگیری چند دامنه"
+
+#: languages/aioseo-lite.php:4129
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Tracking Domain"
+msgstr "دامنه ی تحت نظارت"
+
+#: languages/aioseo-lite.php:4111
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Google Analytics ID"
+msgstr "شناسه Google Analytics"
+
+#: languages/aioseo-lite.php:4097
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Pinterest Site Verification"
+msgstr "تائیدیه سایت پینترست"
+
+#: languages/aioseo-lite.php:3339
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Paged Format"
+msgstr "فرمت صفحه"
+
+#: languages/aioseo-lite.php:3312
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "No Pagination for Canonical URLs"
+msgstr "بدون صفحه بندی صفحه برای آدرس های Canonical"
+
+#: languages/aioseo-lite.php:1397 dist/Lite/assets/js/post-settings.js:1
+msgid "Canonical URL"
+msgstr "آدرس Canonical"
+
+#: languages/aioseo-lite.php:4164
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Exclude Users from Tracking"
+msgstr "کاربران را از پیگیری حذف کنید"
+
+#: languages/aioseo-lite.php:3321
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Use Categories for Meta Keywords"
+msgstr "استفاده از دسته‌]ا برای کلیدواژه‌های متا"
+
+#: languages/aioseo-lite.php:3327
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Use Tags for Meta Keywords"
+msgstr "استفاده از برچسب برای کلیدواژه‌های متا"
+
+#: languages/aioseo-lite.php:4039
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Manage Google Analytics"
+msgstr "مدیریت گوگل آنالیتیکس"
+
+#: languages/aioseo-lite.php:3342
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "This string gets appended to the titles and descriptions of paginated pages (like term or archive pages)."
+msgstr "این رشته به عناوین و توضیحات صفحات صفحه بندی شده پیوست می شود (مانند صفحات شرایط یا بایگانی)."
+
+#. Translators: 1 - "http://", 2 - A link to our documentation, 3 - HTML line
+#. break tag.
+#: languages/aioseo-lite.php:4133
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Enter your domain name without the %1$s to set your cookie domain.%2$s%3$s"
+msgstr "دامنه خود را بدون %1$s برای تنظیم کوکی دامنه وارد کنید.%2$s%3$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4140
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Use this option to enable tracking of multiple or additional domains.%1$s%2$s"
+msgstr "از این گزینه برای رهگیری چندگانه یا دامنه های اضافی استفاده کنید.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4147
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Add a list of additional domains to track here. Enter one domain name per line without the http://.%1$s%2$s"
+msgstr "برای رهگیری لیستی از دامنه ها را وارد کنید. هر دامنه را در یک خط بدونhttp://.%1$s%2$s وارد کنید"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4154
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "This enables support for IP Anonymization in Google Analytics.%1$s%2$s"
+msgstr "این امکان پشتیبانی از ناشناس سازی IP در Google Analytics را فراهم می کند.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4161
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "This enables support for the Display Advertiser Features in Google Analytics.%1$s%2$s"
+msgstr "این امکان پشتیبانی از ویژگی های Display Advertiser در Google Analytics را فراهم می کند.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4168
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Exclude logged-in users from Google Analytics tracking by role.%1$s%2$s"
+msgstr "کاربران وارد شده را از طریق ردیابی Google Analytics براساس نقش حذف کنید.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4175
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics.%1$s%2$s"
+msgstr "این امکان پشتیبانی از پیوند پیشرفته در Google Analytics را فراهم می کند.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: languages/aioseo-lite.php:4189
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics.%1$s%2$s"
+msgstr "این امکان پشتیبانی از تجارت الکترونیکی پیشرفته در Google Analytics را فراهم می کند.%1$s%2$s"
+
+#: languages/aioseo-lite.php:3318
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "این گزینه به شما اجازه می دهد که استفاده کلمات کلیدی فوقانی در کل سایت قطع و وصل شود."
+
+#: languages/aioseo-lite.php:3324
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "اگر می خواهید طبقات یک پست مشخص به عنوان کلمات کلیدی فوقانی برای این پست انتخاب شود (علاوه بر هر کلمه کلیدی که روی صفحه Edit Post مشخص می کنید) این گزینه را کنترل کنید."
+
+#: languages/aioseo-lite.php:3330
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "اگر برچسب هایتان در یک پست مشخص که به عنوان کلمات کلیدی فوقانی انتخاب شده را برای این پست هم می خواهید، این گزینه را انتخاب کنید (علاوه بر هر کلمه کلیدی که روری صفحه Edit Post مشخص می کنید)."
+
+#: languages/aioseo-lite.php:3336
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page. If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "اگر می خواهید کلمات کلیدی خود را در صفحه نوشته‌های خود تنظیم کنید (تنظیم شده در وردپرس در بخش تنظیمات ، خواندن، نمایش صفحه اول) و صفحات بایگانی خود را به صورت پویا از کلمات کلیدی نوشته های نمایش داده شده در آن صفحه بررسی کنید. در صورت لغو انتخاب ، از کلمات کلیدی تنظیم شده در صفحه ویرایش صفحه برای صفحه نوشته ها استفاده می شود."
+
+#: languages/aioseo-lite.php:15 languages/aioseo-pro.php:281
+#: app/Common/Admin/Admin.php:66 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings.js:1
+msgid "General Settings"
+msgstr "تنظیمات کلی"
+
+#: languages/aioseo-lite.php:124
+#: dist/Lite/assets/js/tools-DatabaseTools-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools.js:1
+msgid "Bad Bot Blocker"
+msgstr "مسدود کننده ربات های بد"
+
+#: languages/aioseo-lite.php:659 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+msgid "Track Blocked Bots"
+msgstr "بوت های مسدود را پیدا کنید"
+
+#: languages/aioseo-lite.php:665 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+msgid "User Agent Blocklist"
+msgstr "لیست سیاه عامل کاربر "
+
+#: languages/aioseo-lite.php:668 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+msgid "Referer Blocklist"
+msgstr "لیست سیاه Referer"
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:226
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "بات‌های مسدود با IP %1$s -- هماهنگ با عامل کاربری %2$s در لیست سیاه یافت شدند."
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:235
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "بات‌های مسدود با IP %1$s -- هماهنگ با ارجاع دهنده %2$s در لیست سیاه یافت شدند."

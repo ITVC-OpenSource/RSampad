@@ -1,0 +1,595 @@
+1632758165~~1~~Processing step 1/14
+1632758165~~1~~Skipping NinjaScanner files integrity check
+1632758165~~8~~Process executed in 0 seconds and used 30,11 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758166~~1~~Processing step 2/14
+1632758166~~1~~Building file's list
+1632758188~~1~~Total files found: 47,503
+1632758188~~1~~Building database posts and pages checksum
+1632758188~~1~~Found 163 posts and 80 pages in the database
+1632758188~~8~~Process executed in 22.65 seconds and used 64,08 MB of memory (NinjaScanner additional memory: 34,67 MB).
+1632758189~~1~~Processing step 3/14
+1632758189~~1~~Checking WordPress core files integrity
+1632758189~~8~~Downloading wordpress-5.8.1-fa_IR.zip from wordpress.org
+1632758193~~8~~Building files list from ZIP archive
+1632758194~~8~~Using sha1 algo
+1632758198~~1~~Files integrity is O.K
+1632758198~~2~~Additional/suspicious files: 203
+1632758198~~8~~Process executed in 8.65 seconds and used 64,58 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758199~~1~~Processing step 4/14
+1632758199~~1~~Building plugins list
+1632758199~~8~~Total plugins found: 46
+1632758199~~8~~Process executed in 0.07 seconds and used 64,08 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758200~~1~~Processing step 5/14
+1632758200~~1~~Checking plugin files integrity
+1632758200~~8~~tinymce-advanced 5.6.0
+1632758200~~8~~Attempting to download it from wordpress.org
+1632758202~~8~~Building files list from ZIP archive
+1632758202~~8~~Using sha1 algo
+1632758202~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/tinymce-advanced/readme.txt
+1632758202~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/tinymce-advanced/tinymce-advanced.php
+1632758202~~8~~akismet 4.1.12
+1632758202~~8~~Attempting to download it from wordpress.org
+1632758203~~8~~Building files list from ZIP archive
+1632758203~~8~~Using sha1 algo
+1632758203~~8~~all-in-one-seo-pack 4.1.4.4
+1632758203~~8~~Attempting to download it from wordpress.org
+1632758205~~8~~Building files list from ZIP archive
+1632758205~~8~~Using sha1 algo
+1632758206~~8~~classic-editor 1.6.2
+1632758206~~8~~Attempting to download it from wordpress.org
+1632758207~~8~~Building files list from ZIP archive
+1632758207~~8~~Using sha1 algo
+1632758207~~8~~coming-soon 6.6.0
+1632758207~~8~~Attempting to download it from wordpress.org
+1632758209~~8~~Building files list from ZIP archive
+1632758209~~8~~Using sha1 algo
+1632758210~~8~~contact-form-7 5.4.2
+1632758210~~8~~Attempting to download it from wordpress.org
+1632758211~~8~~Building files list from ZIP archive
+1632758211~~8~~Using sha1 algo
+1632758211~~8~~download-manager 3.2.15
+1632758211~~8~~Attempting to download it from wordpress.org
+1632758212~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758214~~8~~Building files list from ZIP archive
+1632758214~~8~~Using sha1 algo
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/assets/css/admin-styles.css
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/download-manager.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/readme.txt
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Admin/views/metaboxes/package-settings.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Category/Shortcodes.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/MediaLibrary/MediaAccessControl.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Package/PackageController.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Package/Shortcodes.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Package/views/all-packages-shortcode.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Package/views/packages-shortcode.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/Package/views/packages-shortcode-toolbar.php
+1632758214~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/__/UI.php
+1632758215~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/wpdm-functions.php
+1632758215~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/download-manager/src/wpdm-start-download.php
+1632758215~~8~~duplicator 1.4.3
+1632758215~~8~~Attempting to download it from wordpress.org
+1632758217~~8~~Building files list from ZIP archive
+1632758217~~8~~Using sha1 algo
+1632758218~~8~~elementor 3.5.0-dev29
+1632758218~~8~~Attempting to download it from wordpress.org
+1632758220~~8~~Building files list from ZIP archive
+1632758221~~8~~Using sha1 algo
+1632758222~~8~~elementor-beta 1.1.1
+1632758222~~8~~Attempting to download it from wordpress.org
+1632758223~~8~~Building files list from ZIP archive
+1632758223~~8~~Using sha1 algo
+1632758223~~8~~envira-gallery-lite 1.8.3.7
+1632758223~~8~~Attempting to download it from wordpress.org
+1632758224~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758226~~8~~Building files list from ZIP archive
+1632758226~~8~~Using sha1 algo
+1632758226~~8~~file-manager 5.2.0
+1632758226~~8~~Attempting to download it from wordpress.org
+1632758227~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758229~~8~~Building files list from ZIP archive
+1632758229~~8~~Using sha1 algo
+1632758229~~8~~gravityforms 2.5.7.5
+1632758229~~8~~Attempting to download it from wordpress.org
+1632758230~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758231~~2~~HTTP Error 404. Skipping gravityforms 2.5.7.5, it may not be available in the repo
+1632758231~~8~~gfstylespro 2.7.4
+1632758231~~8~~Attempting to download it from wordpress.org
+1632758231~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758232~~2~~HTTP Error 404. Skipping gfstylespro 2.7.4, it may not be available in the repo
+1632758232~~8~~gravityview-importer 2.2.3
+1632758232~~8~~Attempting to download it from wordpress.org
+1632758233~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758233~~2~~HTTP Error 404. Skipping gravityview-importer 2.2.3, it may not be available in the repo
+1632758233~~8~~gravityview 2.11
+1632758233~~8~~Attempting to download it from wordpress.org
+1632758234~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758235~~2~~HTTP Error 404. Skipping gravityview 2.11, it may not be available in the repo
+1632758235~~8~~gutenberg 11.5.1
+1632758235~~8~~Attempting to download it from wordpress.org
+1632758237~~8~~Building files list from ZIP archive
+1632758237~~8~~Using sha1 algo
+1632758238~~8~~upload-max-file-size 2.0.4
+1632758238~~8~~Attempting to download it from wordpress.org
+1632758240~~8~~Building files list from ZIP archive
+1632758240~~8~~Using sha1 algo
+1632758240~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/upload-max-file-size/readme.txt
+1632758240~~8~~litespeed-cache 4.4.2
+1632758240~~8~~Attempting to download it from wordpress.org
+1632758242~~8~~Building files list from ZIP archive
+1632758242~~8~~Using sha1 algo
+1632758242~~8~~ninjafirewall 4.4.2
+1632758242~~8~~Attempting to download it from wordpress.org
+1632758244~~8~~Building files list from ZIP archive
+1632758244~~8~~Using sha1 algo
+1632758244~~8~~ninjascanner 3.0.8
+1632758244~~8~~Attempting to download it from wordpress.org
+1632758246~~8~~Building files list from ZIP archive
+1632758246~~8~~Using sha1 algo
+1632758246~~8~~pwa-for-wp 1.7.38
+1632758246~~8~~Attempting to download it from wordpress.org
+1632758247~~8~~Building files list from ZIP archive
+1632758247~~8~~Using sha1 algo
+1632758247~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/pwa-for-wp/assets/js/pwa-push-notification.js
+1632758247~~8~~quttera-web-malware-scanner 3.3.4.107
+1632758247~~8~~Attempting to download it from wordpress.org
+1632758249~~8~~Building files list from ZIP archive
+1632758249~~8~~Using sha1 algo
+1632758249~~8~~rafflepress 1.7.2
+1632758249~~8~~Attempting to download it from wordpress.org
+1632758251~~8~~Building files list from ZIP archive
+1632758251~~8~~Using sha1 algo
+1632758252~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/rafflepress/readme.txt
+1632758252~~8~~redux-framework 4.3.1
+1632758252~~8~~Attempting to download it from wordpress.org
+1632758256~~8~~Building files list from ZIP archive
+1632758257~~8~~Using sha1 algo
+1632758259~~8~~soliloquy-lite 2.6.2
+1632758259~~8~~Attempting to download it from wordpress.org
+1632758259~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758261~~8~~Building files list from ZIP archive
+1632758261~~8~~Using sha1 algo
+1632758261~~8~~smart-slider-3 3.5.0.11
+1632758261~~8~~Attempting to download it from wordpress.org
+1632758263~~8~~Building files list from ZIP archive
+1632758264~~8~~Using sha1 algo
+1632758265~~8~~wp-smushit 3.9.0
+1632758265~~8~~Attempting to download it from wordpress.org
+1632758267~~8~~Building files list from ZIP archive
+1632758267~~8~~Using sha1 algo
+1632758268~~8~~taqyeem 2.2.3
+1632758268~~8~~Attempting to download it from wordpress.org
+1632758269~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758269~~2~~HTTP Error 404. Skipping taqyeem 2.2.3, it may not be available in the repo
+1632758269~~8~~taqyeem-buttons 1.1.0
+1632758269~~8~~Attempting to download it from wordpress.org
+1632758270~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758271~~2~~HTTP Error 404. Skipping taqyeem-buttons 1.1.0, it may not be available in the repo
+1632758271~~8~~taqyeem-predefined 1.0.1
+1632758271~~8~~Attempting to download it from wordpress.org
+1632758271~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758272~~2~~HTTP Error 404. Skipping taqyeem-predefined 1.0.1, it may not be available in the repo
+1632758272~~8~~wp-jalali 5.0.1
+1632758272~~8~~Attempting to download it from wordpress.org
+1632758274~~8~~Building files list from ZIP archive
+1632758274~~8~~Using sha1 algo
+1632758274~~8~~wp-parsidate 3.0.3
+1632758274~~8~~Attempting to download it from wordpress.org
+1632758275~~8~~Building files list from ZIP archive
+1632758275~~8~~Using sha1 algo
+1632758275~~8~~wp-postviews 1.76.1
+1632758275~~8~~Attempting to download it from wordpress.org
+1632758276~~8~~Building files list from ZIP archive
+1632758276~~8~~Using sha1 algo
+1632758276~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/wp-postviews/postviews-options.php
+1632758276~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/wp-postviews/readme.txt
+1632758276~~2~~Checksum mismatch: /home/rsampadi/public_html/wp-content/plugins/wp-postviews/wp-postviews.php
+1632758276~~8~~wp-cerber 8.9.3
+1632758276~~8~~Attempting to download it from wordpress.org
+1632758278~~8~~Building files list from ZIP archive
+1632758278~~8~~Using sha1 algo
+1632758278~~8~~wpdm-page-template 1.1
+1632758278~~8~~Attempting to download it from wordpress.org
+1632758279~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758280~~2~~HTTP Error 404. Skipping wpdm-page-template 1.1, it may not be available in the repo
+1632758280~~8~~wpforms 1.6.0
+1632758280~~8~~Attempting to download it from wordpress.org
+1632758280~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758281~~2~~HTTP Error 404. Skipping wpforms 1.6.0, it may not be available in the repo
+1632758281~~8~~wp-maintenance-mode 2.4.1
+1632758281~~8~~Attempting to download it from wordpress.org
+1632758283~~8~~Building files list from ZIP archive
+1632758283~~8~~Using sha1 algo
+1632758284~~8~~wp-shamsi 4.1.0
+1632758284~~8~~Attempting to download it from wordpress.org
+1632758286~~8~~Building files list from ZIP archive
+1632758286~~8~~Using sha1 algo
+1632758286~~8~~HB 1.0
+1632758286~~8~~Attempting to download it from wordpress.org
+1632758287~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758288~~2~~HTTP Error 404. Skipping HB 1.0, it may not be available in the repo
+1632758288~~8~~gravityforms-zaringate 2.3.0
+1632758288~~8~~Attempting to download it from wordpress.org
+1632758288~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758289~~2~~HTTP Error 404. Skipping gravityforms-zaringate 2.3.0, it may not be available in the repo
+1632758289~~8~~Gravityforms_AccessCode 1.0.2
+1632758289~~8~~Attempting to download it from wordpress.org
+1632758290~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758290~~2~~HTTP Error 404. Skipping Gravityforms_AccessCode 1.0.2, it may not be available in the repo
+1632758290~~8~~RTL-CareUnit 1.3.2
+1632758290~~8~~Attempting to download it from wordpress.org
+1632758291~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758292~~2~~HTTP Error 404. Skipping RTL-CareUnit 1.3.2, it may not be available in the repo
+1632758292~~8~~parsi-sokhan 2.2
+1632758292~~8~~Attempting to download it from wordpress.org
+1632758292~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758294~~8~~Building files list from ZIP archive
+1632758294~~8~~Using sha1 algo
+1632758294~~8~~gravityforms_access_code 1.0
+1632758294~~8~~Attempting to download it from wordpress.org
+1632758294~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758295~~2~~HTTP Error 404. Skipping gravityforms_access_code 1.0, it may not be available in the repo
+1632758295~~8~~persian-gravity-forms 2.3.1.4
+1632758295~~8~~Attempting to download it from wordpress.org
+1632758296~~8~~Not found. Attempting to download it from the trunk folder instead
+1632758297~~8~~Building files list from ZIP archive
+1632758298~~8~~Using sha1 algo
+1632758298~~2~~Additional/suspicious files: 268
+1632758298~~2~~Total modified plugin files: 22
+1632758298~~8~~Process executed in 97.58 seconds and used 64,08 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758299~~1~~Processing step 6/14
+1632758299~~1~~Building themes list
+1632758299~~8~~Total themes found: 2
+1632758299~~8~~Process executed in 0.06 seconds and used 62,30 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758300~~1~~Processing step 7/14
+1632758300~~1~~Checking theme files integrity
+1632758300~~8~~dana 2.3
+1632758300~~8~~Attempting to download it from wordpress.org
+1632758301~~2~~HTTP Error 404. Skipping dana 2.3, it may not be available in the repo
+1632758301~~8~~my-sahifa-up 5.6.9
+1632758301~~8~~Attempting to download it from wordpress.org
+1632758301~~2~~HTTP Error 404. Skipping my-sahifa-up 5.6.9, it may not be available in the repo
+1632758301~~1~~Theme files integrity is O.K
+1632758301~~8~~Process executed in 1.38 seconds and used 62,30 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758302~~1~~Processing step 8/14
+1632758302~~1~~Skipping snapshots comparison, no older files shapshot found
+1632758302~~8~~Process executed in 0.05 seconds and used 62,14 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758303~~1~~Processing step 9/14
+1632758303~~1~~Skipping snapshots comparison, no older database shapshot found
+1632758303~~8~~Process executed in 0.07 seconds and used 62,14 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758304~~1~~Processing step 10/14
+1632758304~~1~~Skipping Google Safe Browsing: no API key found
+1632758304~~8~~Process executed in 0.08 seconds and used 62,14 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758305~~1~~Processing step 11/14
+1632758305~~1~~Skipping binary files scan
+1632758305~~8~~Process executed in 0.05 seconds and used 62,14 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632758306~~1~~Processing step 12/14
+1632758306~~1~~Running anti-malware scanner
+1632758306~~1~~Building the list of files to check
+1632758306~~8~~Checking user-defined exclusion lists
+1632758306~~8~~Creating files/folders exclusion list
+1632758306~~8~~Limiting search to files smaller than 1,048,576 bytes
+1632758306~~8~~Files ignored based on user-defined exclusion lists: 162
+1632758306~~1~~Retrieving signatures lists
+1632758306~~8~~Checking built-in signatures list
+1632758306~~8~~Downloading the latest version
+1632758307~~8~~Verifying digital signature with public key
+1632758307~~8~~Verifying signatures
+1632758307~~8~~Verified signatures: 869
+1632758307~~8~~Process executed in 0.86 seconds and used 64,54 MB of memory (NinjaScanner additional memory: 2,41 MB).
+1632758308~~1~~Processing step 13/14
+1632758324~~1~~Scanned files: 2,001/47,341
+1632758324~~8~~Process executed in 15.36 seconds and used 87,19 MB of memory (NinjaScanner additional memory: 25,05 MB).
+1632758325~~1~~Processing step 13/14
+1632758341~~1~~Scanned files: 2,337/47,341
+1632758341~~8~~Process executed in 16.07 seconds and used 85,99 MB of memory (NinjaScanner additional memory: 23,85 MB).
+1632758342~~1~~Processing step 13/14
+1632758358~~1~~Scanned files: 2,685/47,341
+1632758358~~8~~Process executed in 15.9 seconds and used 85,77 MB of memory (NinjaScanner additional memory: 23,64 MB).
+1632758359~~1~~Processing step 13/14
+1632758375~~1~~Scanned files: 3,579/47,341
+1632758375~~8~~Process executed in 15.97 seconds and used 85,56 MB of memory (NinjaScanner additional memory: 23,43 MB).
+1632758376~~1~~Processing step 13/14
+1632758392~~1~~Scanned files: 3,904/47,341
+1632758392~~8~~Process executed in 16.06 seconds and used 85,03 MB of memory (NinjaScanner additional memory: 22,89 MB).
+1632758393~~1~~Processing step 13/14
+1632758409~~1~~Scanned files: 4,221/47,341
+1632758409~~8~~Process executed in 16.14 seconds and used 84,83 MB of memory (NinjaScanner additional memory: 22,70 MB).
+1632758410~~1~~Processing step 13/14
+1632758426~~1~~Scanned files: 4,504/47,341
+1632758426~~8~~Process executed in 15.65 seconds and used 84,63 MB of memory (NinjaScanner additional memory: 22,50 MB).
+1632758427~~1~~Processing step 13/14
+1632758443~~1~~Scanned files: 4,794/47,341
+1632758443~~8~~Process executed in 15.74 seconds and used 84,46 MB of memory (NinjaScanner additional memory: 22,33 MB).
+1632758444~~1~~Processing step 13/14
+1632758460~~1~~Scanned files: 5,061/47,341
+1632758460~~8~~Process executed in 15.98 seconds and used 84,31 MB of memory (NinjaScanner additional memory: 22,17 MB).
+1632758461~~1~~Processing step 13/14
+1632758477~~1~~Scanned files: 5,335/47,341
+1632758477~~8~~Process executed in 15.9 seconds and used 84,92 MB of memory (NinjaScanner additional memory: 22,79 MB).
+1632758478~~1~~Processing step 13/14
+1632758494~~1~~Scanned files: 5,642/47,341
+1632758494~~8~~Process executed in 16.14 seconds and used 84,10 MB of memory (NinjaScanner additional memory: 21,97 MB).
+1632758495~~1~~Processing step 13/14
+1632758511~~1~~Scanned files: 5,955/47,341
+1632758511~~8~~Process executed in 16.02 seconds and used 83,91 MB of memory (NinjaScanner additional memory: 21,77 MB).
+1632758512~~1~~Processing step 13/14
+1632758528~~1~~Scanned files: 6,249/47,341
+1632758528~~8~~Process executed in 15.31 seconds and used 84,98 MB of memory (NinjaScanner additional memory: 22,35 MB).
+1632758530~~1~~Processing step 13/14
+1632758546~~1~~Scanned files: 6,555/47,341
+1632758546~~8~~Process executed in 16.09 seconds and used 85,07 MB of memory (NinjaScanner additional memory: 22,44 MB).
+1632758547~~1~~Processing step 13/14
+1632758563~~1~~Scanned files: 6,857/47,341
+1632758563~~8~~Process executed in 15.96 seconds and used 83,55 MB of memory (NinjaScanner additional memory: 21,41 MB).
+1632758564~~1~~Processing step 13/14
+1632758580~~1~~Scanned files: 7,142/47,341
+1632758580~~8~~Process executed in 16.02 seconds and used 83,33 MB of memory (NinjaScanner additional memory: 21,20 MB).
+1632758581~~1~~Processing step 13/14
+1632758597~~1~~Scanned files: 7,376/47,341
+1632758597~~8~~Process executed in 16.16 seconds and used 83,26 MB of memory (NinjaScanner additional memory: 21,12 MB).
+1632758598~~1~~Processing step 13/14
+1632758614~~1~~Scanned files: 7,700/47,341
+1632758614~~8~~Process executed in 15.86 seconds and used 83,39 MB of memory (NinjaScanner additional memory: 21,28 MB).
+1632758615~~1~~Processing step 13/14
+1632758631~~1~~Scanned files: 8,033/47,341
+1632758631~~8~~Process executed in 15.29 seconds and used 82,91 MB of memory (NinjaScanner additional memory: 20,77 MB).
+1632758632~~1~~Processing step 13/14
+1632758648~~1~~Scanned files: 8,373/47,341
+1632758648~~8~~Process executed in 15.89 seconds and used 83,04 MB of memory (NinjaScanner additional memory: 20,91 MB).
+1632758649~~1~~Processing step 13/14
+1632758665~~1~~Scanned files: 8,649/47,341
+1632758665~~8~~Process executed in 16.05 seconds and used 82,62 MB of memory (NinjaScanner additional memory: 20,49 MB).
+1632758666~~1~~Processing step 13/14
+1632758682~~1~~Scanned files: 8,956/47,341
+1632758682~~8~~Process executed in 16.08 seconds and used 82,70 MB of memory (NinjaScanner additional memory: 20,57 MB).
+1632758683~~1~~Processing step 13/14
+1632758699~~1~~Scanned files: 9,223/47,341
+1632758699~~8~~Process executed in 15.82 seconds and used 83,06 MB of memory (NinjaScanner additional memory: 20,92 MB).
+1632758700~~1~~Processing step 13/14
+1632758716~~1~~Scanned files: 9,456/47,341
+1632758716~~8~~Process executed in 15.86 seconds and used 82,24 MB of memory (NinjaScanner additional memory: 20,10 MB).
+1632758717~~1~~Processing step 13/14
+1632758733~~1~~Scanned files: 9,721/47,341
+1632758733~~8~~Process executed in 16.02 seconds and used 82,11 MB of memory (NinjaScanner additional memory: 19,97 MB).
+1632758733~~1~~Processing step 13/14
+1632758750~~1~~Scanned files: 10,092/47,341
+1632758750~~8~~Process executed in 16.17 seconds and used 81,93 MB of memory (NinjaScanner additional memory: 19,79 MB).
+1632758751~~1~~Processing step 13/14
+1632758767~~1~~Scanned files: 10,525/47,341
+1632758767~~8~~Process executed in 16.15 seconds and used 81,72 MB of memory (NinjaScanner additional memory: 19,58 MB).
+1632758768~~1~~Processing step 13/14
+1632758784~~1~~Scanned files: 10,995/47,341
+1632758784~~8~~Process executed in 16.07 seconds and used 81,49 MB of memory (NinjaScanner additional memory: 19,36 MB).
+1632758785~~1~~Processing step 13/14
+1632758801~~1~~Scanned files: 11,433/47,341
+1632758801~~8~~Process executed in 15.69 seconds and used 81,29 MB of memory (NinjaScanner additional memory: 19,15 MB).
+1632758802~~1~~Processing step 13/14
+1632758818~~1~~Scanned files: 11,743/47,341
+1632758818~~8~~Process executed in 15.21 seconds and used 81,63 MB of memory (NinjaScanner additional memory: 18,99 MB).
+1632758819~~1~~Processing step 13/14
+1632758835~~1~~Scanned files: 12,173/47,341
+1632758835~~8~~Process executed in 15.21 seconds and used 81,42 MB of memory (NinjaScanner additional memory: 18,79 MB).
+1632758836~~1~~Processing step 13/14
+1632758852~~1~~Scanned files: 12,633/47,341
+1632758852~~8~~Process executed in 16.05 seconds and used 80,71 MB of memory (NinjaScanner additional memory: 18,57 MB).
+1632758853~~1~~Processing step 13/14
+1632758869~~1~~Scanned files: 13,010/47,341
+1632758869~~8~~Process executed in 15.99 seconds and used 80,53 MB of memory (NinjaScanner additional memory: 18,39 MB).
+1632758870~~1~~Processing step 13/14
+1632758886~~1~~Scanned files: 13,384/47,341
+1632758886~~8~~Process executed in 15.94 seconds and used 80,35 MB of memory (NinjaScanner additional memory: 18,21 MB).
+1632758887~~1~~Processing step 13/14
+1632758903~~1~~Scanned files: 13,773/47,341
+1632758903~~8~~Process executed in 15.84 seconds and used 80,16 MB of memory (NinjaScanner additional memory: 18,02 MB).
+1632758904~~1~~Processing step 13/14
+1632758920~~1~~Scanned files: 14,170/47,341
+1632758920~~8~~Process executed in 16.13 seconds and used 79,97 MB of memory (NinjaScanner additional memory: 17,83 MB).
+1632758921~~1~~Processing step 13/14
+1632758937~~1~~Scanned files: 14,549/47,341
+1632758937~~8~~Process executed in 16.01 seconds and used 79,78 MB of memory (NinjaScanner additional memory: 17,65 MB).
+1632758938~~1~~Processing step 13/14
+1632758954~~1~~Scanned files: 14,922/47,341
+1632758954~~8~~Process executed in 15.62 seconds and used 79,60 MB of memory (NinjaScanner additional memory: 17,47 MB).
+1632758955~~1~~Processing step 13/14
+1632758971~~1~~Scanned files: 15,303/47,341
+1632758971~~8~~Process executed in 16.25 seconds and used 78,18 MB of memory (NinjaScanner additional memory: 16,04 MB).
+1632758972~~1~~Processing step 13/14
+1632758988~~1~~Scanned files: 15,665/47,341
+1632758988~~8~~Process executed in 15.68 seconds and used 78,00 MB of memory (NinjaScanner additional memory: 15,86 MB).
+1632758989~~1~~Processing step 13/14
+1632759005~~1~~Scanned files: 15,930/47,341
+1632759005~~8~~Process executed in 15.49 seconds and used 77,87 MB of memory (NinjaScanner additional memory: 15,74 MB).
+1632759007~~1~~Processing step 13/14
+1632759023~~1~~Scanned files: 16,239/47,341
+1632759023~~8~~Process executed in 15.62 seconds and used 77,73 MB of memory (NinjaScanner additional memory: 15,59 MB).
+1632759024~~1~~Processing step 13/14
+1632759040~~1~~Scanned files: 16,591/47,341
+1632759040~~8~~Process executed in 15.91 seconds and used 77,55 MB of memory (NinjaScanner additional memory: 15,41 MB).
+1632759041~~1~~Processing step 13/14
+1632759057~~1~~Scanned files: 16,938/47,341
+1632759057~~8~~Process executed in 15.57 seconds and used 77,39 MB of memory (NinjaScanner additional memory: 15,25 MB).
+1632759059~~1~~Processing step 13/14
+1632759075~~1~~Scanned files: 17,322/47,341
+1632759075~~8~~Process executed in 16.02 seconds and used 77,20 MB of memory (NinjaScanner additional memory: 15,06 MB).
+1632759076~~1~~Processing step 13/14
+1632759092~~1~~Scanned files: 17,683/47,341
+1632759092~~8~~Process executed in 15.94 seconds and used 77,03 MB of memory (NinjaScanner additional memory: 14,89 MB).
+1632759093~~1~~Processing step 13/14
+1632759109~~1~~Scanned files: 18,038/47,341
+1632759109~~8~~Process executed in 15.36 seconds and used 76,86 MB of memory (NinjaScanner additional memory: 14,72 MB).
+1632759110~~1~~Processing step 13/14
+1632759126~~1~~Scanned files: 18,403/47,341
+1632759126~~8~~Process executed in 15.94 seconds and used 76,69 MB of memory (NinjaScanner additional memory: 14,55 MB).
+1632759127~~1~~Processing step 13/14
+1632759143~~1~~Scanned files: 18,809/47,341
+1632759143~~8~~Process executed in 16 seconds and used 76,49 MB of memory (NinjaScanner additional memory: 14,35 MB).
+1632759143~~1~~Processing step 13/14
+1632759159~~1~~Scanned files: 19,163/47,341
+1632759159~~8~~Process executed in 15.2 seconds and used 76,32 MB of memory (NinjaScanner additional memory: 14,18 MB).
+1632759160~~1~~Processing step 13/14
+1632759176~~1~~Scanned files: 19,554/47,341
+1632759176~~8~~Process executed in 15.96 seconds and used 76,13 MB of memory (NinjaScanner additional memory: 13,99 MB).
+1632759177~~1~~Processing step 13/14
+1632759193~~1~~Scanned files: 19,907/47,341
+1632759193~~8~~Process executed in 15.51 seconds and used 75,96 MB of memory (NinjaScanner additional memory: 13,83 MB).
+1632759194~~1~~Processing step 13/14
+1632759210~~1~~Scanned files: 20,292/47,341
+1632759210~~8~~Process executed in 15.61 seconds and used 75,78 MB of memory (NinjaScanner additional memory: 13,64 MB).
+1632759211~~1~~Processing step 13/14
+1632759227~~1~~Scanned files: 20,669/47,341
+1632759227~~8~~Process executed in 16.04 seconds and used 75,59 MB of memory (NinjaScanner additional memory: 13,45 MB).
+1632759228~~1~~Processing step 13/14
+1632759244~~1~~Scanned files: 21,003/47,341
+1632759244~~8~~Process executed in 16.23 seconds and used 75,43 MB of memory (NinjaScanner additional memory: 13,30 MB).
+1632759245~~1~~Processing step 13/14
+1632759261~~1~~Scanned files: 21,369/47,341
+1632759261~~8~~Process executed in 15.86 seconds and used 75,26 MB of memory (NinjaScanner additional memory: 13,12 MB).
+1632759262~~1~~Processing step 13/14
+1632759278~~1~~Scanned files: 21,747/47,341
+1632759278~~8~~Process executed in 15.88 seconds and used 75,08 MB of memory (NinjaScanner additional memory: 12,94 MB).
+1632759279~~1~~Processing step 13/14
+1632759295~~1~~Scanned files: 22,153/47,341
+1632759295~~8~~Process executed in 16.1 seconds and used 74,88 MB of memory (NinjaScanner additional memory: 12,74 MB).
+1632759296~~1~~Processing step 13/14
+1632759312~~1~~Scanned files: 22,513/47,341
+1632759312~~8~~Process executed in 15.95 seconds and used 74,71 MB of memory (NinjaScanner additional memory: 12,57 MB).
+1632759313~~1~~Processing step 13/14
+1632759329~~1~~Scanned files: 22,913/47,341
+1632759329~~8~~Process executed in 15.91 seconds and used 74,52 MB of memory (NinjaScanner additional memory: 12,38 MB).
+1632759330~~1~~Processing step 13/14
+1632759346~~1~~Scanned files: 23,343/47,341
+1632759346~~8~~Process executed in 16.02 seconds and used 74,31 MB of memory (NinjaScanner additional memory: 12,17 MB).
+1632759347~~1~~Processing step 13/14
+1632759363~~1~~Scanned files: 23,760/47,341
+1632759363~~8~~Process executed in 16.16 seconds and used 74,11 MB of memory (NinjaScanner additional memory: 11,97 MB).
+1632759364~~1~~Processing step 13/14
+1632759380~~1~~Scanned files: 24,223/47,341
+1632759380~~8~~Process executed in 16.04 seconds and used 73,88 MB of memory (NinjaScanner additional memory: 11,75 MB).
+1632759381~~1~~Processing step 13/14
+1632759397~~1~~Scanned files: 24,695/47,341
+1632759397~~8~~Process executed in 16.01 seconds and used 73,66 MB of memory (NinjaScanner additional memory: 11,52 MB).
+1632759398~~1~~Processing step 13/14
+1632759414~~1~~Scanned files: 25,080/47,341
+1632759414~~8~~Process executed in 16 seconds and used 73,47 MB of memory (NinjaScanner additional memory: 11,34 MB).
+1632759415~~1~~Processing step 13/14
+1632759431~~1~~Scanned files: 25,499/47,341
+1632759431~~8~~Process executed in 15.92 seconds and used 73,27 MB of memory (NinjaScanner additional memory: 11,14 MB).
+1632759431~~1~~Processing step 13/14
+1632759447~~1~~Scanned files: 25,940/47,341
+1632759447~~8~~Process executed in 15.21 seconds and used 73,06 MB of memory (NinjaScanner additional memory: 10,92 MB).
+1632759448~~1~~Processing step 13/14
+1632759464~~1~~Scanned files: 26,361/47,341
+1632759464~~8~~Process executed in 15.94 seconds and used 72,86 MB of memory (NinjaScanner additional memory: 10,72 MB).
+1632759465~~1~~Processing step 13/14
+1632759481~~1~~Scanned files: 26,780/47,341
+1632759481~~8~~Process executed in 16.3 seconds and used 72,65 MB of memory (NinjaScanner additional memory: 10,52 MB).
+1632759482~~1~~Processing step 13/14
+1632759498~~1~~Scanned files: 27,181/47,341
+1632759498~~8~~Process executed in 15.46 seconds and used 72,47 MB of memory (NinjaScanner additional memory: 10,33 MB).
+1632759499~~1~~Processing step 13/14
+1632759515~~1~~Scanned files: 27,560/47,341
+1632759515~~8~~Process executed in 15.73 seconds and used 72,28 MB of memory (NinjaScanner additional memory: 10,14 MB).
+1632759516~~1~~Processing step 13/14
+1632759532~~1~~Scanned files: 27,943/47,341
+1632759532~~8~~Process executed in 15.91 seconds and used 72,10 MB of memory (NinjaScanner additional memory: 9,96 MB).
+1632759533~~1~~Processing step 13/14
+1632759549~~1~~Scanned files: 28,379/47,341
+1632759549~~8~~Process executed in 16.01 seconds and used 71,89 MB of memory (NinjaScanner additional memory: 9,75 MB).
+1632759551~~1~~Processing step 13/14
+1632759567~~1~~Scanned files: 28,823/47,341
+1632759567~~8~~Process executed in 16.34 seconds and used 72,17 MB of memory (NinjaScanner additional memory: 9,54 MB).
+1632759568~~1~~Processing step 13/14
+1632759584~~1~~Scanned files: 29,276/47,341
+1632759584~~8~~Process executed in 15.94 seconds and used 71,46 MB of memory (NinjaScanner additional memory: 9,32 MB).
+1632759585~~1~~Processing step 13/14
+1632759601~~1~~Scanned files: 29,713/47,341
+1632759601~~8~~Process executed in 16.1 seconds and used 71,25 MB of memory (NinjaScanner additional memory: 9,11 MB).
+1632759605~~1~~Processing step 13/14
+1632759621~~1~~Scanned files: 30,046/47,341
+1632759621~~8~~Process executed in 15.9 seconds and used 71,08 MB of memory (NinjaScanner additional memory: 8,94 MB).
+1632759622~~1~~Processing step 13/14
+1632759638~~1~~Scanned files: 30,438/47,341
+1632759638~~8~~Process executed in 15.99 seconds and used 70,90 MB of memory (NinjaScanner additional memory: 8,76 MB).
+1632759638~~1~~Processing step 13/14
+1632759655~~1~~Scanned files: 30,855/47,341
+1632759655~~8~~Process executed in 16.15 seconds and used 70,70 MB of memory (NinjaScanner additional memory: 8,56 MB).
+1632759657~~1~~Processing step 13/14
+1632759673~~1~~Scanned files: 31,241/47,341
+1632759673~~8~~Process executed in 15.98 seconds and used 71,00 MB of memory (NinjaScanner additional memory: 8,37 MB).
+1632759674~~1~~Processing step 13/14
+1632759690~~1~~Scanned files: 31,627/47,341
+1632759690~~8~~Process executed in 15.81 seconds and used 69,70 MB of memory (NinjaScanner additional memory: 7,56 MB).
+1632759691~~1~~Processing step 13/14
+1632759707~~1~~Scanned files: 31,967/47,341
+1632759707~~8~~Process executed in 16.06 seconds and used 69,54 MB of memory (NinjaScanner additional memory: 7,40 MB).
+1632759708~~1~~Processing step 13/14
+1632759724~~1~~Scanned files: 32,368/47,341
+1632759724~~8~~Process executed in 15.9 seconds and used 69,35 MB of memory (NinjaScanner additional memory: 7,21 MB).
+1632759725~~1~~Processing step 13/14
+1632759741~~1~~Scanned files: 32,786/47,341
+1632759741~~8~~Process executed in 15.79 seconds and used 69,14 MB of memory (NinjaScanner additional memory: 7,00 MB).
+1632759742~~1~~Processing step 13/14
+1632759758~~1~~Scanned files: 33,202/47,341
+1632759758~~8~~Process executed in 16.01 seconds and used 68,94 MB of memory (NinjaScanner additional memory: 6,81 MB).
+1632759759~~1~~Processing step 13/14
+1632759775~~1~~Scanned files: 33,657/47,341
+1632759775~~8~~Process executed in 16.06 seconds and used 68,72 MB of memory (NinjaScanner additional memory: 6,59 MB).
+1632759775~~1~~Processing step 13/14
+1632759791~~1~~Scanned files: 34,083/47,341
+1632759791~~8~~Process executed in 15.11 seconds and used 68,52 MB of memory (NinjaScanner additional memory: 6,38 MB).
+1632759792~~1~~Processing step 13/14
+1632759809~~1~~Scanned files: 34,506/47,341
+1632759809~~8~~Process executed in 16.1 seconds and used 69,12 MB of memory (NinjaScanner additional memory: 6,49 MB).
+1632759810~~1~~Processing step 13/14
+1632759826~~1~~Scanned files: 34,888/47,341
+1632759826~~8~~Process executed in 16.06 seconds and used 68,17 MB of memory (NinjaScanner additional memory: 6,03 MB).
+1632759827~~1~~Processing step 13/14
+1632759843~~1~~Scanned files: 35,202/47,341
+1632759843~~8~~Process executed in 16.08 seconds and used 67,98 MB of memory (NinjaScanner additional memory: 5,85 MB).
+1632759844~~1~~Processing step 13/14
+1632759860~~1~~Scanned files: 35,516/47,341
+1632759860~~8~~Process executed in 15.68 seconds and used 67,82 MB of memory (NinjaScanner additional memory: 5,69 MB).
+1632759861~~1~~Processing step 13/14
+1632759877~~1~~Scanned files: 36,520/47,341
+1632759877~~8~~Process executed in 15.96 seconds and used 67,31 MB of memory (NinjaScanner additional memory: 5,17 MB).
+1632759878~~1~~Processing step 13/14
+1632759894~~1~~Scanned files: 37,223/47,341
+1632759894~~8~~Process executed in 16.01 seconds and used 66,98 MB of memory (NinjaScanner additional memory: 4,83 MB).
+1632759895~~1~~Processing step 13/14
+1632759911~~1~~Scanned files: 37,593/47,341
+1632759911~~8~~Process executed in 16.03 seconds and used 66,80 MB of memory (NinjaScanner additional memory: 4,66 MB).
+1632759913~~1~~Processing step 13/14
+1632759927~~2~~Potentially unsafe files: /home/rsampadi/public_html/wp-content/plugins/wpforms/includes/fields/class-base.php
+1632759929~~1~~Scanned files: 38,006/47,341
+1632759929~~8~~Process executed in 15.65 seconds and used 67,09 MB of memory (NinjaScanner additional memory: 4,45 MB).
+1632759930~~1~~Processing step 13/14
+1632759946~~1~~Scanned files: 39,228/47,341
+1632759946~~8~~Process executed in 15.95 seconds and used 66,02 MB of memory (NinjaScanner additional memory: 3,88 MB).
+1632759947~~1~~Processing step 13/14
+1632759963~~1~~Scanned files: 43,542/47,341
+1632759963~~8~~Process executed in 15.95 seconds and used 63,59 MB of memory (NinjaScanner additional memory: 1,45 MB).
+1632759964~~1~~Processing step 13/14
+1632759980~~1~~Scanned files: 44,309/47,341
+1632759980~~8~~Process executed in 15.92 seconds and used 63,06 MB of memory (NinjaScanner additional memory: 0,92 MB).
+1632759981~~1~~Processing step 13/14
+1632759997~~1~~Scanned files: 44,691/47,341
+1632759997~~8~~Process executed in 16.04 seconds and used 62,88 MB of memory (NinjaScanner additional memory: 0,73 MB).
+1632759998~~1~~Processing step 13/14
+1632760014~~1~~Scanned files: 45,397/47,341
+1632760014~~8~~Process executed in 15.91 seconds and used 62,54 MB of memory (NinjaScanner additional memory: 0,40 MB).
+1632760016~~1~~Processing step 13/14
+1632760032~~1~~Scanned files: 47,337/47,341
+1632760032~~8~~Process executed in 16.02 seconds and used 62,64 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632760033~~1~~Processing step 13/14
+1632760033~~2~~Total potentially unsafe files: 1
+1632760033~~8~~Process executed in 0.21 seconds and used 62,14 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632760034~~1~~Processing step 14/14
+1632760034~~1~~Performing various checks
+1632760034~~8~~Process executed in 0.08 seconds and used 62,14 MB of memory (NinjaScanner additional memory: 0,00 MB).
+1632760034~~8~~Sending email report
+1632760034~~1~~Exiting scanning process
+1632760044~~1~~Cancelling scanning process
+1632760047~~1~~Cancelling scanning process
+1632760048~~1~~Cancelling scanning process
+1632760048~~1~~Cancelling scanning process
+1632760054~~1~~Cancelling scanning process
