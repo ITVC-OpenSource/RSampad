@@ -1,0 +1,37 @@
+*{
+  font-family: AMYSans;
+  font-weight: bold;
+  font-size: 111%;
+}
+body{
+  background-color: #1C8BAF;
+  margin: 0;
+}
+input{
+  color: #8CDBF4;
+  border: 1px solid #1C8BAF;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 90%;
+}
+input:focus{
+  outline: 0;
+  direction: auto;
+}
+#reg{
+  background-color: #8CDBF4;
+  width: 400px;
+  height: 250px;
+  padding: 25px;
+  border-radius: 50px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50% , -50%);
+}
+button{
+  color: #8CDBF4;
+  background-color: #1C8BAF;
+  border: none;
+  border-radius: 10px;
+}

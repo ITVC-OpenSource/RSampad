@@ -1,0 +1,240 @@
+@charset "utf-8";
+/* CSS Document */
+.commentlist {
+    background: 
+		#373737 !important;
+color: #fff !important}
+.reply a {
+    color: #fff !important
+}
+.comment-p p {
+   
+    color: #fff !important;
+}.commentmetadata a {
+    
+    color: #fff !important;
+}
+.wpcf7-form label {
+    color: #fff;
+}
+.comment-p span {
+    color: #fff !important;
+}
+#comment {
+   
+color:
+    #fff !important;
+}
+#comment {
+    border: 1px solid 
+		#111 !important;}
+
+.voice-car-header a{
+	color: #fff !important;
+}
+.post-short-link input {
+    font-size: 13px;
+    border: 1px solid #2b2b2b;
+background:#2b2b2b;
+}
+#respond p{
+	color: #fff !important;
+}
+#jssor_1{
+	
+	background-color: #373737 !important;
+	
+}
+.jssort101{
+	background-color: #373737 !important;
+}
+.jssort101 .p .cv{
+	
+	border: 2px solid #212121 !important;
+}
+.cat-car .owl-nav button.owl-next {
+    background: -moz-linear-gradient(left, #303030 0%, rgba(255, 255, 255, 0) 100%) !important;
+    background: -webkit-linear-gradient(left, #303030 0%, rgba(255, 255, 255, 0) 100%) !important;
+    background: linear-gradient(to right, #303030 0%,rgba(255, 255, 255, 0) 100%) !important;
+    text-align: left;
+}
+
+.cat-car .owl-nav button.owl-prev {
+    background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, #303030 100%) !important;
+    background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, #303030 100%) !important;
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%, #303030 100%) !important;
+}
+
+.current {
+    color: #ffffff !important;
+}
+
+
+.top-hader-link ul li::after {
+    color: #303030 !important;
+}
+.top-hader-lang ul li::before {
+    color: #303030 !important;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #303030 !important;
+
+}
+
+#thumbnail-slider div.inner {
+   
+    background-color:#444444;
+}
+
+ 
+.top-header-left-date , .top-hader-link a ,.res-link-panel ul li a ,.top-hader-lang a,.azan_title,.azan_value ,.hamburger{
+	color: #fff !important;
+}
+.res-link-panel li:hover{
+	 background:#303030 !important;
+}
+.wpcarousel2 h2::before{
+	color: #212121 !important;
+}
+.main-header-center {
+    background-image: url("../img/header-pat-black.svg") !important;
+	background-repeat: repeat !important;
+
+}
+.header-widget-left footer {
+	background: url("../img/ogat-black.gif") no-repeat bottom left;
+
+}
+.newspaper-footer p{
+	color: #dfdfdf !important;
+}
+
+.shoar h1{
+	color: #fff !important;
+}
+.time-pos span,.wpcarousel2 .wpc-info{
+	color: #aaa !important;
+}
+
+.menu-panel ul li a ,.nav-search button{
+	color: #fff !important;
+}
+.active-search i{
+	color: #212121 !important;
+}
+.social-network a:hover,.top-hader-link a:hover,.top-hader-lang a:hover,.post-news a h3:hover,.widget-news-title h4:hover,.wpcarousel2 article.slick-slide h2:hover,.voice-car-panel h4:hover,.pic-car-panel h4:hover,.vid-car-panel h4:hover,#footer-link a:hover,.share-social-network i:hover,.post-opt button:hover,.owl-theme .owl-nav [class*="owl-"]:hover,#linkcat- a:hover,.top-social-net a:hover,.car-widget-1 a:hover ,.text-404-page span,.number-page a:hover,.newspaper-footer h4:hover{
+	color: #dfdfdf !important;
+}
+.nav-search .fam-search:hover{
+	color: #dfdfdf !important;
+}
+.wpcarousel2 .slick-arrow.slick-prev::after ,.wpcarousel2 .slick-arrow.slick-next::after{
+	color: #fff !important;
+}
+.text-bio h5{
+	color: #fff !important;
+}
+.main-header-center::before {
+   
+    background-image: -moz-linear-gradient( 0deg, #303030 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -webkit-linear-gradient( 0deg, #303030 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -ms-linear-gradient( 0deg, #303030 0%, rgba(246,246,246,0) 100%) !important;
+    
+}
+.main-header-center::after {
+    content: '';
+    background-image: -moz-linear-gradient( 180deg, #303030 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -webkit-linear-gradient( 180deg, #303030 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -ms-linear-gradient( 180deg, #303030 0%, rgba(246,246,246,0) 100%) !important;
+}
+.text-bio p{
+	color: #dfdfdf !important;
+}
+.header-news h2,.header-widget h4,.car-widget-1 .widgets-header h4,.voice-car-header h4,.voice-car-header i,.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,.pic-car-header h4,.panel-title-back i,.vid-car-header h4,.panel-title-back span,.azan_name,#cities ,.single-post-header h1,.header-single-comments h4,.number-page ul li{
+	color: #fff !important;
+}
+.post-titel h3 , .widget-news-title h4 , .wpcarousel2 h2,.voice-car-panel h4 ,.pic-car-panel h4 , .vid-car-panel h4 ,.related-car-header h4 ,.share-post span , .post-short-link input , .car-widget-1 a,.newspaper-footer h4{
+	color: #fff !important;
+}
+.post-text p , .single-post-opt-header p ,.single-post-opt-text p ,.single-post-opt p{
+	color: #dfdfdf !important;
+}
+#footer-link a , #linkcat- a,#linkcat- h2{
+	
+}
+.social-network a{
+   color: #fff !important;
+}
+.social-network a:hover ,.top-hader-link a:hover, .res-link-panel ul li a:hover, .top-hader-lang a:hover{
+   color: #dfdfdf !important;
+}
+.logo h3 ,.logo small,.logo-left-date{
+	color: #fff !important;
+}
+.widget-news-post-form {
+    border-bottom: 1px solid 
+    #212121 !important;
+   
+}
+.wpcarousel2 article.slick-slide {
+    border-bottom: #212121 1px dashed !important;
+}
+.state-news {
+    border-left: 1px solid 
+    #212121 !important;
+}
+.single-post-opt-header {
+    border-bottom: 1px dashed 
+    #212121 !important;
+}
+.related-car , .share-post ,.tag-post{
+    border-top: 1px dashed 
+#212121 !important;
+}
+body{
+	background: #303030 !important;
+}
+.top-hader ,.res-link-panel{
+	background: #212121 !important;
+}
+.main-header-org , .news-header{
+	background: #303030 !important;
+}
+.menu-hader ,.sub-menu{
+	background: #212121 !important;
+}
+.car-widget-1 .panel-title-back,.panel-title-back ,.single-post-header , .header-single-comments,.header-news,.current{
+	background: #212121 !important;
+}
+.car-widget-1 .content-back , .content-back,.state-p,.single-post-content,.post-news,#respond ,#comment{
+	background: #373737 !important;
+}
+.footer-panel-back{
+	background: #212121 !important;
+}
+
+
+.ads {
+    position: sticky;
+    float: left;
+    max-width: 9%;
+    top: 32px;
+    margin-top: -20px;
+}
+
+.ads:first-child{
+	float: right;
+}
+
+
+
+
+.azan-hader,.azan-footer{
+    color: #fff;
+}
+.azan-hader{
+    background: #212121;
+}
+.azan-footer {
+    background: url("../img/ogat-black.gif") no-repeat bottom left;
+}

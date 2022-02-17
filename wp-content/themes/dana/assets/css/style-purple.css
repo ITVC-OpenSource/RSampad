@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+.voice-car-header a{
+	color: #fff !important;
+}
+.current {
+    color: #ffffff !important;
+}
+ .cat-car .owl-nav button.owl-next {
+    background: -moz-linear-gradient(left, #EFF1F3 0%, rgba(255, 255, 255, 0) 100%) !important;
+    background: -webkit-linear-gradient(left, #EFF1F3 0%, rgba(255, 255, 255, 0) 100%) !important;
+    background: linear-gradient(to right, #EFF1F3 0%,rgba(255, 255, 255, 0) 100%) !important;
+    text-align: left;
+}
+
+.cat-car .owl-nav button.owl-prev {
+    background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, #EFF1F3 100%) !important;
+    background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, #EFF1F3 100%) !important;
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%, #EFF1F3 100%) !important;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #5E0198 !important;
+
+}
+.top-header-left-date , .top-hader-link a ,.res-link-panel ul li a ,.top-hader-lang a,.azan_title,.azan_value ,.hamburger{
+	color: #fff !important;
+}
+.res-link-panel li:hover{
+	 background:#5e0198 !important;
+	
+}
+.wpcarousel2 h2::before{
+	color: #480075 !important;
+}
+.main-header-center {
+    background-image: url("../img/header-pat-purple.svg") !important;
+	background-repeat: repeat !important;
+
+}
+.header-widget-left footer {
+	background: url("../img/ogat-purple.gif") no-repeat bottom left;
+
+}
+
+
+.shoar h1{
+	color: #454545 !important;
+}
+.time-pos span,.wpcarousel2 .wpc-info{
+	color: #aaa !important;
+}
+
+.menu-panel ul li a ,.nav-search button{
+	color: #fff !important;
+}
+.active-search i{
+	color: #505050 !important;
+}
+.social-network a:hover,.top-hader-link a:hover,.top-hader-lang a:hover,.post-news a h3:hover,.widget-news-title h4:hover,.wpcarousel2 article.slick-slide h2:hover,.voice-car-panel h4:hover,.pic-car-panel h4:hover,.vid-car-panel h4:hover,#footer-link a:hover,.share-social-network i:hover,.post-opt button:hover,.owl-theme .owl-nav [class*="owl-"]:hover,#linkcat- a:hover,.top-social-net a:hover,.car-widget-1 a:hover ,.text-404-page span,.number-page a:hover,.newspaper-footer h4:hover{
+	color: #5e0198 !important;
+}
+.nav-search .fam-search:hover{
+	color: #fff !important;
+}
+.wpcarousel2 .slick-arrow.slick-prev::after ,.wpcarousel2 .slick-arrow.slick-next::after{
+	color: #fff !important;
+}
+.text-bio h5{
+	color: #5e0198 !important;
+}
+.main-header-center::before {
+   
+    background-image: -moz-linear-gradient( 0deg, #5e0198 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -webkit-linear-gradient( 0deg, #5e0198 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -ms-linear-gradient( 0deg, #5e0198 0%, rgba(246,246,246,0) 100%) !important;
+    
+}
+.main-header-center::after {
+    content: '';
+    background-image: -moz-linear-gradient( 180deg, #5e0198 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -webkit-linear-gradient( 180deg, #5e0198 0%, rgba(246,246,246,0) 100%) !important;
+    background-image: -ms-linear-gradient( 180deg, #5e0198 0%, rgba(246,246,246,0) 100%) !important;
+}
+.text-bio p{
+	color: #5f5f5f !important;
+}
+.header-news h2,.header-widget h4,.car-widget-1 .widgets-header h4,.voice-car-header h4,.voice-car-header i,.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,.pic-car-header h4,.panel-title-back i,.vid-car-header h4,.panel-title-back span,.azan_name,#cities ,.single-post-header h1,.header-single-comments h4,.number-page ul li{
+	color: #fff !important;
+}
+.post-titel h3 , .widget-news-title h4 , .wpcarousel2 h2,.voice-car-panel h4 ,.pic-car-panel h4 , .vid-car-panel h4 ,.related-car-header h4 ,.share-post span , .post-short-link input , .car-widget-1 a,.newspaper-footer h4{
+	color: #505050 !important;
+}
+.post-text p , .single-post-opt-header p {
+	color: #929292 !important;
+}
+#footer-link a , #linkcat- a,#linkcat- h2{
+	
+}
+.social-network a{
+   color: #fff !important;
+}
+.social-network a:hover ,.top-hader-link a:hover, .res-link-panel ul li a:hover, .top-hader-lang a:hover{
+   color: #DCBFFF !important;
+}
+.logo h3 ,.logo small,.logo-left-date{
+	color: #fff !important;
+}
+
+body{
+	background: #EFF1F3 !important;
+}
+.top-hader ,.res-link-panel{
+	background: #480075 !important;
+}
+.submit-post , .main-header-org , .news-header{
+	background: #5e0198 !important;
+}
+.menu-hader ,.sub-menu{
+	background: #505050 !important;
+}
+.car-widget-1 .panel-title-back,.panel-title-back ,.single-post-header , .header-single-comments,.header-news,.current{
+	background: #505050 !important;
+}
+.car-widget-1 .content-back , .content-back,.state-p,.single-post-content,.post-news{
+	background: #FFf !important;
+}
+.footer-panel-back{
+	background: #505050 !important;
+}
+
+
+.azan-hader,.azan-footer{
+	color: #fff;
+}
+.azan-hader{
+	background: #505050;
+}
+.azan-footer {
+	background: url("../img/ogat-purple.gif") no-repeat bottom left;
+}

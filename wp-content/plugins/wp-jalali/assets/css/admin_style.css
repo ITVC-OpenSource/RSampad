@@ -1,0 +1,72 @@
+@font-face {
+    font-family: ''IRANSans'';
+    src: url('../fonts/B'IRANSans'.eot?#') format('eot'),  /* IE6–8 */
+        url('../fonts/B'IRANSans'.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('../fonts/B'IRANSans'.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+#adminmenu a.menu-top, #adminmenu .wp-submenu-head{
+    font-size: 13px !important;
+    font-family: 'IRANSans' !important;
+}
+#adminmenu .wp-submenu a {
+    font-size: 13px;
+    font-family: 'IRANSans' !important;
+
+}
+.wrap h2, .subtitle {
+    font-weight: normal;
+    font-family: 'IRANSans' !important;
+    font-size: 21px !important;
+}
+.form-table th, .form-wrap label {
+    font-family: 'IRANSans' !important;
+    font-size: 13px !important;
+    font-weight: normal !important
+}    
+.wrap h3.title {
+    font-family: 'IRANSans' !important;
+    font-weight: normal !important;
+}
+.hndle > span {
+    font-family: 'IRANSans' !important;
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+#wpcontent #wp-toolbar .menupop a, #wpcontent #wp-toolbar .menupop a .ab-label {
+    font-family: 'IRANSans' !important;
+}
+
+.about-wrap .about-text, .about-wrap li.wp-person a.web, .about-wrap p.about-description {
+    font-family: 'IRANSans' !important;
+}
+
+.about-wrap .feature-section h4 {
+    font-family: 'IRANSans' !important;
+    font-weight: normal;
+}
+
+.about-wrap h1 {
+    font-family: 'IRANSans' !important;
+}
+
+.zt-badge, .ztjalali-badge {
+  font-family: 'IRANSans' !important;
+  font-size: 21px !important;
+  font-weight: normal !important;
+}
+.nav-tab-wrapper a.nav-tab {
+    font-weight: normal !important;
+}
+
+.feature-section h3 {
+    font-family: 'IRANSans' !important;
+}
+.changelog h3 {
+    font-family: 'IRANSans';
+}
+.return-to-dashboard a {
+    font-family: 'IRANSans';
+    font-weight: normal;
+    font-size: 18px;
+}

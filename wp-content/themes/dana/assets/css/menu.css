@@ -1,0 +1,1046 @@
+
+/* body layout */
+
+
+/* flat mega menu layout start */
+.Flat_mega_menu ul,
+.Flat_mega_menu li,
+.Flat_mega_menu a,
+.Flat_mega_menu p,
+.Flat_mega_menu i {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	display: block;
+}
+
+/* mega menu layout */
+.Flat_mega_menu {
+	font-family: Nunito;		/* google webfont nunito */
+	min-height: 20px;
+	width: 100%;
+	min-width: 240px;
+	max-width: 1280px;
+	position: relative;
+	z-index: 999;
+	
+}
+
+/* menu unorderlist layout */
+.Flat_mega_menu > ul {
+	width: 100%;
+	height: 20px;
+	padding-right: 20px;
+}
+
+/* menu list items layout */
+.Flat_mega_menu > ul > li {
+	float: right;
+	height: 32px;
+	margin-left: 40px;
+	
+	white-space: nowrap;
+}
+
+/* menu a tag + user_login + search_bar hover effect */
+.Flat_mega_menu > ul > li:hover a,
+.Flat_mega_menu ul .user_login:hover .fa.fam-user,
+.Flat_mega_menu ul .search_bar:hover .fa.fam-search {
+	color: #3c3c3c;
+	
+	transition: all 0.2s linear 0s;
+	-moz-transition: all 0.2s linear 0s;
+	-webkit-transition: all 0.2s linear 0s;
+	-ms-transition: all 0.2s linear 0s;
+	-o-transition: all 0.2s linear 0s;
+}
+
+/* menu a tag layout */
+.Flat_mega_menu ul li a {
+	color: #6c6c6c;
+	text-align: center;
+	line-height: 60px;
+	font-size: 16px;
+	float: right;
+	
+}
+
+/* menu list item first-child layout */
+.Flat_mega_menu > ul > li:first-child {
+	width: 22%;
+	padding: 0px 2%;
+	overflow: hidden;
+	border-left: none;
+}
+
+/* menu list item first-child a tag layout */
+
+
+/* menu parent list item first-child a tag hover effect */
+.Flat_mega_menu > ul > li:hover:first-child > a {
+	background: transparent;
+}
+
+/* user_login + search_bar class layout */
+.Flat_mega_menu ul .user_login,
+.Flat_mega_menu ul .search_bar {
+	width: 6%;
+	float: right;
+	cursor: pointer;
+}
+
+/* fonntawesome icons laout */
+.Flat_mega_menu ul .user_login .fa.fam-user,
+.Flat_mega_menu ul .search_bar .fa.fam-search {
+	display: block;
+	text-align: center !important;
+	color: #FFFFFF;
+	font-size: large;
+	line-height: 60px;
+}
+
+/* submenu one_col + submenu two_col layout */
+.Flat_mega_menu ul li .submenu.one_col,
+.Flat_mega_menu ul li .submenu.two_col {
+	position: absolute;
+	top: 32px;
+	width: 200px;
+	padding-top: 15px;
+	background-color: #E9E9E9;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	border-bottom: 5px solid #F0AD4E;
+	display: none;
+	border-left: 1px solid #E4E4E4;
+	border-right: 1px solid #E4E4E4;
+}
+
+/* submenu one_col or two_col list item layout */
+.Flat_mega_menu ul li .submenu.one_col li,
+.Flat_mega_menu ul li .submenu.two_col li {
+	position: relative;
+	height: 40px;
+}
+
+/* submenu one_col or two_col a tag lyout */
+.Flat_mega_menu ul li .submenu.one_col li a,
+.Flat_mega_menu ul li .submenu.two_col li a {
+	text-align: right;
+	text-indent: 27px;
+	font-weight: normal;
+	font-size: 14px;
+	height: 40px;
+	white-space: normal;
+	line-height: 40px;
+	color: #555658;
+}
+
+/* submenu one_col or two_col a tag hover effect */
+.Flat_mega_menu ul li .submenu.one_col li:hover > a,
+.Flat_mega_menu ul li .submenu.two_col li:hover > a {
+	text-indent: 32px;
+	color: #000000
+}
+
+/* second level submenu layout */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col {
+	position: absolute;
+	right: 112.5%;
+	top: -15px;
+	display: none;
+	width: 150px;
+}
+
+/* third level submenu layout */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col li .submenu.one_col {
+	right: 112.5%;
+}
+
+/* submenu one_col list item first-child submenu layout */
+.Flat_mega_menu ul li .submenu.one_col li:first-child .submenu.one_col {
+	top: -15px;
+}
+
+/* search bar layout */
+.Flat_mega_menu ul .search_bar ul {
+	background-color: #FFFFFF;
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	display: none;
+	border-bottom: 5px solid #F0AD4E;
+}
+
+/* search bar input text field layout */
+.Flat_mega_menu ul .search_bar ul form input:first-child {
+	width: 84.5%;
+	height: 40px;
+	margin: 17px 1% 17px 2%;
+	font-size: large;
+	text-indent: 20px;
+}
+
+/* search bar submit button layout */
+.Flat_mega_menu ul .search_bar ul form input:last-child {
+	width: 10%;
+	height: 46px;
+	position: relative;
+	top: -1px;
+	font-size: large;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: #F0AD4E;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: none;
+}
+
+/* user login form layout */
+.Flat_mega_menu ul .user_login ul {
+	position: absolute;
+	right: 0px;
+	background: #FFFFFF;
+	padding: 20px;
+	display: none;
+	border-bottom: 5px solid #F0AD4E;
+}
+
+/* user login form table layout */
+.Flat_mega_menu ul .user_login ul form table tr td {
+	color: #555658;
+	padding-top: 5px;
+}
+
+/* user login form input field layout */
+.Flat_mega_menu ul .user_login table tr:nth-child(2) td input,
+.Flat_mega_menu ul .user_login table tr:nth-child(4) td input {
+	height: 27px;
+	width: 177px;
+}
+
+/* user login form input field layout */
+.Flat_mega_menu ul .user_login table tr:last-child td input {
+	height: 38px;
+	border: 0px;
+	width: 181px;
+	margin-top: 15px;
+	background: #F0AD4E;
+	font-size: medium;
+	color: #FFFFFF;
+	cursor: pointer
+}
+
+/* social bar layout */
+.Flat_mega_menu ul .social_bar {
+	position: relative
+}
+
+/* social bar submenu layout */
+.Flat_mega_menu ul .social_bar ul {
+	background: #FFFFFF;
+	position: absolute;
+	top: 60px;
+	right: 0px;
+	width: 260px;
+	padding: 20px;
+	display: none;
+	border-bottom: 5px solid #F0AD4E;
+}
+
+/* social bar list items layout */
+.Flat_mega_menu ul .social_bar ul li {
+	float: right;
+	display: block;
+	width: 50%;
+	height: 40px;
+	padding-top: 10px;
+	line-height: 27px;
+	text-indent: 10px;
+}
+
+/* social bar a tag layout */
+.Flat_mega_menu ul .social_bar ul li a {
+	color: #555658;
+	height: 40px;
+	line-height: 37px;
+	float: right;
+	position: relative;
+	top: -34px;
+	text-align: right;
+	text-indent: 37px;
+}
+
+/* social bar a tag hover effect */
+.Flat_mega_menu ul .social_bar:hover ul li a {
+	background: transparent;
+}
+
+/* social bar fontawesome icons layout */
+.Flat_mega_menu ul .social_bar ul li i {
+	float: right;
+	background: #555658;
+	color: #FFFFFF;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-indent: 0px;
+}
+
+/* social bar fontawesome icons hover effct */
+.Flat_mega_menu ul .social_bar ul li:hover i {
+	color: #FFFFFF;
+	background: #6d7580;
+}
+
+/* submenu display none */
+.Flat_mega_menu ul li .submenu {
+	display: none
+}
+
+/* submenu image container layout */
+.Flat_mega_menu ul li .submenu.img_container {
+	display: none;
+	background-color: #E9E9E9;
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	top: 30px;
+	border-bottom: 5px solid #F0AD4E;
+	padding-bottom: 20px;
+}
+
+/* submenu image container list items layout */
+.Flat_mega_menu ul li .submenu.img_container li {
+	float: right;
+	
+	width: 15.6%;
+	height: 110px;
+	margin: 2% 2% 55px;
+}
+
+/* submenu image container img tag layout */
+.Flat_mega_menu ul li .submenu.img_container li a img {
+	height: 100%;
+	width: 100%;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+/* submenu image container img hover effct */
+.Flat_mega_menu ul li .submenu.img_container li a img:hover {
+	opacity: 0.8;
+}
+
+/* submenu image container title class layout */
+.Flat_mega_menu ul li .submenu.img_container .title {
+	font-size: x-large;
+	margin: 20px 16px 6px 2%;
+	width: 90%;
+	height: 20px;
+}
+
+/* submenu image container p tag layout */
+.Flat_mega_menu ul li .submenu.img_container li p {
+	display: block;
+	
+	margin-left: 7px;
+	margin-bottom: 7px;
+	height: 25px;
+	overflow: hidden;
+	white-space: normal;
+	font-size: 14px;
+	color: rgb(85, 86, 88);
+}
+
+/* submenu with four column layout */
+.Flat_mega_menu ul li .submenu.four_col {
+	display: none;
+	position: absolute;
+	left: 0px;
+	top: 60px;
+	width: 100%;
+	min-height: 100px;
+	background: #FFFFFF;
+	border-bottom: 5px solid #F0AD4E;
+	padding-bottom: 20px;
+}
+
+/* submenu with four column list items layout */
+.Flat_mega_menu ul li .submenu.four_col li {
+	float: right;
+	width: 21%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+
+/* submenu with four column a tag layout */
+.Flat_mega_menu ul li .submenu.four_col li a {
+	color: #555658;
+	text-align: right;
+	white-space: normal;
+	line-height: 40px;
+	margin-bottom: 1px;
+	font-size: 14px;
+}
+
+/* submenu with four column a tag hover effct */
+.Flat_mega_menu ul li .submenu.four_col li:hover a {
+	text-indent: 5px;
+	color: #000000
+}
+
+/* submenu with four column title class layout */
+.Flat_mega_menu ul li .submenu.four_col .title {
+	font-size: large;
+	margin: 2%;
+	font-weight: bold;
+}
+
+/* submenu image container half layout  */
+.Flat_mega_menu ul li .submenu.img_container.half li:first-child {
+	width: 80%
+}
+
+/* submenu image container 4 images layout  */
+.Flat_mega_menu ul li .submenu.img_container.half li:nth-child(even) {
+	clear: both
+}
+
+/* submenu image container with four column  */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col {
+	position: absolute;
+	left: 52%;
+	width: 46%;
+}
+
+/* submenu image container with four column title class layout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col .title {
+	float: right;
+	width: 48%;
+	clear: none;
+	margin: 20px 2px 2px;
+	height: 29px;
+	border: none;
+}
+
+/* submenu image container with four column list items layout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col li {
+	float: right;
+	clear: none;
+	width: 48.5%;
+	height: 40px;
+	margin: 9px 1px 0px 0px;
+	border-bottom: 1px solid #E8E8E8;
+}
+
+/* submenu image container with four column a tag lyout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col li a {
+	text-align: right;
+	line-height: 38px;
+	text-indent: 5px;
+	font-size: 14px;
+	color: rgb(85, 86, 88);
+}
+
+/* submenu image container with four column a tag hover effct */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col li:hover a {
+	text-indent: 10px;
+	color: rgb(0, 0, 0);
+}
+
+/* submenu with two column layout */
+.Flat_mega_menu ul li .submenu.two_col {
+	width: 300px;
+}
+
+/* submenu with two column list items layout */
+.Flat_mega_menu ul li .submenu.two_col li {
+	width: 50%;
+	float: right;
+}
+
+/* second level submenu with two column layout */
+.Flat_mega_menu ul li .submenu.two_col li .submenu.two_col {
+	display: none !important
+}
+
+/* user_login class a tag layout */
+.Flat_mega_menu ul .user_login a {
+	display: none;
+}
+
+/* mouse hover display submenus */
+.Flat_mega_menu ul li:hover .submenu.one_col,
+.Flat_mega_menu ul li:hover .submenu.two_col,
+.Flat_mega_menu ul .search_bar:hover ul,
+.Flat_mega_menu ul .user_login:hover ul,
+.Flat_mega_menu ul .social_bar:hover ul,
+.Flat_mega_menu ul li:hover .submenu.img_container,
+.Flat_mega_menu ul li:hover .submenu.four_col {
+	display: block;
+	
+	/* animation */
+	animation: display_submenus 0.2s linear 0s 1 forwards;
+	-webkit-animation: display_submenus 0.2s linear 0s 1 forwards;
+	-moz-animation: display_submenus 0.2s linear 0s 1 forwards;
+	-ms-animation: display_submenus 0.2s linear 0s 1 forwards;
+	-o-animation: display_submenus 0.2s linear 0s 1 forwards;
+}
+
+/* second level submenu hover effect */
+.Flat_mega_menu ul li .submenu.one_col li:hover > .submenu.one_col {
+	display: block;
+	
+
+	animation: display_submenus_second 0.2s linear 0s 1 forwards;
+	-webkit-animation: display_submenus_second 0.2s linear 0s 1 forwards;
+	-moz-animation: display_submenus_second 0.2s linear 0s 1 forwards;
+	-ms-animation: display_submenus_second 0.2s linear 0s 1 forwards;
+	-o-animation: display_submenus_second 0.2s linear 0s 1 forwards;
+}
+
+/* fontawesome arrow icon display on submenus layout */
+.Flat_mega_menu ul li .submenu.one_col li .fa.fam-angle-left {
+	top: 12px;
+	color: #555658;
+	margin-left: -25px;
+}
+
+/* checkbox button layout */
+.Flat_mega_menu .mobile_button,
+.Flat_mega_menu .fa.fam-menu {
+	display:none;
+}
+
+/* default animation keyframes */
+@keyframes display_submenus {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* animation for chrome and safari */
+@-webkit-keyframes display_submenus {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* animation for firefox */
+@-moz-keyframes display_submenus {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* animation for internet explorer 10+ */
+@-ms-keyframes display_submenus {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* animation for opera */
+@-o-keyframes display_submenus {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* second level submenus default animation */
+@keyframes display_submenus_second {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* second level submenus chrome and safari animation */
+@-webkit-keyframes display_submenus_second {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* second level submenus firefox animation */
+@-moz-keyframes display_submenus_second {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* second level submenus internet explorer 10+ animation */
+@-ms-keyframes display_submenus_second {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+/* second level submenus opera animation */
+@-o-keyframes display_submenus_second {
+ 0% {
+opacity:0
+}
+ 100% {
+opacity:1
+}
+}
+
+@media screen and (max-width:768px){
+/* menu unorderlist layout */
+.Flat_mega_menu > ul {
+	height: auto;
+	position:relative;
+}
+
+/* menu list items layout */
+.Flat_mega_menu > ul > li {
+	float: none;
+	height: 60px;
+	width: 100%;
+	border-left: none;
+	
+	position:relative;
+}
+
+/* menu list item first-child layout */
+.Flat_mega_menu > ul > li:first-child{
+	border: none;
+	width: 96%;
+
+}
+
+
+/* menu list litem 2 child layout */
+.Flat_mega_menu > ul > li:nth-child(2){
+
+}
+
+/* submenu one_col + submenu two_col layout */
+.Flat_mega_menu > ul > li > .submenu.one_col,
+.Flat_mega_menu > ul > li > .submenu.two_col {
+	position: absolute;
+	z-index:999;
+	top: 30px;
+	width: 100%;
+	padding-right: 0px;
+	display: none;
+	border-left: none;
+	border-right: none;
+	border-top: 1px solid #E4E4E4;
+}
+
+/* submenu one_col or two_col list item layout */
+.Flat_mega_menu ul li .submenu.one_col li,
+.Flat_mega_menu ul li .submenu.two_col li {
+	position: relative;
+	height: 40px;
+	width:100%;
+	clear:both;
+}
+
+/* submenu one_col or two_col a tag lyout */
+.Flat_mega_menu ul li .submenu.one_col li a,
+.Flat_mega_menu ul li .submenu.two_col li a {
+	white-space: normal;
+	padding-right: 5%;
+	float: right;
+	width:auto;
+}
+
+/* second level submenu layout */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col {
+	position: relative;
+	z-index:999;
+	left:0px;
+	top:0px;
+	padding:0px;
+	margin:0px;
+	display: none;
+	border:none;
+	border-top: 1px solid #E4E4E4;
+	float: right;
+	width: 100%;
+}
+
+/* second level submenu a tag layout */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col li a{
+	text-indent:40px;
+}
+
+/* third level submenu a tag layout */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col li .submenu.one_col li a{
+	text-indent:60px;
+}
+
+/* submenu hover effect */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col li:hover a{
+	text-indent:45px;
+}
+
+/* submenu hover effect */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col li .submenu.one_col li:hover a{
+	text-indent:65px;
+}
+/* third level submenu layout */
+.Flat_mega_menu ul li .submenu.one_col li .submenu.one_col li .submenu.one_col {
+	left:0px;
+	border-top: 1px solid #E4E4E4;
+}
+
+/* fontawesome arrow icon display on submenus layout */
+.Flat_mega_menu ul li .submenu.one_col li .fa.fam-angle-left {
+	position: absolute;
+	z-index:999;
+	transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-ms-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+}
+
+/* submenu image container layout */
+.Flat_mega_menu ul li .submenu.img_container {
+	display: none;
+	left: 0px;
+	top: 60px;
+	z-index:999;
+}
+/* submenu image container list items layout */
+.Flat_mega_menu ul li .submenu.img_container li {
+	float: right;
+	width: 40.6%;
+	margin: 2% 4% 55px;
+}
+
+/* submenu image container title class layout */
+.Flat_mega_menu ul li .submenu.img_container .title {
+	font-size: large;
+	margin-left: 4%;
+}
+
+/* submenu image container 4 images layout  */
+.Flat_mega_menu ul li .submenu.img_container.half li {
+	clear: both
+}
+
+/* submenu image container with four column list items layout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col li {
+	float: right;
+	clear: none;
+	width: 97.5%;
+}
+
+/* submenu image container with four column title class layout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col .title {
+	width: 97%;
+}
+
+/* submenu image container with four column title class layout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col .title:nth-child(2) {
+	display:none;
+}
+
+/* submenu image container with four column a tag lyout */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col li a {
+	width: auto;
+	padding-right: 5%;
+}
+
+/* submenu with four column layout */
+.Flat_mega_menu ul li .submenu.four_col {
+	display: none;
+	z-index:999;
+	left: 0px;
+	top: 60px;
+}
+
+/* submenu with four column a tag layout */
+.Flat_mega_menu ul li .submenu.four_col li a {
+	width:auto;
+}
+
+/* submenu with four column title class layout */
+.Flat_mega_menu ul li .submenu.four_col .title{
+	margin-bottom: 16px;
+}
+
+/* social bar submenu layout */
+.Flat_mega_menu ul .social_bar ul {
+	position: absolute;
+	z-index:999;
+	top: 60px;
+	left: 0px;
+	width: 100%;
+	padding: 0px;
+	display: none;
+}
+
+/* social bar list items layout */
+.Flat_mega_menu ul .social_bar ul li {
+	width: 20%;
+	position:relative;
+	margin-left: 4%;
+}
+
+/* social bar a tag layout */
+.Flat_mega_menu ul .social_bar ul li a {
+	width: auto;
+	position: absolute;
+	top: 5px;
+	padding-right: 5%;
+	opacity: .5;
+	left: 0%;
+}
+
+/* user_login + search_bar class layout */
+.Flat_mega_menu ul .user_login,
+.Flat_mega_menu ul .search_bar {
+	width: 100%;
+	float: right;
+	background: #F0AD4E;
+}
+/* search bar layout */
+.Flat_mega_menu ul .search_bar ul {
+	width: 100%;
+	position: absolute;
+	z-index:999;
+	display: none;
+}
+
+/* search bar input text field layout */
+.Flat_mega_menu ul .search_bar ul form input:first-child {
+	width: 71.5%;
+	margin: 17px 1% 17px 4%;
+	font-size: medium;
+}
+
+/* search bar submit button layout */
+.Flat_mega_menu ul .search_bar ul form input:last-child {
+	width: 18%;
+	position: relative;
+	top: 1px;
+	height: 48px;
+}
+
+/* user login form layout */
+.Flat_mega_menu ul .user_login ul {
+	position: absolute;
+	z-index:999;
+	left: 0px;
+	padding: 0px;
+	display: none;
+}
+
+/* user login form table layout */
+.Flat_mega_menu ul .user_login table{
+	width:100%
+}
+/* user login form input field layout */
+.Flat_mega_menu ul .user_login table tr:nth-child(2) td input,
+.Flat_mega_menu ul .user_login table tr:nth-child(4) td input {
+	height: 27px;
+	width: 93%;
+}
+
+/* user login form input field layout */
+.Flat_mega_menu ul .user_login table tr:last-child td input {
+	width: 94%;
+	margin-top: 15px;
+	margin-bottom: 18px;
+}
+
+/* user login form table layout */
+.Flat_mega_menu ul .user_login ul form table tr td {
+	text-indent: 3%;
+}
+
+/* mobile button layout */
+.Flat_mega_menu .mobile_button{
+	opacity:0;
+
+}
+
+/* mobile buton + fontawesome icon layout */
+.Flat_mega_menu .mobile_button,
+.Flat_mega_menu .fa.fam-menu {
+	display: block;
+	position: absolute;
+	left: 0px;
+	z-index: 999;
+	height: 30px;
+	width: 9%;
+	cursor:pointer;
+	min-width: 60px;
+}
+
+/* fontawesome icon layout */
+.Flat_mega_menu .fa.fam-menu:before{
+	color: #6c6c6c;
+	font-size: 20px; 
+	
+	position: relative;
+	left: 15px;
+}
+
+/* menu unorder list tag layout */
+.Flat_mega_menu > ul{
+	height:40px;
+	overflow:hidden;
+}
+
+/* menu checkbox button layout */
+.Flat_mega_menu .mobile_button:checked + ul{
+	height:auto;
+	overflow:visible;
+}
+}
+
+@media screen and (max-width:592px){
+
+/* submenu with four column list items layout */
+.Flat_mega_menu ul li .submenu.four_col li {
+	float: right;
+	width: 42%;
+	margin-right: 1%;
+	margin-left: 5%;
+}
+
+/* submenu with four column title class layout */
+.Flat_mega_menu ul li .submenu.four_col .title {
+	margin: 2% 1% 2% 5%;
+}
+
+/* submenu with four column title class layout */
+.Flat_mega_menu ul li .submenu.four_col .title:nth-child(3),
+.Flat_mega_menu ul li .submenu.four_col .title:nth-child(4) {
+	display:none;
+}
+
+/* submenu with four column title class layout */
+.Flat_mega_menu ul li .submenu.four_col .title{
+	margin-bottom: 26px;
+}
+}
+@media screen and (max-width:480px){
+	
+/* social bar list items layout */
+.Flat_mega_menu ul .social_bar ul li {
+	width: 40%;
+	position:relative;
+	margin-left: 4%;
+}
+/* search bar input text field layout */
+.Flat_mega_menu ul .search_bar ul form input:first-child {
+	width: 57.5%;
+	margin: 17px 1% 17px 6%;
+}
+
+/* search bar submit button layout */
+.Flat_mega_menu ul .search_bar ul form input:last-child {
+	width: 27%;
+}
+
+}
+@media screen and (max-width:320px){
+	
+/* submenu image container list items layout */
+.Flat_mega_menu ul li .submenu.img_container li {
+	float: right;
+	width: 81.5%;
+	margin: 2% 8% 55px;
+}
+/* submenu image container title class layout */
+.Flat_mega_menu ul li .submenu.img_container .title {
+	font-size: large;
+	margin-left: 8%;
+}
+
+/* submenu image container with four column  */
+.Flat_mega_menu ul li .submenu.img_container.half .two_col {
+	position: relative;
+	width: 85%;
+	left: 9%;
+	clear:both;
+	padding:0px;
+	top: 48px;
+	border-top: 2px solid #E8E8E8;
+}
+
+/* submenu with four column list items layout */
+.Flat_mega_menu ul li .submenu.four_col li {
+	width: 89%;
+	margin-left: 8%;
+}
+
+/* submenu with four column title class layout */
+.Flat_mega_menu ul li .submenu.four_col .title:nth-child(2) {
+	display:none;
+}
+
+/* social bar list items layout */
+.Flat_mega_menu ul .social_bar ul li {
+	width: 95%;
+	position: relative;
+	margin-left: 8%;
+}
+/* search bar input text field layout */
+.Flat_mega_menu ul .search_bar ul form input:first-child {
+	width: 57.5%;
+	margin: 17px 1% 17px 6%;
+}
+
+/* search bar submit button layout */
+.Flat_mega_menu ul .search_bar ul form input:last-child {
+	width: 27%;
+}
+/* user login form input field layout */
+.Flat_mega_menu ul .user_login table tr:nth-child(2) td input,
+.Flat_mega_menu ul .user_login table tr:nth-child(4) td input {
+	height: 27px;
+	width: 88%;
+}
+
+/* user login form input field layout */
+.Flat_mega_menu ul .user_login table tr:last-child td input {
+	width: 89%;
+	margin-top: 15px;
+	margin-bottom: 18px;
+}
+
+/* user login form table layout */
+.Flat_mega_menu ul .user_login ul form table tr td {
+	text-indent: 5%;
+}
+
+}
