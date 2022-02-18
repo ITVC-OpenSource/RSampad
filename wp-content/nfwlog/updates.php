@@ -276,3 +276,4 @@
 [۲۸/بهمن/۰۰:۲۱:۲۶:۲۷ +۰۳۳۰] No security rules update available.
 [۲۸/بهمن/۰۰:۲۲:۲۵:۱۴ +۰۳۳۰] No security rules update available.
 [۲۸/بهمن/۰۰:۲۳:۳۲:۰۸ +۰۳۳۰] No security rules update available.
+[۳۰/بهمن/۰۰:۰۱:۰۰:۰۸ +۰۳۳۰] No security rules update available.

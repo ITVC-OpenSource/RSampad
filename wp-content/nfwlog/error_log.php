@@ -73,3 +73,4 @@
 [13/Feb/22:20:55:12 +0330] Cannot download security rules: connection error
 [16/Feb/22:20:54:47 +0330] Cannot download security rules: connection error
 [17/Feb/22:17:55:00 +0330] Cannot download security rules: connection error
+[18/Feb/22:21:27:53 +0330] Cannot download security rules: connection error
